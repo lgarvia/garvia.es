@@ -1,9 +1,21 @@
 # Curso 2024–2025
 
+## 📢 Avisos
+- Examen final: 15 de enero
+- Cambio de aula a partir de la sesión 6
+
+## 🧭 Notas del curso
+Material en revisión continua. Algunas transcripciones pueden actualizarse.
+
+---
+
+<!-- AUTO-GENERATED: START -->
+
 ## Transcripciones
-- Grupo A
-- [Sesión 01. Transcripción](./01_transcripciones/a.md)
+  - [Sesión 01 — Introducción](...)
+  - [Sesión 02 — Supervisión](...)
 
 ## Presentaciones
-- [Sesión 01. Introducción](./02_presentaciones/01 - Derecho de los mercados financieros - Introducción.pdf)
+- [Sesión 01 — Introducción](...)
 
+<!-- AUTO-GENERATED: END -->
