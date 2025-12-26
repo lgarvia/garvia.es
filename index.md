@@ -2,11 +2,11 @@
 
 Archivo público de docencia, publicaciones y recursos.
 
-## 📚 Asignaturas
+## 📚 [Asignaturas](./asignaturas/)
 Material docente organizado por asignatura y curso académico.
 
-## 📝 Publicaciones
+## 📝 [Publicaciones](./publicaciones/)
 Artículos, notas y textos públicos.
 
-## 🔗 Recursos
+## 🔗 [Recursos](./recursos/)
 Material complementario, herramientas y lecturas.
