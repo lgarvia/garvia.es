@@ -16,56 +16,73 @@ NUM_PATTERN = re.compile(r"^(\d{2})\s*-\s*(.+)\.pdf$", re.IGNORECASE)
 
 # ---------- Helpers ----------
 
-def extract_date_from_name(name: str) -> datetime:
+def extract_date(name: str) -> datetime:
     match = DATE_PATTERN.search(name)
     if not match:
-        raise ValueError(f"No date found in transcription filename: {name}")
+        raise ValueError(f"No date found in filename: {name}")
     return datetime(
         int(match.group(1)),
         int(match.group(2)),
         int(match.group(3))
     )
 
-def extract_number_from_pdf(name: str) -> int:
+def clean_title(name: str) -> str:
+    stem = Path(name).stem
+    stem = DATE_PATTERN.sub("", stem)
+    stem = stem.replace("_", " ").replace("-", " ")
+    stem = re.sub(r"\bIEB\b", "", stem, flags=re.IGNORECASE)
+    stem = stem.strip()
+    return stem.title()
+
+def extract_number_pdf(name: str) -> int:
     match = NUM_PATTERN.match(name)
     if not match:
         raise ValueError(f"PDF filename does not follow 'NN - name.pdf': {name}")
     return int(match.group(1))
 
-def clean_title(name: str) -> str:
-    stem = Path(name).stem
-    stem = DATE_PATTERN.sub("", stem)
-    stem = NUM_PATTERN.sub(r"\2", stem)
-    stem = stem.replace("_", " ").replace("-", " ").strip()
-    return stem.title()
-
 
 # ---------- Collectors ----------
 
 def collect_transcriptions():
-    result = []
-    if not TRANS_DIR.exists():
-        return result
+    sections = []
 
-    for grupo in sorted(p for p in TRANS_DIR.iterdir() if p.is_dir()):
+    if not TRANS_DIR.exists():
+        return sections
+
+    # 1️⃣ Transcripciones en raíz
+    root_files = []
+    for f in TRANS_DIR.glob("*.md"):
+        root_files.append((extract_date(f.name), f))
+    root_files.sort(key=lambda x: x[0])
+
+    if root_files:
+        sections.append(("Transcripciones", root_files))
+
+    # 2️⃣ Subcarpetas (grupos)
+    for sub in sorted(p for p in TRANS_DIR.iterdir() if p.is_dir()):
         files = []
-        for f in grupo.glob("*.md"):
-            date = extract_date_from_name(f.name)
-            files.append((date, f))
+        for f in sub.glob("*.md"):
+            files.append((extract_date(f.name), f))
         files.sort(key=lambda x: x[0])
-        result.append((grupo.name, files))
-    return result
+
+        if files:
+            title = sub.name.replace("_", " ").title()
+            sections.append((title, files))
+
+    return sections
+
 
 def collect_presentations():
-    result = []
+    items = []
     if not PRES_DIR.exists():
-        return result
+        return items
 
     for f in PRES_DIR.glob("*.pdf"):
-        number = extract_number_from_pdf(f.name)
-        result.append((number, f))
-    result.sort(key=lambda x: x[0])
-    return result
+        num = extract_number_pdf(f.name)
+        items.append((num, f))
+
+    items.sort(key=lambda x: x[0])
+    return items
 
 
 # ---------- Generator ----------
@@ -75,17 +92,17 @@ def generate_block():
 
     # Transcripciones
     lines.append("## Transcripciones")
-    trans = collect_transcriptions()
+    sections = collect_transcriptions()
 
-    if not trans:
+    if not sections:
         lines.append("_No hay transcripciones publicadas._")
     else:
-        for grupo, files in trans:
-            lines.append(f"- **{grupo.replace('_', ' ').title()}**")
+        for title, files in sections:
+            if title != "Transcripciones":
+                lines.append(f"### {title}")
             for _, f in files:
-                title = clean_title(f.name)
-                rel = f"./01_transcripciones/{grupo}/{f.name}"
-                lines.append(f"  - [{title}]({rel})")
+                rel = f"./01_transcripciones/{f.relative_to(TRANS_DIR)}"
+                lines.append(f"- [{clean_title(f.name)}]({rel})")
 
     lines.append("")
 
@@ -97,9 +114,8 @@ def generate_block():
         lines.append("_No hay presentaciones publicadas._")
     else:
         for _, f in pres:
-            title = clean_title(f.name)
             rel = f"./02_presentaciones/{f.name}"
-            lines.append(f"- [{title}]({rel})")
+            lines.append(f"- [{clean_title(f.name)}]({rel})")
 
     return "\n".join(lines)
 
