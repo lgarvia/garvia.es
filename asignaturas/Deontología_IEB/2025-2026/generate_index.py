@@ -34,6 +34,11 @@ def clean_title(name: str) -> str:
     stem = stem.strip()
     return stem.title()
 
+def format_date_title(name: str) -> str:
+    date = extract_date(name).strftime("%d/%m/%Y")
+    title = clean_title(name)
+    return f"{date} - {title}"
+
 def extract_number_pdf(name: str) -> int:
     match = NUM_PATTERN.match(name)
     if not match:
@@ -115,7 +120,7 @@ def generate_block():
                 lines.append(f"### {title}")
             for _, f in files:
                 rel = f"./01_transcripciones/{f.relative_to(TRANS_DIR)}"
-                lines.append(f"- [{clean_title(f.name)}]({rel})")
+                lines.append(f"- [{format_date_title(f.name)}]({rel})")
 
     return "\n".join(lines)
 
