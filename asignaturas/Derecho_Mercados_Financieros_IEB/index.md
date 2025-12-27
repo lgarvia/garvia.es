@@ -1,4 +1,4 @@
-# Derecho de los Mercados Financieros — IEB
+# Derecho de los Mercados Financieros  IEB
 
 Material docente de la asignatura.
 
@@ -9,3 +9,4 @@ Material docente de la asignatura.
 ## Archivo
 
 * Cursos anteriores (en preparación)
+

@@ -1,4 +1,4 @@
-from pathlib import Path
+﻿from pathlib import Path
 import re
 from datetime import datetime
 
@@ -109,7 +109,7 @@ def generate_block():
     lines.append("")
 
     # Transcripciones
-    lines.append("## Resumenes y transcripciones")
+    lines.append("## Resúmenes y transcripciones")
     sections = collect_transcriptions()
 
     if not sections:
@@ -159,3 +159,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+

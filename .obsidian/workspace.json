@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "d36755b860a79984",
+    "type": "split",
+    "children": [
+      {
+        "id": "a716cf4f345f0de4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7dfeeb09cde69a17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "asignaturas/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d253b7bd43d4979a",
+    "type": "split",
+    "children": [
+      {
+        "id": "49a5c06c28e69f5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ede8ee849cd6c706",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "780a635b933ca707",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "15707f6184cb9a62",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "303bdd0308d29139",
+    "type": "split",
+    "children": [
+      {
+        "id": "722a2bdd6472d1e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd04a46cf3c44daf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "asignaturas/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de index"
+            }
+          },
+          {
+            "id": "28f071a68d6dfcfd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "asignaturas/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de index"
+            }
+          },
+          {
+            "id": "8d529066fa54cae8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "c666669994ffec5d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "023b758862124854",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "asignaturas/index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "7dfeeb09cde69a17",
+  "lastOpenFiles": [
+    "asignaturas/Derecho_Mercados_Financieros_IEB/2025-2026/index.md",
+    "asignaturas/Tutela_judicial_efectiva_IEB/2025-2026/index.md",
+    "asignaturas/Tutela_judicial_efectiva_IEB/index.md",
+    "asignaturas/Mercados_Financieros_ICADE/2025-2026/index.md",
+    "asignaturas/Análisis_de_Servicios_Financieros_ICADE/2025-2026/index.md",
+    "asignaturas/Deontología_IEB/2025-2026/index.md",
+    "asignaturas/Fundamentals_Of_Finance_NYU/2025-2026/index.md",
+    "asignaturas/Mercados_Financieros_ICADE/index.md",
+    "asignaturas/Fundamentals_Of_Finance_NYU/index.md",
+    "asignaturas/Derecho_Mercados_Financieros_IEB/index.md",
+    "asignaturas/Deontología_IEB/index.md",
+    "asignaturas/Análisis_de_Servicios_Financieros_ICADE/index.md",
+    "asignaturas/index.md",
+    "index.md",
+    "publicaciones/index 1.md",
+    "publicaciones/index.md",
+    "asignaturas/Tutela_judicial_efectiva_IEB/2025-2026/02_presentaciones/index.md",
+    "asignaturas/Tutela_judicial_efectiva_IEB/2025-2026/01_transcripciones/index.md",
+    "asignaturas/Mercados_Financieros_ICADE/2025-2026/02_presentaciones/index.md",
+    "asignaturas/Mercados_Financieros_ICADE/2025-2026/01_transcripciones/index.md",
+    "asignaturas/Fundamentals_Of_Finance_NYU/2025-2026/02_presentaciones/index.md",
+    "asignaturas/Fundamentals_Of_Finance_NYU/2025-2026/01_transcripciones/index.md",
+    "asignaturas/Derecho_Mercados_Financieros_IEB/2025-2026/02_presentaciones/index.md",
+    "asignaturas/Derecho_Mercados_Financieros_IEB/2025-2026/01_transcripciones/index.md",
+    "asignaturas/Deontología_IEB/2025-2026/02_presentaciones/index.md",
+    "asignaturas/Deontología_IEB/2025-2026/01_transcripciones/index.md",
+    "asignaturas/Fundamentals_Of_Finance_NYU/2025-2026/02_presentaciones/09 - session 09.pdf",
+    "asignaturas/Fundamentals_Of_Finance_NYU/2025-2026/02_presentaciones/08 - session 08.pdf",
+    "asignaturas/Fundamentals_Of_Finance_NYU/2025-2026/02_presentaciones/07 - session 07.pdf",
+    "asignaturas/Fundamentals_Of_Finance_NYU/2025-2026/02_presentaciones/06 - session 06.pdf",
+    "asignaturas/Fundamentals_Of_Finance_NYU/2025-2026/02_presentaciones/05 - session 05.pdf",
+    "asignaturas/Fundamentals_Of_Finance_NYU/2025-2026/02_presentaciones/04 - session 04.pdf",
+    "asignaturas/Fundamentals_Of_Finance_NYU/2025-2026/02_presentaciones/03 - session 03.pdf",
+    "asignaturas/Fundamentals_Of_Finance_NYU/2025-2026/02_presentaciones/02 - session 02.pdf",
+    "asignaturas/Fundamentals_Of_Finance_NYU/2025-2026/02_presentaciones/01 - session 01.pdf",
+    "asignaturas/Fundamentals_Of_Finance_NYU/2025-2026/02_presentaciones/session 06.pdf"
+  ]
+}
