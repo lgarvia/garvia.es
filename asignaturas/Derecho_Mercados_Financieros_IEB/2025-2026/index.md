@@ -32,7 +32,6 @@ Material en revisión continua. Algunas transcripciones pueden actualizarse.
 - [03/12/2025 - Sesión 6 Concursal 1 Introducción Y Preconcurso](./01_transcripciones/2025_12_03_IEB_Sesión_6_Concursal_1_Introducción_y_preconcurso.md)
 - [10/12/2025 - Sesión 7 Concursal 2 Fases Y Agentes](./01_transcripciones/2025_12_10_IEB_Sesión_7_Concursal_2_Fases_y_agentes.md)
 - [15/12/2025 - Sesión 8 Concursal 3 Fase Común](./01_transcripciones/2025_12_15_IEB_Sesión_8_Concursal_3_Fase_común.md)
-- [15/12/2025 - Sesión 9 Exámen Parcial](./01_transcripciones/2025_12_15_IEB_Sesión_9_Exámen_parcial.md)
 - [16/12/2025 - Sesión 8 B Dudas Examen](./01_transcripciones/2025_12_16_IEB_Sesión_8_B_Dudas examen.md)
 
 <!-- AUTO-GENERATED: END -->
