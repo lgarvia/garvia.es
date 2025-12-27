@@ -11,7 +11,18 @@ Material en revisión continua. Algunas transcripciones pueden actualizarse.
 
 <!-- AUTO-GENERATED: START -->
 
-## Transcripciones
+## Presentaciones
+- [01   Derecho De Los Mercados Financieros   Introducción](./02_presentaciones/01 - Derecho de los mercados financieros - Introducción.pdf)
+- [02   Derecho De Los Mercados Financieros   Sector Financiero, Supervisores](./02_presentaciones/02 - Derecho de los mercados financieros - Sector financiero, supervisores.pdf)
+- [03   Derecho De Los Mercados Financieros   Mercados](./02_presentaciones/03 - Derecho de los mercados financieros - Mercados.pdf)
+- [04   Derecho De Los Mercados Financieros   Entidades De Crédito](./02_presentaciones/04 - Derecho de los mercados financieros - Entidades de crédito.pdf)
+- [05   Derecho De Los Mercados Financieros   Entidades Aseguradoras](./02_presentaciones/05 - Derecho de los mercados financieros - Entidades aseguradoras.pdf)
+- [06   Derecho De Los Mercados Financieros   Concursal   Introducción](./02_presentaciones/06 - Derecho de los mercados financieros - Concursal - Introducción.pdf)
+- [07   Derecho De Los Mercados Financieros   Concursal   Procedimiento Y Órganos](./02_presentaciones/07 - Derecho de los mercados financieros - Concursal - Procedimiento y órganos.pdf)
+- [08   Derecho De Los Mercados Financieros   Concursal   Gestión Y Resolución](./02_presentaciones/08 - Derecho de los mercados financieros - Concursal - Gestión y resolución.pdf)
+- [09   Derecho De Los Mercados Financieros   Concursal   Casos Especiales Y Conclusión](./02_presentaciones/09 - Derecho de los mercados financieros - Concursal - Casos especiales y conclusión.pdf)
+
+## Resumenes y transcripciones
 - [Sesión 1 Introducción Al Sistema Financiero](./01_transcripciones/2025_11_17_IEB_Sesión_1_Introducción al sistema financiero.md)
 - [Sesión 2 Bme, Otc Y Supervisores](./01_transcripciones/2025_11_19_IEB_Sesión_2_BME, OTC y Supervisores.md)
 - [Sesión 3 Mercados Financieros](./01_transcripciones/2025_11_24_IEB_Sesión_3_Mercados financieros.md)
@@ -23,16 +34,5 @@ Material en revisión continua. Algunas transcripciones pueden actualizarse.
 - [Sesión 8 Concursal 3 Fase Común](./01_transcripciones/2025_12_15_IEB_Sesión_8_Concursal_3_Fase_común.md)
 - [Sesión 9 Exámen Parcial](./01_transcripciones/2025_12_15_IEB_Sesión_9_Exámen_parcial.md)
 - [Sesión 8 B Dudas Examen](./01_transcripciones/2025_12_16_IEB_Sesión_8_B_Dudas examen.md)
-
-## Presentaciones
-- [01   Derecho De Los Mercados Financieros   Introducción](./02_presentaciones/01 - Derecho de los mercados financieros - Introducción.pdf)
-- [02   Derecho De Los Mercados Financieros   Sector Financiero, Supervisores](./02_presentaciones/02 - Derecho de los mercados financieros - Sector financiero, supervisores.pdf)
-- [03   Derecho De Los Mercados Financieros   Mercados](./02_presentaciones/03 - Derecho de los mercados financieros - Mercados.pdf)
-- [04   Derecho De Los Mercados Financieros   Entidades De Crédito](./02_presentaciones/04 - Derecho de los mercados financieros - Entidades de crédito.pdf)
-- [05   Derecho De Los Mercados Financieros   Entidades Aseguradoras](./02_presentaciones/05 - Derecho de los mercados financieros - Entidades aseguradoras.pdf)
-- [06   Derecho De Los Mercados Financieros   Concursal   Introducción](./02_presentaciones/06 - Derecho de los mercados financieros - Concursal - Introducción.pdf)
-- [07   Derecho De Los Mercados Financieros   Concursal   Procedimiento Y Órganos](./02_presentaciones/07 - Derecho de los mercados financieros - Concursal - Procedimiento y órganos.pdf)
-- [08   Derecho De Los Mercados Financieros   Concursal   Gestión Y Resolución](./02_presentaciones/08 - Derecho de los mercados financieros - Concursal - Gestión y resolución.pdf)
-- [09   Derecho De Los Mercados Financieros   Concursal   Casos Especiales Y Conclusión](./02_presentaciones/09 - Derecho de los mercados financieros - Concursal - Casos especiales y conclusión.pdf)
 
 <!-- AUTO-GENERATED: END -->

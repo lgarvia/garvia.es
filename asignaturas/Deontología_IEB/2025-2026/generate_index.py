@@ -90,8 +90,21 @@ def collect_presentations():
 def generate_block():
     lines = []
 
+    # Presentaciones
+    lines.append("## Presentaciones")
+    pres = collect_presentations()
+
+    if not pres:
+        lines.append("_No hay presentaciones publicadas._")
+    else:
+        for _, f in pres:
+            rel = f"./02_presentaciones/{f.name}"
+            lines.append(f"- [{clean_title(f.name)}]({rel})")
+
+    lines.append("")
+
     # Transcripciones
-    lines.append("## Transcripciones")
+    lines.append("## Resumenes y transcripciones")
     sections = collect_transcriptions()
 
     if not sections:
@@ -103,19 +116,6 @@ def generate_block():
             for _, f in files:
                 rel = f"./01_transcripciones/{f.relative_to(TRANS_DIR)}"
                 lines.append(f"- [{clean_title(f.name)}]({rel})")
-
-    lines.append("")
-
-    # Presentaciones
-    lines.append("## Presentaciones")
-    pres = collect_presentations()
-
-    if not pres:
-        lines.append("_No hay presentaciones publicadas._")
-    else:
-        for _, f in pres:
-            rel = f"./02_presentaciones/{f.name}"
-            lines.append(f"- [{clean_title(f.name)}]({rel})")
 
     return "\n".join(lines)
 

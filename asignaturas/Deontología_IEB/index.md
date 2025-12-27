@@ -1,4 +1,4 @@
-# Derecho de los Mercados Financieros — IEB
+# Deontología — IEB
 
 Material docente de la asignatura.
 
