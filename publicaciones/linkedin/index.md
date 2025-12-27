@@ -1,5 +1,17 @@
 # Publicaciones en LinkedIn
 
+- **25/12/2025** — El engaño de la hucha de las pensiones  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_el-enga%C3%B1o-de-la-hucha-de-las-pensiones-la-activity-7410049036252229632-HGKl)
+
+- **25/12/2025** — Tenemos emociones paleolíticas, instituciones medievales y tecnología de dioses  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_tenemos-emociones-paleol%C3%ADticas-instituciones-activity-7409985169916366848-fyW6)
+
+- **23/12/2025** — Europa mueve ficha en pagos. Y no es menor  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_europa-mueve-ficha-en-pagos-y-no-es-menor-activity-7409164694390947841-xqjZ)
+
+- **22/12/2025** — La vivienda, la verdadera Lotería  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_la-vivienda-la-verdadera-loter%C3%ADa-el-gordo-activity-7408842681679810560-LSm8)
+
 - **18/12/2025** — Cuando un banco central admite que no sabe  
   📌 [Ver publicación](https://www.linkedin.com/posts/garvia_cuando-un-banco-central-admite-que-no-sabe-activity-7407425986859802624-H02E)
 
