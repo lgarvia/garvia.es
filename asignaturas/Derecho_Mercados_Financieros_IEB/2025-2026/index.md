@@ -8,7 +8,7 @@
 Material en revisión continua. Algunas transcripciones pueden actualizarse.
 
 ## 📒 Cuaderno NoteBookLM de la asignatura
-https://notebooklm.google.com/notebook/351e7051-09e2-4ef7-ba39-36836584c3c9
+[Enlace al cuaderno](https://notebooklm.google.com/notebook/351e7051-09e2-4ef7-ba39-36836584c3c9)
 
 ---
 

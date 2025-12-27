@@ -4,9 +4,8 @@ Material docente de la asignatura.
 
 ## Curso activo
 
-* [2025–2026](./2025-2026/)
+* Ningún curso en activo
 
 ## Archivo
 
-* Cursos anteriores (en preparación)
-
+* [2025–2026](./2025-2026/)
