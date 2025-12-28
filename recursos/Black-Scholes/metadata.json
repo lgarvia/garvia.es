@@ -1,0 +1,5 @@
+{
+  "name": "Simulador Black-Scholes Educativo",
+  "description": "Una herramienta interactiva para visualizar y entender el modelo de valoración de opciones Black-Scholes, con gráficos dinámicos y controles en tiempo real.",
+  "requestFramePermissions": []
+}
