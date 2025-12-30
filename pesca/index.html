@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SpanishPredator - Mapa de Pesca</title>
+    <meta name="description"
+        content="Mapa interactivo de pesca en España. Encuentra embalses, ríos, especies y registra tus capturas.">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Font Awesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+
+<body>
+    <div class="app-container">
+        <!-- Sidebar / Control Panel -->
+        <aside class="sidebar glass-panel">
+            <div class="logo-area">
+                <h1>Spanish<span class="highlight">Predator</span></h1>
+                <p>Domina las aguas</p>
+            </div>
+
+            <div class="controls">
+                <div class="input-group">
+                    <label for="province-select"><i class="fa-solid fa-map-location-dot"></i> Selecciona
+                        Provincia</label>
+                    <select id="province-select">
+                        <option value="">Todas las provincias</option>
+                        <!-- Options will be populated by JS -->
+                    </select>
+                </div>
+
+                <div id="location-list" class="location-list">
+                    <!-- List of rivers/reservoirs will appear here -->
+                    <div class="empty-state">
+                        <p>Selecciona una provincia o explora el mapa</p>
+                    </div>
+                </div>
+            </div>
+
+            <button id="btn-add-catch" class="btn-primary glow-effect"><i class="fa-solid fa-plus"></i> Registrar
+                Captura</button>
+        </aside>
+
+        <!-- Main Map Area -->
+        <main id="map-container">
+            <div id="map"></div>
+        </main>
+
+        <!-- Details Panel (Hidden by default) -->
+        <div id="details-panel" class="details-panel glass-panel hidden">
+            <button id="close-details" class="close-btn"><i class="fa-solid fa-xmark"></i></button>
+            <div class="details-header">
+                <h2 id="detail-title">Nombre del Lugar</h2>
+                <span id="detail-type" class="badge">Tipo</span>
+            </div>
+
+            <div class="details-content">
+                <div class="section species-section">
+                    <h3><i class="fa-solid fa-fish"></i> Especies</h3>
+                    <div id="species-list" class="tags-container">
+                        <!-- Species tags -->
+                    </div>
+                </div>
+
+                <div class="section catches-section">
+                    <h3><i class="fa-solid fa-camera"></i> Capturas Recientes</h3>
+                    <div id="catches-list" class="catches-grid">
+                        <!-- Catches cards -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Add Catch Modal -->
+        <div id="modal-overlay" class="modal-overlay hidden">
+            <div class="modal glass-panel">
+                <div class="modal-header">
+                    <h2>Registrar Nueva Captura</h2>
+                    <button id="close-modal" class="close-btn"><i class="fa-solid fa-xmark"></i></button>
+                </div>
+                <form id="catch-form">
+                    <div class="form-group">
+                        <label for="catch-location">Lugar</label>
+                        <select id="catch-location" required>
+                            <option value="">Selecciona un lugar...</option>
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="catch-date">Fecha</label>
+                        <input type="date" id="catch-date" required>
+                    </div>
+
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label for="catch-species">Especie</label>
+                            <input type="text" id="catch-species" placeholder="Ej. Lucio" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="catch-size">Tamaño/Peso</label>
+                            <input type="text" id="catch-size" placeholder="Ej. 75cm / 3kg">
+                        </div>
+                    </div>
+
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label for="catch-lure">Señuelo/Cebo</label>
+                            <input type="text" id="catch-lure" placeholder="Ej. Crankbait rojo">
+                        </div>
+                        <div class="form-group">
+                            <label for="catch-modality">Modalidad</label>
+                            <select id="catch-modality">
+                                <option value="spinning">Spinning</option>
+                                <option value="casting">Casting</option>
+                                <option value="mosca">Pesca a Mosca</option>
+                                <option value="fondo">Fondo</option>
+                                <option value="corcheo">Corcheo</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <button type="submit" class="btn-submit">Guardar Captura</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+</body>
+
+</html>
