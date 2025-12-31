@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #000;
+    font-family: 'Inter', sans-serif;
+    /* Fallback if not loaded, but it's fine for demo */
+}
+
+canvas {
+    display: block;
+}
+
+.overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    pointer-events: none;
+    /* Let clicks pass through to canvas */
+    color: white;
+    mix-blend-mode: exclusion;
+    /* Cool effect over particles */
+}
+
+h1 {
+    font-size: 5rem;
+    font-weight: 900;
+    letter-spacing: 10px;
+    margin: 0;
+    text-shadow: 0 0 30px rgba(255, 255, 255, 0.5);
+}
+
+.highlight {
+    color: #00ffff;
+    text-shadow: 0 0 30px #00ffff;
+}
+
+p {
+    font-size: 1.2rem;
+    letter-spacing: 3px;
+    opacity: 0.7;
+    margin-top: 1rem;
+    text-transform: uppercase;
+}
