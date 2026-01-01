@@ -464,9 +464,16 @@ function updateSimulation() {
 }
 
 // Drag & Drop
-dropZone.addEventListener('dragover', e => e.preventDefault());
+dropZone.addEventListener('dragover', e => {
+    e.preventDefault();
+    dropZone.classList.add('drag-over');
+});
+dropZone.addEventListener('dragleave', () => {
+    dropZone.classList.remove('drag-over');
+});
 dropZone.addEventListener('drop', e => {
     e.preventDefault();
+    dropZone.classList.remove('drag-over');
     const type = e.dataTransfer.getData('type');
     if (!type) return;
     const rect = dropZone.getBoundingClientRect();
