@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Arduino Lab - Antigravity</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./style.css">
+  </head>
+  <body>
+    <div id="app">
+      <header>
+        <div class="logo">
+          <span class="icon">⚡</span>
+          <h1>Arduino Lab</h1>
+        </div>
+        <nav>
+          <button class="nav-btn active" data-tab="circuits">Circuitos 3D</button>
+          <button class="nav-btn" data-tab="inventory">Inventario</button>
+          <button class="nav-btn" data-tab="workbench">Taller</button>
+        </nav>
+      </header>
+
+      <main>
+        <!-- TAB 1: CIRCUITOS 3D -->
+        <section id="circuits" class="tab-content active">
+          <div class="circuit-container">
+            <div class="circuit-info">
+              <h2>Visualizador de Circuitos</h2>
+              <p>Explora cómo conectar tus componentes en 3D.</p>
+              <div class="circuit-list">
+                <button class="circuit-select active" data-circuit="blink">Blink LED</button>
+                <button class="circuit-select" data-circuit="servo">Servo Control</button>
+                <button class="circuit-select" data-circuit="motor">Base Motor DC</button>
+              </div>
+              <div class="code-preview">
+                <h3>Código Arduino</h3>
+                <pre><code id="arduino-code">// Selecciona un circuito
+void setup() {
+  pinMode(13, OUTPUT);
+}
+void loop() {
+  digitalWrite(13, HIGH);
+  delay(1000);
+  digitalWrite(13, LOW);
+  delay(1000);
+}</code></pre>
+              </div>
+            </div>
+            <div id="canvas-container"></div> <!-- Three.js mounts here -->
+          </div>
+        </section>
+
+        <!-- TAB 2: INVENTARIO -->
+        <section id="inventory" class="tab-content">
+          <div class="inventory-header">
+            <h2>Tu Kit de Electrónica</h2>
+            <div class="search-bar">
+              <input type="text" placeholder="Buscar componente..." id="search-inventory">
+            </div>
+          </div>
+          <div class="inventory-grid" id="inventory-grid">
+            <!-- Items injected by JS -->
+          </div>
+        </section>
+
+        <!-- TAB 3: TALLER -->
+        <section id="workbench" class="tab-content">
+          <div class="workbench-layout">
+            <aside class="sidebar-components">
+              <h3>Componentes</h3>
+              <div class="draggable-list" id="component-source">
+                <!-- Draggables injected by JS -->
+              </div>
+            </aside>
+            <div class="assembly-area">
+              <div class="base-plate" id="drop-zone">
+                <p class="placeholder-text">Arrastra componentes aquí para montar tu circuito</p>
+                <!-- Dropped items go here -->
+              </div>
+            </div>
+          </div>
+        </section>
+      </main>
+    </div>
+    <script type="module" src="/main.js"></script>
+  </body>
+</html>
