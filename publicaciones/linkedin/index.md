@@ -1,5 +1,29 @@
 # Publicaciones en LinkedIn
 
+- **04/01/2026** — Venezuela - el día de después de la caida de Maduro.  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_venezuela-el-d%C3%ADa-de-despu%C3%A9s-de-la-caida-activity-7413539052618035200-KU9T)
+
+- **03/01/2026** — Venezuela - la doctrina de la extracción  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_venezuela-la-doctrina-de-la-extracci%C3%B3n-activity-7413284363657703424-dIVb)
+
+- **02/01/2026** — ¿Cuál es el siguiente paso?  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_cu%C3%A1l-es-el-siguiente-paso-wuji-tech-es-activity-7412959502158700545-xBk9)
+
+- **01/01/2026** — ¿Vamos a expulsar a los inmigrantes?  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_vamos-a-expulsar-a-los-inmigrantes-genial-activity-7412508401630498816-K1ha)
+
+- **31/12/2025** — Antigravity… una absoluta revolución  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_antigravity-una-absoluta-revoluci%C3%B3n-es-activity-7412161399499468800-6DTG/)
+
+- **30/12/2025** — 2026 el gran cambio y el fin de la ficción  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_2026-el-gran-cambio-y-el-fin-de-la-ficci%C3%B3n-activity-7411755210760568832-Sn-T)
+
+- **29/12/2025** — Balance 2025 El mundo se recoloca  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_balance-2025-el-mundo-se-recoloca-2025-activity-7411328778016026624-DhL7)
+
+- **25/12/2025** — El engaño de la hucha de las pensiones  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_el-enga%C3%B1o-de-la-hucha-de-las-pensiones-la-activity-7410049036252229632-HGKl)
+
 - **25/12/2025** — El engaño de la hucha de las pensiones  
   📌 [Ver publicación](https://www.linkedin.com/posts/garvia_el-enga%C3%B1o-de-la-hucha-de-las-pensiones-la-activity-7410049036252229632-HGKl)
 
@@ -1382,3 +1406,4 @@
 
 - **16/11/2014** — Ricky K.  
   📌 [Ver publicación](https://www.linkedin.com/posts/garvia_why-do-some-organisations-find-this-difficult-activity-5939775919139880960-7pCz)
+
