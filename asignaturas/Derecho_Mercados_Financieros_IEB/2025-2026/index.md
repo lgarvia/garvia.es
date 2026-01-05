@@ -1,7 +1,8 @@
 # Curso 2025-2026
 
 ## 📢 Avisos
-- Exámen final: 28 de enero a las 11h.
+- Examen parcial liberatorio concursal: 12 de enero a las 12:40
+- Examen final: 28 de enero a las 11h.
 - Asignatura archivada
 
 ## 🧭 Notas del curso

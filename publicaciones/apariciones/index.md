@@ -1,13 +1,13 @@
 # Apariciones en medios
 
-- **01/12/2026** — Intereconomía · A media sesión · A Media Sesión: actualidad, análisis económico con Luis Garvía e inversión inmobiliaria con Urbanitae 01/01/2026 2  
-  📌 [Ver intervención](https://www.intereconomia.com/programas/a-media-sesion-actualidad-analisis-economico-con-luis-garvia-e-inversion-inmobiliaria-con-urbanitae-01-01-2026-2-20260101-1213/)
-
 - **02/01/2026** — Antena 3 · Ahora Sonsoles · "Deberíamos jubilarnos a los 72 años": un experto en economía advierte  
   📌 [Ver intervención](https://www.antena3.com/programas/y-ahora-sonsoles/deberiamos-jubilarnos-72-anos-experto-economia-advierte_202601026957fb7bea66eb7353248e48.html?so=so%3Asour-twitter%3Acn-yahorasonsoles)
 
 - **02/01/2026** — Antena 3 · Ahora Sonsoles · "Deberíamos jubilarnos a los 72 años": un experto en economía advierte  
   📌 [Ver intervención](https://www.atresplayer.com/antena3/programas/y-ahora-sonsoles/enero-2026/02-01-26-deberiamos-jubilarnos-a-los-72-anos-un-experto-en-economia-advierte_6957f443b2fc62000736b0a5/)
+
+- **01/01/2026** — Intereconomía · A media sesión · A Media Sesión: actualidad, análisis económico con Luis Garvía e inversión inmobiliaria con Urbanitae 01/01/2026 2  
+  📌 [Ver intervención](https://www.intereconomia.com/programas/a-media-sesion-actualidad-analisis-economico-con-luis-garvia-e-inversion-inmobiliaria-con-urbanitae-01-01-2026-2-20260101-1213/)
 
 - **31/12/2025** — Intereconomía · A media sesión · A Media Sesión: actualidad, análisis económico con Luis Garvía e inversión inmobiliaria con Urbanitae 31/12/2025 2  
   📌 [Ver intervención](https://www.intereconomia.com/programas/a-media-sesion-actualidad-analisis-economico-con-luis-garvia-e-inversion-inmobiliaria-con-urbanitae-31-12-2025-2-20251231-1234/)
