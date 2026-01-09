@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "publicaciones/linkedin/index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
@@ -185,12 +185,13 @@
   },
   "active": "7dfeeb09cde69a17",
   "lastOpenFiles": [
+    "publicaciones/linkedin/index.md",
+    "NotebookLM_Index.md",
     "publicaciones/apariciones/index.md",
     "asignaturas/Tutela_judicial_efectiva_IEB/2025-2026/index.md",
     "asignaturas/Deontología_IEB/2025-2026/index.md",
     "asignaturas/Derecho_Mercados_Financieros_IEB/2025-2026/index.md",
     "asignaturas/Derecho_Mercados_Financieros_IEB/index.md",
-    "publicaciones/linkedin/index.md",
     "publicaciones/index.md",
     "publicaciones/apariciones",
     "publicaciones/linkedin",
@@ -212,7 +213,6 @@
     "asignaturas/Fundamentals_Of_Finance_NYU/2025-2026/02_presentaciones/index.md",
     "asignaturas/Fundamentals_Of_Finance_NYU/2025-2026/01_transcripciones/index.md",
     "asignaturas/Derecho_Mercados_Financieros_IEB/2025-2026/02_presentaciones/index.md",
-    "asignaturas/Derecho_Mercados_Financieros_IEB/2025-2026/01_transcripciones/index.md",
     "asignaturas/Fundamentals_Of_Finance_NYU/2025-2026/02_presentaciones/09 - session 09.pdf",
     "asignaturas/Fundamentals_Of_Finance_NYU/2025-2026/02_presentaciones/08 - session 08.pdf",
     "asignaturas/Fundamentals_Of_Finance_NYU/2025-2026/02_presentaciones/07 - session 07.pdf",
