@@ -4,8 +4,8 @@ Asignaturas impartidas tanto a alumnos nacionales como internacionales desde la 
 
 ## Curso activo
 
-- [Mercados financieros - ICADE](./2025-2026 - E2)
+- [Mercados financieros - ICADE - E2](./2025-2026 - E2)
 
 ## Archivo
 
-* [2025–2026](./2025-2026 - Internacional/)
+* [2025–2026 - Financial Markets - Bussiness in Spain](./2025-2026 - Internacional/)
