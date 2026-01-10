@@ -1,5 +1,19 @@
 # Publicaciones en LinkedIn
 
+<!-- AUTO-GENERATED: START -->
+
+- **09/01/2026** — Venezuela - Balance una semana después  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_venezuela-balance-una-semana-despu%C3%A9s-venezuela-activity-7415391693811949569-wey6)
+
+- **08/01/2026** — Perfiles imprescindibles - El Futuro, Aquí y Ahora  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_perfiles-imprescindibles-el-futuro-aqu%C3%AD-activity-7415102085257687040-ONoR)
+
+- **06/01/2026** — Venezuela - Doctrina Monroe 2.0  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_venezuela-doctrina-monroe-20-la-detenci%C3%B3n-activity-7414313359568846848-5vov)
+
+- **05/01/2026** — China - la pieza que encaja el puzzle  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_china-la-pieza-que-encaja-el-puzzle-mientras-activity-7413884348577259520-_ztH)
+
 - **04/01/2026** — Venezuela - el día de después de la caida de Maduro.  
   📌 [Ver publicación](https://www.linkedin.com/posts/garvia_venezuela-el-d%C3%ADa-de-despu%C3%A9s-de-la-caida-activity-7413539052618035200-KU9T)
 
@@ -1407,3 +1421,4 @@
 - **16/11/2014** — Ricky K.  
   📌 [Ver publicación](https://www.linkedin.com/posts/garvia_why-do-some-organisations-find-this-difficult-activity-5939775919139880960-7pCz)
 
+<!-- AUTO-GENERATED: END -->

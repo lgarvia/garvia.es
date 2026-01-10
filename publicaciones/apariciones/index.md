@@ -1,5 +1,11 @@
 # Apariciones en medios
 
+- **09/01/2026** — Cope · Adrián García · Acuerdo Sánchez - Junqueras  
+  📌 [Ver intervención](https://www.cope.es/emisoras/extremadura/podcast/episodios/12-20h-09-ene-2026-herrera-cope-extremadura-20260109_3283494)
+
+- **09/01/2026** — Negocios TV · José Vizner · "El cromo real será Taiwán en 2027,coincidiendo con el centenario del Ejército Popular chino”.Garvía  
+  📌 [Ver intervención](https://www.youtube.com/watch?v=bHVl6gc6BFY)
+
 - **02/01/2026** — Antena 3 · Ahora Sonsoles · "Deberíamos jubilarnos a los 72 años": un experto en economía advierte  
   📌 [Ver intervención](https://www.antena3.com/programas/y-ahora-sonsoles/deberiamos-jubilarnos-72-anos-experto-economia-advierte_202601026957fb7bea66eb7353248e48.html?so=so%3Asour-twitter%3Acn-yahorasonsoles)
 
