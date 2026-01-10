@@ -13,6 +13,3 @@ Listado de asignaturas impartidas y archivadas:
 - [Foundations of Finance - NYU](./Foundations_of_Finance_NYU/)
 - [Mercados Financieros - ICADE](./Mercados_Financieros_ICADE/)
 - [Tutela judicial efectiva - IEB](./Tutela_judicial_efectiva_IEB/)
-
-[[asignaturas/Mercados_Financieros_ICADE/2025-2026 - Internacional/index|index]]
-Prueba

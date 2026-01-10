@@ -1,10 +1,10 @@
 # Mercados Financieros  ICADE
 
-Material docente de la asignatura.
+Asignaturas impartidas tanto a alumnos nacionales como internacionales desde la Universidad Pontificia Comillas.
 
 ## Curso activo
 
-- Ningún curso en activo
+- [Mercados financieros - ICADE](./2025-2026 - E2)
 
 ## Archivo
 
