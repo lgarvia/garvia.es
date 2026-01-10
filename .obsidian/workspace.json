@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asignaturas/Mercados_Financieros_ICADE/index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
@@ -185,10 +185,11 @@
   },
   "active": "7dfeeb09cde69a17",
   "lastOpenFiles": [
+    "asignaturas/Derecho_Mercados_Financieros_IEB/2025-2026/index.md",
+    "asignaturas/Mercados_Financieros_ICADE/index.md",
     "asignaturas/Derecho_Mercados_Financieros_IEB/index.md",
     "asignaturas/index.md",
     "asignaturas/Mercados_Financieros_ICADE/2025-2026 - E2/index.md",
-    "asignaturas/Mercados_Financieros_ICADE/index.md",
     "asignaturas/Mercados_Financieros_ICADE/2025-2026 - E2/01_transcripciones/2026_01_14_Mercados_Financieros_Sesión_02.md",
     "asignaturas/Mercados_Financieros_ICADE/2025-2026 - E2/01_transcripciones/2026_01_13_Mercados_Financieros_Sesión_01.md",
     "asignaturas/Mercados_Financieros_ICADE/2025-2026 - E2/02_presentaciones/08 - Lesson 7 - Derivatives.pdf",
@@ -219,7 +220,6 @@
     "asignaturas/Mercados_Financieros_ICADE/2025-2026 - E2/01_transcripciones/2025_09_15_Financial_Markets_Session04_Recap.md",
     "asignaturas/Mercados_Financieros_ICADE/2025-2026 - E2/01_transcripciones/2025_09_10_Financial_Markets_Session03_Recap.md",
     "asignaturas/Mercados_Financieros_ICADE/2025-2026 - E2/01_transcripciones/2025_09_08_Financial_Markets_Session02_Recap.md",
-    "asignaturas/Mercados_Financieros_ICADE/2025-2026 - E2/01_transcripciones/2025_09_01_Financial_Markets_Session_01_Recap.md",
     "asignaturas/Mercados_Financieros_ICADE/2025-2026 - E2/01_transcripciones"
   ]
 }

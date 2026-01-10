@@ -1,6 +1,6 @@
 # garvia.es
 
-Archivo público de docencia, publicaciones y recursos...
+Archivo público de docencia, publicaciones y recursos... [[asignaturas/Derecho_Mercados_Financieros_IEB/2025-2026/index|index]]
 
 ## 📚 [Asignaturas](./asignaturas/)
 Material docente organizado por asignatura y curso académico.
