@@ -2,7 +2,7 @@
 
 Listado de asignaturas en curso:
 - Entorno económico - IEB
-- [Mercados financieros - ICADE](././Mercados_Financieros_ICADE/2025-2026 - E2)
+- [Mercados financieros - ICADE](././Mercados_Financieros_ICADE/2025-2026_-_E2)
 - Foundations of Finance - NYU
 
 Listado de asignaturas impartidas y archivadas:
