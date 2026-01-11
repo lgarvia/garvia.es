@@ -1,8 +1,7 @@
 # Asignaturas
 
 Listado de asignaturas en curso:
-- [Entorno Económico - IEB](Entorno_Económico_IEB/index.md)
-- [Introducción a la Empresa - IEB](Introducción_a_la_Empresa_IEB/2025-2026/index.md)
+- Entorno económico - IEB
 - [Mercados financieros - ICADE](././Mercados_Financieros_ICADE/2025-2026-E2)
 - Foundations of Finance - NYU
 
