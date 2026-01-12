@@ -1,7 +1,3 @@
----
-layout: default
-title: garvia.es
----
 # garvia.es
 
 Archivo público de docencia, publicaciones y recursos... 
