@@ -24,7 +24,7 @@ Material en revisión continua. Algunas transcripciones pueden actualizarse.
 - [01   La Economía Mundial En El Mundo Digital   Entorno Económico 25 26   Luis Garvía](./02_presentaciones/01 - La economía mundial en el mundo digital - Entorno económico 25-26 - Luis Garvía.pdf)
 
 ## Resúmenes y transcripciones
-- [12/01/2026 - Entorno Económico Grupo B Sesión 01](./01_transcripciones/2026_01_12_Entorno_económico_Grupo_B_Sesión_01.md)
+- [12/01/2026 - Entorno Económico Grupo B Sesión 01](./01_transcripciones_grupo_B/2026_01_12_Entorno_económico_Grupo_B_Sesión_01.md)
 
 <!-- AUTO-GENERATED: END -->
 

@@ -119,7 +119,7 @@ def generate_block():
             if title != "Transcripciones":
                 lines.append(f"### {title}")
             for _, f in files:
-                rel = f"./01_transcripciones/{f.relative_to(TRANS_DIR)}"
+                rel = f"./{TRANS_DIR.name}/{f.relative_to(TRANS_DIR)}"
                 lines.append(f"- [{format_date_title(f.name)}]({rel})")
 
     return "\n".join(lines)
