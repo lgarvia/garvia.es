@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asignaturas/Mercados_Financieros_ICADE/2025-2026-E2/index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
@@ -185,6 +185,11 @@
   },
   "active": "7dfeeb09cde69a17",
   "lastOpenFiles": [
+    "asignaturas/Mercados_Financieros_ICADE/2025-2026-E2/index.md",
+    "_layouts/default.html",
+    "_layouts/Nuevo Documento de texto.txt",
+    "_layouts",
+    "Nueva carpeta",
     "asignaturas/Mercados_Financieros_ICADE/2025-2026-Internacional/index.md",
     "asignaturas/Mercados_Financieros_ICADE/index.md",
     "asignaturas/Introducción_a_la_Empresa_IEB/2025-2026/index.md",
@@ -199,12 +204,8 @@
     "asignaturas/Entorno_Económico_IEB/2025-2026/02_presentaciones/00 Introducción al curso - Entorno económico 25-26 - Luis Garvía - Grupo B.pdf",
     "asignaturas/Entorno_Económico_IEB/2025-2026/02_presentaciones/00 Introducción al curso - Entorno económico 25-26 - Luis Garvía - Grupo A.pdf",
     "asignaturas/Entorno_Económico_IEB/2025-2026/02_presentaciones/00 Introducción al curso - Entorno económico 25-26 - Luis Garvía - Grupo C.pdf",
-    "asignaturas/Introducción_a_la_Empresa_IEB/2025-2026/02_presentaciones/00 - Introducción al curso - INTRODUCCION A LA EMPRESA II 25-26 - Luis Garvía.pdf",
-    "asignaturas/Introducción_a_la_Empresa_IEB/2025-2026/02_presentaciones/00 Introducción al curso - INTRODUCCION A LA EMPRESA II 25-26 - Luis Garvía.pdf",
     "asignaturas/index.md",
     "asignaturas/Entorno_Económico_IEB/index.md",
-    "asignaturas/Entorno_Económico_IEB/2025-2026/02_presentaciones/01 - La economía mundial en el mundo digital - Entorno económico 25-26 - Luis Garvía.pdf",
-    "asignaturas/Introducción_a_la_Empresa_IEB/2025-2026/02_presentaciones/01 - La dirección de producción - INTRODUCCION A LA EMPRESA II 25-26 - Luis Garvía.pdf",
     "asignaturas/Introducción_a_la_Empresa_IEB/2025-2026/01_transcripciones/2026_01_15_Introducción_a_la_empresa_Sesión_02.md",
     "asignaturas/Introducción_a_la_Empresa_IEB/2025-2026/01_transcripciones/2026_01_12_Introducción_a_la_empresa_Sesión_01.md",
     "asignaturas/Entorno_Económico_IEB/2025-2026/01_transcripciones_grupo_C/2026_01_15_Entorno_económico_Grupo_C_Sesión_02.md",
@@ -219,7 +220,6 @@
     "asignaturas/Entorno_Económico_IEB/2025-2026/01_transcripciones_grupo_C/2025_11_27_Sesión_12_E2A_2025.md",
     "asignaturas/Entorno_Económico_IEB/2025-2026/01_transcripciones_grupo_C/2025_11_20_Sesión_11_E2A_2025.md",
     "asignaturas/Entorno_Económico_IEB/2025-2026/01_transcripciones_grupo_C/2025_11_13_Sesión_10_E2A_2025.md",
-    "asignaturas/Entorno_Económico_IEB/2025-2026/01_transcripciones_grupo_C/2025_11_06_Sesión_09_E2A_2025.md",
-    "asignaturas/Entorno_Económico_IEB/2025-2026/01_transcripciones_grupo_C/2025_10_23_Sesión_08_E2A_2025.md"
+    "asignaturas/Entorno_Económico_IEB/2025-2026/01_transcripciones_grupo_C/2025_11_06_Sesión_09_E2A_2025.md"
   ]
 }
