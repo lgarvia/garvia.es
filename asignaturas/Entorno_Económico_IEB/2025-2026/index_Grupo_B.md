@@ -25,7 +25,6 @@ Material en revisión continua. Algunas transcripciones pueden actualizarse.
 
 ## Resúmenes y transcripciones
 - [12/01/2026 - Entorno Económico Grupo B Sesión 01](./01_transcripciones/2026_01_12_Entorno_económico_Grupo_B_Sesión_01.md)
-- [14/01/2026 - Entorno Económico Grupo B Sesión 02](./01_transcripciones/2026_01_14_Entorno_económico_Grupo_B_Sesión_02.md)
 
 <!-- AUTO-GENERATED: END -->
 
