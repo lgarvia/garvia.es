@@ -11,7 +11,7 @@ Curso 2025-2026
 Material en revisión continua. Algunas transcripciones pueden actualizarse.
 
 ## 📒 Cuaderno NoteBookLM de la asignatura
-[Enlace al cuaderno](https://notebooklm.google.com/notebook/f85d118a-93b4-4da2-93e3-364865f1d062)
+[Enlace al cuaderno](https://notebooklm.google.com/notebook/b10febf9-acf6-4d5a-a571-848c4794848f)
 
 ---
 

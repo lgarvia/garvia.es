@@ -11,7 +11,7 @@ Curso 2025-2026
 Material en revisión continua. Algunas transcripciones pueden actualizarse.
 
 ## 📒 Cuaderno NoteBookLM de la asignatura
-[Enlace al cuaderno](https://notebooklm.google.com/notebook/f85d118a-93b4-4da2-93e3-364865f1d062)
+[Enlace al cuaderno](https://notebooklm.google.com/notebook/feddc982-4501-4f2a-9fa0-533ebba85470)
 
 ---
 
@@ -19,6 +19,8 @@ Material en revisión continua. Algunas transcripciones pueden actualizarse.
 
 ## Presentaciones
 - [00   Introducción Al Curso   Entorno Económico 25 26   Luis Garvía   Grupo A](./02_presentaciones/00 - Introducción al curso - Entorno económico 25-26 - Luis Garvía - Grupo A.pdf)
+- [00   Introducción Al Curso   Entorno Económico 25 26   Luis Garvía   Grupo B](./02_presentaciones/00 - Introducción al curso - Entorno económico 25-26 - Luis Garvía - Grupo B.pdf)
+- [00   Introducción Al Curso   Entorno Económico 25 26   Luis Garvía   Grupo C](./02_presentaciones/00 - Introducción al curso - Entorno económico 25-26 - Luis Garvía - Grupo C.pdf)
 - [01   La Economía Mundial En El Mundo Digital   Entorno Económico 25 26   Luis Garvía](./02_presentaciones/01 - La economía mundial en el mundo digital - Entorno económico 25-26 - Luis Garvía.pdf)
 
 ## Resúmenes y transcripciones
