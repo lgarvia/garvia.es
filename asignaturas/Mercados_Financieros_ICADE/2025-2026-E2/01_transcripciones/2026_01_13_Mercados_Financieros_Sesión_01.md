@@ -1,14 +1,3 @@
-
----
-titulo: Mercados Financieros (E2) – Sesión 1
-asignatura: Mercados Financieros
-grado: E2 – 3º
-universidad: ICADE
-fecha: 2026-01-13
-duracion: 1h
-profesor: Luis Garvía Vega
----
-
 # Mercados Financieros – Sesión 1  
 **13 de enero de 2026 | 8:27–9:27**
 
