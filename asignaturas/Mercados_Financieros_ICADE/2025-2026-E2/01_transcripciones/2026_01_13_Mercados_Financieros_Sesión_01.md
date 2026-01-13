@@ -235,8 +235,6 @@ La IA no sustituye pensar:
 
 **La transcripción completa de esta sesión se compartirá por el grupo de WhatsApp y estará disponible en el repositorio de la asignatura.**
 
-
-
 # Transcripción
 13 de enero de 2026, 8:27a.m.
 

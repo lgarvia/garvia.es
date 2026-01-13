@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "asignaturas/Mercados_Financieros_ICADE/2025-2026-E2/01_transcripciones/2026_01_13_Mercados_Financieros_Sesión_01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "2026_01_13_Mercados_Financieros_Sesión_01"
             }
           }
         ]
@@ -185,6 +185,8 @@
   },
   "active": "7dfeeb09cde69a17",
   "lastOpenFiles": [
+    "index.md",
+    "asignaturas/Mercados_Financieros_ICADE/2025-2026-E2/01_transcripciones/2026_01_13_Mercados_Financieros_Sesión_01.md",
     "asignaturas/Mercados_Financieros_ICADE/2025-2026-E2/index.md",
     "_layouts/default.html",
     "_layouts/Nuevo Documento de texto.txt",
@@ -197,7 +199,6 @@
     "asignaturas/Entorno_Económico_IEB/2025-2026/index_Grupo_A.md",
     "asignaturas/Entorno_Económico_IEB/2025-2026/index_Grupo_B.md",
     "asignaturas/Entorno_Económico_IEB/2025-2026/index_Grupo_C.md",
-    "index.md",
     "asignaturas/Entorno_Económico_IEB/2025-2026/02_presentaciones/00 - Introducción al curso - Entorno económico 25-26 - Luis Garvía - Grupo B.pdf",
     "asignaturas/Entorno_Económico_IEB/2025-2026/02_presentaciones/00 - Introducción al curso - Entorno económico 25-26 - Luis Garvía - Grupo A.pdf",
     "asignaturas/Entorno_Económico_IEB/2025-2026/02_presentaciones/00 - Introducción al curso - Entorno económico 25-26 - Luis Garvía - Grupo C.pdf",
@@ -219,7 +220,6 @@
     "asignaturas/Entorno_Económico_IEB/2025-2026/index - Grupo A.md",
     "asignaturas/Entorno_Económico_IEB/2025-2026/01_transcripciones_grupo_C/2025_11_27_Sesión_12_E2A_2025.md",
     "asignaturas/Entorno_Económico_IEB/2025-2026/01_transcripciones_grupo_C/2025_11_20_Sesión_11_E2A_2025.md",
-    "asignaturas/Entorno_Económico_IEB/2025-2026/01_transcripciones_grupo_C/2025_11_13_Sesión_10_E2A_2025.md",
-    "asignaturas/Entorno_Económico_IEB/2025-2026/01_transcripciones_grupo_C/2025_11_06_Sesión_09_E2A_2025.md"
+    "asignaturas/Entorno_Económico_IEB/2025-2026/01_transcripciones_grupo_C/2025_11_13_Sesión_10_E2A_2025.md"
   ]
 }
