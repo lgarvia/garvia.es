@@ -6,7 +6,6 @@
 **Centro:** IEB – ADE  
 
 ---
-
 ## 1. Objetivo de la sesión
 
 La sesión inaugural tuvo como objetivo:
