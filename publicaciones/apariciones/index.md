@@ -1,5 +1,38 @@
 # Apariciones en medios
 
+- **16/01/2026** — Capital Radio · Rocio Arviza · "Davos debe evitar la fragmentación mundial", advierte Luis Garvía  
+  📌 [Ver intervención](https://www.capitalradio.es/programas/mercado-abierto/davos-debe-evitar-fragmentacion-mundial-advierte-luis-garvia_143985942.html)
+
+- **16/01/2026** — El Español · Paula Bolinaga Trum · Esther (63), tiene 44 años cotizados y no puede jubilarse: “Me quiero jubilar, pero me quitan un 21% de la pensión”  
+  📌 [Ver intervención](https://www.elespanol.com/sociedad/20260116/esther-anos-cotizados-no-puede-jubilarse-quiero-jubilar-quitan-pension/1003744090021_0.html)
+
+- **15/01/2026** — LNG in Northern BC · Editorial · “We should retire at 72”: Spaniards ‘concerned’ about successive increases in the retirement age  
+  📌 [Ver intervención](https://lnginnorthernbc.ca/2026/01/15/we-should-retire-at-72-spaniards-concerned-about-successive-increases-in-the-retirement-age/)
+
+- **15/01/2026** — RNE · José Luis Dueñas · Nixon y Trump  
+  📌 [Ver intervención](https://www.rtve.es/play/audios/fin-de-mes/fin-mes-cesta-alimentos-vuelve-repuntar/16896274/)
+
+- **15/01/2026** — Noticias Trabajo · Iciar Carballo · Un experto en economía advierte: “Deberíamos jubilarnos a los 72 años para que salieran las cuentas, porque hace 20 años cotizaban 5 por cada pensionista y ahora 2,3”  
+  📌 [Ver intervención](https://noticiastrabajo.huffingtonpost.es/economia/pensiones/un-experto-en-economia-advierte-deberiamos-jubilarnos-a-los-72-anos-para-que-salieran-las-cuentas-porque-hace-20-anos-cotizaban-5-por-cada-pensionista-y-ahora-23/)
+
+- **13/01/2026** — La Vanguardia · Nerea Párraga Frutos · Esther Cabrera, trabajadora de 63 años: ''He cotizado más de 44 años y me quiero jubilar ya, pero la pensión se me quedaría en una quinta parte de lo que estoy cobrando''  
+  📌 [Ver intervención](https://www.lavanguardia.com/pop/clic/20260113/11435923/esther-cabrera-trabajadora-63-anos-cotizado-44-anos-quiero-jubilar-pension-quedaria-quinta-parte-cobrando-mmn.html)
+
+- **13/01/2026** — Intereconomía · A media sesión · Análisis económico con Luis Garvía: ataque frontal de Trump al presidente de la FED y euro digital  
+  📌 [Ver intervención](https://www.intereconomia.com/programas/analisis-economico-con-luis-garvia-ataque-frontal-de-trump-al-presidente-de-la-fed-y-euro-digital-20260113-1256/)
+
+- **13/01/2026** — LinkedIn Noticias · Miguel Ángel Moreno Ramos · Powell y la independencia de los bancos centrales: el análisis  
+  📌 [Ver intervención](https://www.linkedin.com/news/story/powell-y-la-independencia-de-los-bancos-centrales-el-an%C3%A1lisis-6879940/)
+
+- **12/01/2026** — ABC · María Sánchez Palomo · Luis Garvía, economista, sobre el sistema de pensiones: «¿Es justo? No, no lo es, y es que te quitan dinero no porque no hayas cotizado más, sino porque vas a cobrar mucho tiempo»  
+  📌 [Ver intervención](https://www.abc.es/play/television/noticias/luis-garvia-economista-sobre-sistema-pensiones-justo-20260112194853-nt.html)
+
+- **12/01/2026** — Antena 3 · Ahora Sonsoles · Créditos al consumo y pensiones  
+  📌 [Ver intervención](https://www.atresplayer.com/antena3/programas/y-ahora-sonsoles/enero-2026/12-01-26-endeudada-por-los-intereses-abusivos-caimos-en-la-trampa-de-las-tarjetas-revolving-por-pedir-800-euros-debiamos-109000_696524d0a79ad400075b0a38/)
+
+- **11/01/2026** — Negocios TV · José Vizner · "El juego va mucho más allá de Trump, están las tecnológicas, BlackRock, China y Rusia”. Garvía  
+  📌 [Ver intervención](https://www.youtube.com/watch?v=vyhOZm8iMRA)
+
 - **09/01/2026** — Cope · Adrián García · Acuerdo Sánchez - Junqueras  
   📌 [Ver intervención](https://www.cope.es/emisoras/extremadura/podcast/episodios/12-20h-09-ene-2026-herrera-cope-extremadura-20260109_3283494)
 

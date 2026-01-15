@@ -129,7 +129,6 @@ Se introduce **Hieronymus Bosch** y su obra más conocida:
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/The_Garden_of_earthly_delights.jpg/960px-The_Garden_of_earthly_delights.jpg)
 
-![Image](https://content3.cdnprado.net/imagenes/Documentos/imgsem/02/0238/02388242-6d6a-4e9e-a992-e1311eab3609/595dc946-f69f-4b8d-9a44-bad39d88b3e9_832.jpg)
 
 - No se analiza como arte “bonito”.
     

@@ -18,6 +18,7 @@ Material en revisión continua. Algunas transcripciones pueden actualizarse.
 ## Presentaciones
 - [00   Lesson 0   Introduction](./02_presentaciones/00 - Lesson 0 - Introduction.pdf)
 - [01   Lesson 1   Financial System](./02_presentaciones/01 - Lesson 1 - Financial System.pdf)
+- [02   Icade International   Financial Markets   2026   Lesson 2   Monetary Policy](./02_presentaciones/02 - ICADE International - Financial markets - 2026 - Lesson 2 - Monetary Policy.pdf)
 
 ## Resúmenes y transcripciones
 - [13/01/2026 - Mercados Financieros Sesión 01](./01_transcripciones/2026_01_13_Mercados_Financieros_Sesión_01.md)

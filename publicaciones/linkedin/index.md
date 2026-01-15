@@ -1,6 +1,14 @@
 # Publicaciones en LinkedIn
 
 <!-- AUTO-GENERATED: START -->
+- **16/01/2026** — Brutal gráfica, es imposible explicar más en menos espacio  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_brutal-gr%C3%A1fica-es-imposible-explicar-m%C3%A1s-activity-7417808073945374720-J3rB)
+
+- **14/01/2026** — Trump y Nixon - mismo guion  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_trump-y-nixon-mismo-guion-jerome-powell-activity-7417083298230964224-cwlF)
+
+- **13/01/2026** — Powell rompe el silencio institucional en vídeo…  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_powell-rompe-el-silencio-institucional-en-activity-7416720910365380608-yeWG)
 
 - **09/01/2026** — Venezuela - Balance una semana después  
   📌 [Ver publicación](https://www.linkedin.com/posts/garvia_venezuela-balance-una-semana-despu%C3%A9s-venezuela-activity-7415391693811949569-wey6)
