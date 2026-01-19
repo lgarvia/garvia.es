@@ -1,0 +1,5 @@
+{
+  "name": "BondMaster: Simulador Educativo de Bonos",
+  "description": "Una aplicación interactiva y educativa para aprender el cálculo del precio de bonos, la relación inversa entre tipos de interés y precio, y el concepto de Valor Actual Neto (VAN), potenciada por Gemini Pro para explicaciones financieras profundas.",
+  "requestFramePermissions": []
+}

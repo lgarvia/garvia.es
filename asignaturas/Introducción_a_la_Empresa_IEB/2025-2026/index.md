@@ -24,6 +24,7 @@ Material en revisión continua. Algunas transcripciones pueden actualizarse.
 ## Resúmenes y transcripciones
 - [12/01/2026 - Introducción A La Empresa Sesión 01](./01_transcripciones/2026_01_12_Introducción_a_la_empresa_Sesión_01.md)
 - [15/01/2026 - Introducción A La Empresa Sesión 02](./01_transcripciones/2026_01_15_Introducción_a_la_empresa_Sesión_02.md)
+- [19/01/2026 - Introducción A La Empresa Sesión 03](./01_transcripciones/2026_01_19_Introducción_a_la_empresa_Sesión_03.md)
 
 <!-- AUTO-GENERATED: END -->
 
