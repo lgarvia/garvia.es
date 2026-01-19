@@ -1,0 +1,5 @@
+{
+  "name": "FinanceMath Visualizer",
+  "description": "An interactive educational platform designed to teach financial mathematics through 4 progressive levels: Present Value, Perpetuities, Annuities, and the relationship between them.",
+  "requestFramePermissions": []
+}

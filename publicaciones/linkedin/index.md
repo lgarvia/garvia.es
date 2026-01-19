@@ -1,6 +1,21 @@
 # Publicaciones en LinkedIn
 
 <!-- AUTO-GENERATED: START -->
+- **24/01/2026** — LA TRAGEDIA DE LOS COMUNES (y por qué no es un tema ecológico, sino económico y humano)  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_la-tragedia-de-los-comunes-y-por-qu%C3%A9-no-activity-7420758611699593216-HapE)
+
+- **22/01/2026** — Davos y los aranceles  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_davos-y-los-aranceles-lo-que-trump-anuncia-activity-7419982401818304512-Hztw)
+
+- **20/01/2026** — El Bazooka de Europa (se llama ACI)  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_el-bazooka-de-europa-se-llama-aci-mandar-activity-7419375411161108480-2jHc)
+
+- **19/01/2026** — Hoy empieza Davos – ¿Qué podemos esperar?  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_hoy-empieza-davos-qu%C3%A9-podemos-esperar-activity-7418895237550489600-oztS)
+
+- **18/01/2026** — La mayoría está usando la IA como si fuera un Ferrari para ir a por el pan  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_la-mayor%C3%ADa-est%C3%A1-usando-la-ia-como-si-fuera-activity-7418596603676233728-Ae4v)
+
 - **16/01/2026** — Brutal gráfica, es imposible explicar más en menos espacio  
   📌 [Ver publicación](https://www.linkedin.com/posts/garvia_brutal-gr%C3%A1fica-es-imposible-explicar-m%C3%A1s-activity-7417808073945374720-J3rB)
 

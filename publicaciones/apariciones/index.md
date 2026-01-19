@@ -1,5 +1,23 @@
 # Apariciones en medios
 
+- **22/01/2026** — LinkedIn Noticias · Ainhoa Iriberri · Fin a la última amenaza arancelaria de Trump 
+  📌 [Ver intervención](https://www.linkedin.com/news/story/fin-a-la-%C3%BAltima-amenaza-arancelaria-de-trump-8241106/)
+
+- **21/01/2026** — La Vanguardia · Christian Jiménez · Luis Garvía, experto en economía: “Deberíamos jubilarnos a los 72 años para que salgan las cuentas. La esperanza de vida ha subido hasta los 84 años”  
+  📌 [Ver intervención](https://www.lavanguardia.com/cribeo/viral/20260121/11445114/luis-garvia-experto-economia-deberiamos-jubilarnos-72-anos-salgan-cuentas-esperanza-vida-subido-84-anos-mmn.html)
+
+- **21/01/2026** — La Política Online · Milton Merlo · "Trump puede hacer que Europa reaccione, nos empuja a abrir nuevos mercados como Asia o el Mercosur"  
+  📌 [Ver intervención](https://www.lapoliticaonline.com/mexico/internacionales-mx/trump-puede-hacer-que-europa-reaccione-nos-empuja-a-abrir-nuevos-mercados-como-asia-o-el-mercosur/)
+
+- **20/01/2026** — El Correo · G. Cuesta · Las cuentas de una economista para las pensiones: «Deberíamos jubilarnos a los 72 años»  
+  📌 [Ver intervención](https://www.elcorreo.com/economia/tu-economia/cuentas-economista-pensiones-deberiamos-jubilarnos-anos-20260119165302-nt.html)
+
+- **20/01/2026** — Intereconomía · A media sesión · Un año de Trump: poder, aranceles y el gran reto de Europa  
+  📌 [Ver intervención](https://www.youtube.com/watch?v=p5MQlDSzMUI)
+
+- **19/01/2026** — LinkedIn Noticias · Ainhoa Iriberri · Día 2 del World Economic Forum de Davos: previsiones  
+  📌 [Ver intervención](https://www.linkedin.com/news/story/d%C3%ADa-2-del-world-economic-forum-de-davos-previsiones-8220802/)
+
 - **16/01/2026** — Capital Radio · Rocio Arviza · "Davos debe evitar la fragmentación mundial", advierte Luis Garvía  
   📌 [Ver intervención](https://www.capitalradio.es/programas/mercado-abierto/davos-debe-evitar-fragmentacion-mundial-advierte-luis-garvia_143985942.html)
 
