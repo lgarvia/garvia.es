@@ -1,0 +1,5 @@
+{
+  "name": "Markowitz Lab",
+  "description": "An interactive educational tool to explain the Markowitz Portfolio Theory. Users can input stock tickers to generate estimated efficient frontiers and investment opportunity sets using simulated financial data.",
+  "requestFramePermissions": []
+}

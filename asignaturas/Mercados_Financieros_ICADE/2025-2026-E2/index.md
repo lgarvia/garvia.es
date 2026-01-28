@@ -20,9 +20,12 @@ Material en revisión continua. Algunas transcripciones pueden actualizarse.
 - [00   Lesson 0   Introduction](./02_presentaciones/00 - Lesson 0 - Introduction.pdf)
 - [01   Lesson 1   Financial System](./02_presentaciones/01 - Lesson 1 - Financial System.pdf)
 - [02   Lesson 2   Monetary Policy](./02_presentaciones/02 - Lesson 2 - Monetary Policy.pdf)
-- [20   Hiperinflación Alemana Mercados Financieros   Silvia Y Henar](./02_presentaciones/20 - Hiperinflación alemana Mercados Financieros - Silvia y Henar.pdf)
+- [03   Icade International   Financial Markets   2026   Lesson 3   Interest Rate Risk](./02_presentaciones/03 - ICADE International - Financial markets - 2026 - Lesson 3 - Interest rate risk.pdf)
+- [20   Hiperinflación Alemana Mercados Financieros](./02_presentaciones/20 - Hiperinflación alemana Mercados Financieros.pdf)
 - [21   Bretton Woods   Mercados](./02_presentaciones/21 - Bretton Woods - mercados.pdf)
 - [22   Soros](./02_presentaciones/22 - Soros.pdf)
+- [23   Crisis De Islandia](./02_presentaciones/23 - Crisis de Islandia.pdf)
+- [24   Crisis De Deuda Griega](./02_presentaciones/24 - Crisis de deuda griega.pdf)
 
 ## Resúmenes y transcripciones
 - [13/01/2026 - Mercados Financieros Sesión 01](./01_transcripciones/2026_01_13_Mercados_Financieros_Sesión_01.md)
@@ -31,6 +34,10 @@ Material en revisión continua. Algunas transcripciones pueden actualizarse.
 - [21/01/2026 - Mercados Financieros Sesión 04](./01_transcripciones/2026_01_21_Mercados_Financieros_Sesión_04.md)
 - [27/01/2026 - Mercados Financieros Sesión 05](./01_transcripciones/2026_01_27_Mercados_Financieros_Sesión_05.md)
 - [28/01/2026 - Mercados Financieros Sesión 06](./01_transcripciones/2026_01_28_Mercados_Financieros_Sesión_06.md)
+- [03/02/2026 - Mercados Financieros Sesión 07](./01_transcripciones/2026_02_03_Mercados_Financieros_Sesión_07.md)
+- [04/02/2026 - Mercados Financieros Sesión 08](./01_transcripciones/2026_02_04_Mercados_Financieros_Sesión_08.md)
+- [10/02/2026 - Mercados Financieros Sesión 09](./01_transcripciones/2026_02_10_Mercados_Financieros_Sesión_09.md)
+- [11/02/2026 - Mercados Financieros Sesión 10](./01_transcripciones/2026_02_11_Mercados_Financieros_Sesión_10.md)
 
 <!-- AUTO-GENERATED: END -->
 

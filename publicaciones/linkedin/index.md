@@ -1,6 +1,27 @@
 # Publicaciones en LinkedIn
 
 <!-- AUTO-GENERATED: START -->
+- **05/02/2026** — Para el BCE, seguimos en ‘good place’… por ahora.  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_para-el-bce-seguimos-en-good-place-por-activity-7425181352280367104-yXzM)
+
+- **04/02/2026** — Del consejo al rescate - la lección de las cajas  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_del-consejo-al-rescate-la-lecci%C3%B3n-de-las-activity-7424693443685167104-pLx0)
+
+- **03/02/2026** — Nanci Pelosi... ¿es la mejor inversora de la historia?  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_nanci-pelosi-es-la-mejor-inversora-de-activity-7424331055542976513-Rv1R)
+
+- **01/02/2026** — Pensiones, la confusión crece … y el decreto ómnibus no ayuda.  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_pensiones-la-confusi%C3%B3n-crece-y-el-decreto-activity-7423691412401082368-Vxg7)
+
+- **30/01/2026** — Trump nombra a Kevin Warsh para presidir la FED  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_trump-nombra-a-kevin-warsh-para-presidir-activity-7422972944538284032-4m0D)
+
+- **28/01/2026** — La FED ya no lucha contra la inflación  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_fomc-28012026-rueda-de-prensa-activity-7422366833833418752-Ja5A)
+
+- **26/01/2026** — Usa GitHub: de preguntar… a construir  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_usa-github-de-preguntar-a-construir-estas-activity-7421431948406865920-DwYJ)
+
 - **24/01/2026** — LA TRAGEDIA DE LOS COMUNES (y por qué no es un tema ecológico, sino económico y humano)  
   📌 [Ver publicación](https://www.linkedin.com/posts/garvia_la-tragedia-de-los-comunes-y-por-qu%C3%A9-no-activity-7420758611699593216-HapE)
 

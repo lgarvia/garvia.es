@@ -1,5 +1,47 @@
 # Apariciones en medios
 
+- **05/02/2026** — LinkedIn Noticias · Miguel Ángel Moreno Ramos · El BCE mantiene los tipos en pausa: el análisis  
+  📌 [Ver intervención](https://www.linkedin.com/news/story/el-bce-mantiene-los-tipos-en-pausa-el-an%C3%A1lisis-6970964/)
+
+- **03/02/2026** — Cope · José Manuel Nieto · "El plan del Gobierno para limitar el impuesto de sucesiones es un disparate, y luego, si tú tienes hijos en casa y están trabajando, quieren que tributen"  
+  📌 [Ver intervención](https://www.cope.es/actualidad/economia/noticias/plan-gobierno-limitar-impuesto-sucesiones-disparate-luego-tienes-hijos-casa-trabajando-quieren-tributen-20260203_3299556.html)
+
+- **03/02/2026** — Intereconomía · A media sesión · Pensiones, empleo y “fondo soberano”: la economía española entre parches y propaganda  
+  📌 [Ver intervención](https://youtu.be/AcqS1Sw1Vi0)
+
+- **02/02/2026** — Cope · Victoria Ballesteros · El código postal marca tu herencia: de cero a 65.000 euros de impuestos por el mismo patrimonio  
+  📌 [Ver intervención](https://www.cope.es/actualidad/economia/noticias/codigo-postal-marca-herencia-cero-65-000-euros-impuestos-patrimonio-20260202_3298907.amp.html)
+
+- **31/01/2026** — La sexta · Sexta Xplica · Pensiones - Decreto Omnibus  
+  📌 [Ver intervención](https://www.atresplayer.com/lasexta/programas/lasexta-xplica/temporada-2/31-01-26-estados-unidos-despierta_697c8c2475beb90007a43a85/)
+
+- **29/01/2026** — Negocios TV · Rolling Stocks · La FED ya hizo los deberes… ¿y ahora quién sujeta a EEUU?  
+  📌 [Ver intervención](https://youtu.be/DCOGdKK5JB8)
+
+- **29/01/2026** — LinkedIn Noticias · Ainhoa Iriberri · EEUU no baja los tipos de interés: causas y consecuencias  
+  📌 [Ver intervención](https://www.linkedin.com/news/story/eeuu-no-baja-los-tipos-de-inter%C3%A9s-causas-y-consecuencias-8286602/)
+
+- **28/01/2026** — ABC · Ana Beatríz Mico · Luis Garvía, experto en economía, hace esta advertencia sobre la edad de jubilación en España: «Para que salgan las cuentas...»  
+  📌 [Ver intervención](https://www.abc.es/play/television/noticias/luis-garvia-experto-economia-advertencia-sobre-edad-20260128174840-nt.html)
+
+- **28/01/2026** — Intereconomía · Marta Isern · Especial de la FED - Powell mantiene los tipos  
+  📌 [Ver intervención](https://www.youtube.com/watch?v=16RCQ3p_Zjk)
+
+- **27/01/2026** — Intereconomía · A media sesión · Análisis económico con Luis Garvía: acuerdo comercial UE-India y metales preciosos – 27 Jan 2026  
+  📌 [Ver intervención](https://www.intereconomia.com/programas/analisis-economico-con-luis-garvia-acuerdo-comercial-ue-india-y-metales-preciosos-27-jan-2026-20260127-1238/)
+
+- **26/01/2026** — Cope · Herrera en la Cope · Luis Garvía, analista financiero: "Con el impuesto de sucesiones van a pagar, sin duda, las herencias medias porque las grandes fortunas siempre planifican"  
+  📌 [Ver intervención](https://www.cope.es/programas/herrera-en-cope/noticias/luis-garvia-doctor-finanzas-impuesto-sucesiones-pagar-duda-herencias-medias-grandes-fortunas-siempre-planifican-20260126_3292992.html)
+
+- **26/01/2026** — La Vanguardia · Luis Federico Florio · ¿Un paso pendiente para el bitcoin?  
+  📌 [Ver intervención](https://www.lavanguardia.com/dinero/bolsillo/20260127/11448586/bitcoin-precio-oro-valor-refugio.html)
+
+- **25/01/2026** — La Vanguardia · Luis Federico Florio · ¿Un paso pendiente para el bitcoin?  
+  📌 [Ver intervención](https://www.pressreader.com/spain/la-vanguardia-dinero/20260125/281754160734688)
+
+- **25/01/2026** — Noticias Trabajo · Fatima Pazo · Manolo (62), con 46 años cotizados: "Me obligaron a jubilarme antes y han recortado de por vida el 21% de mi pensión"  
+  📌 [Ver intervención](https://noticiastrabajo.huffingtonpost.es/economia/pensiones/manolo-62-tiene-46-anos-cotizados-y-no-puede-jubilarse-estoy-penalizado-de-por-vida-me-quitan-el-21-de-mi-pension/)
+
 - **22/01/2026** — LinkedIn Noticias · Ainhoa Iriberri · Fin a la última amenaza arancelaria de Trump 
   📌 [Ver intervención](https://www.linkedin.com/news/story/fin-a-la-%C3%BAltima-amenaza-arancelaria-de-trump-8241106/)
 
