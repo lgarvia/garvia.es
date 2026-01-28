@@ -1,14 +1,20 @@
 
 import { GoogleGenAI } from "@google/genai";
 
-// Always use named parameter for apiKey and directly access process.env.API_KEY.
-const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
+// Initialize only if API key is present
+const apiKey = process.env.API_KEY;
+const ai = apiKey && apiKey !== 'undefined' ? new GoogleGenAI({ apiKey }) : null;
 
 /**
  * Gets an actuarial explanation from the Gemini model.
  * Uses gemini-3-flash-preview for general text tasks.
  */
 export const getActuarialExplanation = async (prompt: string, lang: 'es' | 'en'): Promise<string> => {
+  if (!ai) {
+    return lang === 'es'
+      ? "El asistente de IA no está configurado (falta la API Key). Por favor, contacta con el administrador."
+      : "The AI assistant is not configured (API Key missing). Please contact the administrator.";
+  }
   try {
     const response = await ai.models.generateContent({
       model: 'gemini-3-flash-preview',
