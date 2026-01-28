@@ -1,6 +1,15 @@
 # Publicaciones en LinkedIn
 
 <!-- AUTO-GENERATED: START -->
+- **30/01/2026** — Trump nombra a Kevin Warsh para presidir la FED  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_trump-nombra-a-kevin-warsh-para-presidir-activity-7422972944538284032-4m0D)
+
+- **28/01/2026** — La FED ya no lucha contra la inflación  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_fomc-28012026-rueda-de-prensa-activity-7422366833833418752-Ja5A)
+
+- **26/01/2026** — Usa GitHub: de preguntar… a construir  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_usa-github-de-preguntar-a-construir-estas-activity-7421431948406865920-DwYJ)
+
 - **24/01/2026** — LA TRAGEDIA DE LOS COMUNES (y por qué no es un tema ecológico, sino económico y humano)  
   📌 [Ver publicación](https://www.linkedin.com/posts/garvia_la-tragedia-de-los-comunes-y-por-qu%C3%A9-no-activity-7420758611699593216-HapE)
 

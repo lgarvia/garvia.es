@@ -20,6 +20,7 @@ Material en revisión continua. Algunas transcripciones pueden actualizarse.
 ## Presentaciones
 - [00   Introducción Al Curso   Introduccion A La Empresa Ii 25 26   Luis Garvía](./02_presentaciones/00 - Introducción al curso - INTRODUCCION A LA EMPRESA II 25-26 - Luis Garvía.pdf)
 - [01   La Dirección De Producción   Introduccion A La Empresa Ii 25 26   Luis Garvía](./02_presentaciones/01 - La dirección de producción - INTRODUCCION A LA EMPRESA II 25-26 - Luis Garvía.pdf)
+- [02   Márketing   Introduccion A La Empresa Ii 25 26   Luis Garvía](./02_presentaciones/02 - Márketing - INTRODUCCION A LA EMPRESA II 25-26 - Luis Garvía.pdf)
 
 ## Resúmenes y transcripciones
 - [12/01/2026 - Introducción A La Empresa Sesión 01](./01_transcripciones/2026_01_12_Introducción_a_la_empresa_Sesión_01.md)

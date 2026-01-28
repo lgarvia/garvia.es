@@ -41,3 +41,10 @@ Una aplicación interactiva diseñada para comprender matemáticas financieras a
 Una herramienta integral para explorar los fundamentos del cálculo actuarial, incluyendo tablas de mortalidad, simulación de anualidades, la ley de los grandes números y teoría del riesgo (simulación de ruina).
 
 👉 **[Abrir Simulador Actuarial](./base-matematicas-actuarial/dist/index.html)**
+
+---
+
+## 7. Markowitz Lab: Teoría de Carteras y CAPM
+Explorador interactivo de la Teoría Moderna de Carteras (MPT) y el Modelo de Valoración de Activos de Capital (CAPM). Permite visualizar la Frontera Eficiente y la Línea del Mercado de Valores (SML).
+
+👉 **[Abrir Markowitz Lab](./Markowitz/dist/index.html)**
