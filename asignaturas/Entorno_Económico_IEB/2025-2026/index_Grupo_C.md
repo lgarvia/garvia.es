@@ -22,8 +22,10 @@ Material en revisión continua. Algunas transcripciones pueden actualizarse.
 - [00   Introducción Al Curso   Entorno Económico 25 26   Luis Garvía   Grupo B](./02_presentaciones/00 - Introducción al curso - Entorno económico 25-26 - Luis Garvía - Grupo B.pdf)
 - [00   Introducción Al Curso   Entorno Económico 25 26   Luis Garvía   Grupo C](./02_presentaciones/00 - Introducción al curso - Entorno económico 25-26 - Luis Garvía - Grupo C.pdf)
 - [01   La Economía Mundial En El Mundo Digital   Entorno Económico 25 26   Luis Garvía](./02_presentaciones/01 - La economía mundial en el mundo digital - Entorno económico 25-26 - Luis Garvía.pdf)
+- [02   Krugman   Un País No Es Una Empresa](./02_presentaciones/02 - Krugman - Un país no es una empresa.pdf)
 - [02   La Economía Española Actual   Entorno Económico 25 26   Luis Garvía](./02_presentaciones/02 - La economía española actual - Entorno económico 25-26 - Luis Garvía.pdf)
 - [03   El Sector Público Español   Entorno Económico 25 26   Luis Garvía](./02_presentaciones/03 - El sector público español - Entorno económico 25-26 - Luis Garvía.pdf)
+- [04   El Sector Exterior Español   Entorno Económico 25 26   Luis Garvía](./02_presentaciones/04 - El sector exterior español - Entorno económico 25-26 - Luis Garvía.pdf)
 
 ## Resúmenes y transcripciones
 - [14/01/2026 - Entorno Económico Grupo C Sesión 01](./01_transcripciones_grupo_C/2026_01_14_Entorno_económico_Grupo_C_Sesión_01.md)
@@ -31,6 +33,8 @@ Material en revisión continua. Algunas transcripciones pueden actualizarse.
 - [21/01/2026 - Entorno Económico Grupo C Sesión 03](./01_transcripciones_grupo_C/2026_01_21_Entorno_económico_Grupo_C_Sesión_03.md)
 - [22/01/2026 - Entorno Económico Grupo C Sesión 04](./01_transcripciones_grupo_C/2026_01_22_Entorno_económico_Grupo_C_Sesión_04.md)
 - [28/01/2026 - Entorno Económico Grupo C Sesión 05](./01_transcripciones_grupo_C/2026_01_28_Entorno_económico_Grupo_C_Sesión_05.md)
+- [04/02/2026 - Entorno Económico Grupo C Sesión 06](./01_transcripciones_grupo_C/2026_02_04_Entorno_económico_Grupo_C_Sesión_06.md)
+- [05/02/2026 - Entorno Económico Grupo C Sesión 07](./01_transcripciones_grupo_C/2026_02_05_Entorno_económico_Grupo_C_Sesión_07.md)
 
 <!-- AUTO-GENERATED: END -->
 

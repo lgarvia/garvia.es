@@ -24,7 +24,7 @@ const Level1PV: React.FC = () => {
       <div className="lg:w-1/3 p-8 border-r border-slate-100 bg-slate-50/30">
         <h2 className="text-2xl font-bold mb-6 text-slate-800">{t.pv.title}</h2>
         <p className="text-slate-600 mb-8">{t.pv.desc}</p>
-        
+
         <FinancialSlider label={t.pv.fv} value={fv} min={1} max={10000} step={1} prefix="$" onChange={setFv} />
         <FinancialSlider label={t.pv.rate} value={i} min={0.1} max={100} step={0.1} suffix="%" onChange={setI} />
         <FinancialSlider label={t.pv.periods} value={n} min={1} max={100} step={1} onChange={setN} />
@@ -39,7 +39,7 @@ const Level1PV: React.FC = () => {
 
       <div className="flex-1 p-8 flex flex-col">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
-          <FormulaCard 
+          <FormulaCard
             title={t.pv.formulaTitle}
             formula={
               <span>
@@ -59,21 +59,26 @@ const Level1PV: React.FC = () => {
           </div>
         </div>
 
-        <div className="flex-1 min-h-[300px] bg-slate-50 rounded-xl border border-slate-100 p-4">
-          <h3 className="text-center text-slate-400 font-semibold mb-4 uppercase text-xs tracking-widest">{t.pv.chartTitle}</h3>
-          <ResponsiveContainer width="100%" height="90%">
-            <BarChart data={data}>
-              <CartesianGrid strokeDasharray="3 3" vertical={false} />
-              <XAxis dataKey="period" />
-              <YAxis />
-              <Tooltip formatter={(value: number) => `$${value.toFixed(2)}`} />
-              <Bar dataKey="value" radius={[4, 4, 0, 0]}>
-                {data.map((entry, index) => (
-                  <Cell key={`cell-${index}`} fill={entry.period === 0 ? '#2563eb' : entry.period === n ? '#94a3b8' : 'transparent'} />
-                ))}
-              </Bar>
-            </BarChart>
-          </ResponsiveContainer>
+        <div className="flex-1 min-h-[300px] md:min-h-[400px] bg-slate-50 rounded-xl border border-slate-100 p-2 md:p-4">
+          <h3 className="text-center text-slate-400 font-semibold mb-4 uppercase text-[10px] md:text-xs tracking-widest">{t.pv.chartTitle}</h3>
+          <div className="h-[250px] md:h-full w-full">
+            <ResponsiveContainer width="100%" height="100%">
+              <BarChart data={data} margin={{ top: 10, right: 10, left: -20, bottom: 0 }}>
+                <CartesianGrid strokeDasharray="3 3" vertical={false} stroke="#e2e8f0" />
+                <XAxis dataKey="period" fontSize={10} tickMargin={5} stroke="#94a3b8" />
+                <YAxis fontSize={10} stroke="#94a3b8" />
+                <Tooltip
+                  contentStyle={{ borderRadius: '12px', border: 'none', boxShadow: '0 10px 15px -3px rgb(0 0 0 / 0.1)' }}
+                  formatter={(value: number) => `$${value.toFixed(2)}`}
+                />
+                <Bar dataKey="value" radius={[4, 4, 0, 0]}>
+                  {data.map((entry, index) => (
+                    <Cell key={`cell-${index}`} fill={entry.period === 0 ? '#2563eb' : entry.period === n ? '#94a3b8' : 'transparent'} />
+                  ))}
+                </Bar>
+              </BarChart>
+            </ResponsiveContainer>
+          </div>
         </div>
       </div>
     </div>

@@ -1,15 +1,29 @@
-
-.trash/asignaturas 1/Análisis_de_Servicios_Financieros_ICADE/
-# Obsidian (estado interno, nunca versionar)
-.obsidian/
-
-# Papelera local
-.trash/
-
-# Archivos temporales / del sistema
+# === ARCHIVOS DE SISTEMA Y TEMPORALES ===
 .DS_Store
 Thumbs.db
-
-# PDFs temporales (opcional, luego afinamos)
 *.tmp
 *.log
+*.bak
+*.swp
+
+# === OBSIDIAN Y PAPELERA ===
+.obsidian/
+.trash/
+.obsidian.trash/
+
+# === NODE.JS / DEPENDENCIAS ===
+# Ignora todas las carpetas node_modules en cualquier nivel de subcarpeta
+**/node_modules/
+node_modules/
+package-lock.json
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# === VISTA PREVIA LOCAL (NUEVO) ===
+VER_WEB_LOCAL.bat
+Local_Preview_Helper.html
+
+# === NOTAS DE DESPLIEGUE ===
+# Mantenemos las carpetas /dist/ porque tus enlaces en el index.md 
+# dependen de esos archivos para que la web funcione en GitHub Pages.
