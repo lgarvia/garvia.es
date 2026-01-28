@@ -21,7 +21,7 @@ export const LanguageContext = createContext<LanguageContextType | undefined>(un
 const AppContent: React.FC = () => {
   const context = useContext(LanguageContext);
   const [showAi, setShowAi] = useState(false);
-  
+
   if (!context) return null;
   const { lang, t, setLang } = context;
 
@@ -32,7 +32,7 @@ const AppContent: React.FC = () => {
         <div className="max-w-6xl mx-auto px-4 py-3 flex justify-between items-center">
           <div className="flex items-center gap-2">
             <div className="bg-blue-600 p-1.5 rounded-lg text-white">
-              < GraduationCap size={20} />
+              <GraduationCap size={20} />
             </div>
             <div>
               <h1 className="text-lg font-bold text-slate-900 leading-none">ActuariaMaster</h1>
@@ -41,7 +41,7 @@ const AppContent: React.FC = () => {
               </p>
             </div>
           </div>
-          
+
           <div className="flex items-center gap-3 sm:gap-6">
             <nav className="hidden md:flex items-center gap-4 text-xs font-bold uppercase tracking-wider text-slate-500">
               <a href="#mortalidad" className="hover:text-blue-600 transition-colors">{t.nav.mortality}</a>
@@ -51,13 +51,13 @@ const AppContent: React.FC = () => {
             </nav>
 
             <div className="flex items-center bg-slate-100 p-1 rounded-full border border-slate-200">
-              <button 
+              <button
                 onClick={() => setLang('es')}
                 className={`px-3 py-1 text-[10px] font-black rounded-full transition-all ${lang === 'es' ? 'bg-white text-blue-600 shadow-sm' : 'text-slate-400'}`}
               >
                 ES
               </button>
-              <button 
+              <button
                 onClick={() => setLang('en')}
                 className={`px-3 py-1 text-[10px] font-black rounded-full transition-all ${lang === 'en' ? 'bg-white text-blue-600 shadow-sm' : 'text-slate-400'}`}
               >
@@ -70,7 +70,7 @@ const AppContent: React.FC = () => {
 
       {/* Main Content */}
       <main className="flex-1 max-w-5xl mx-auto w-full px-4 sm:px-6 py-8 sm:py-12">
-        
+
         {/* Hero Section - Centered and more compact */}
         <section className="mb-16 text-center max-w-3xl mx-auto">
           <h2 className="text-3xl sm:text-5xl font-black text-slate-900 mb-4 tracking-tight leading-[1.1]">
@@ -81,13 +81,13 @@ const AppContent: React.FC = () => {
           </p>
           <div className="flex flex-wrap gap-2 justify-center">
             <div className="flex items-center gap-1.5 bg-blue-50 text-blue-700 px-3 py-1.5 rounded-full text-xs font-bold border border-blue-100">
-              <BarChart3 size={14}/> {t.hero.badge1}
+              <BarChart3 size={14} /> {t.hero.badge1}
             </div>
             <div className="flex items-center gap-1.5 bg-emerald-50 text-emerald-700 px-3 py-1.5 rounded-full text-xs font-bold border border-emerald-100">
-              <Shield size={14}/> {t.hero.badge2}
+              <Shield size={14} /> {t.hero.badge2}
             </div>
             <div className="flex items-center gap-1.5 bg-indigo-50 text-indigo-700 px-3 py-1.5 rounded-full text-xs font-bold border border-indigo-100">
-              <BookOpen size={14}/> {t.hero.badge3}
+              <BookOpen size={14} /> {t.hero.badge3}
             </div>
           </div>
         </section>
@@ -116,7 +116,7 @@ const AppContent: React.FC = () => {
             <AiAssistant />
           </div>
         )}
-        <button 
+        <button
           onClick={() => setShowAi(!showAi)}
           className="ml-auto bg-indigo-600 text-white p-4 rounded-full shadow-2xl hover:bg-indigo-700 transition-all transform hover:scale-105 flex items-center justify-center"
         >
@@ -128,7 +128,7 @@ const AppContent: React.FC = () => {
       <footer className="bg-slate-900 text-white mt-12 sm:mt-24 py-12">
         <div className="max-w-6xl mx-auto px-4 text-center">
           <p className="text-slate-400 text-xs sm:text-sm mb-4 italic max-w-md mx-auto">
-            {lang === 'es' 
+            {lang === 'es'
               ? '"En un mundo de riesgos, el actuario es el arquitecto de la seguridad financiera."'
               : '"In a world of risk, the actuary is the architect of financial security."'}
           </p>

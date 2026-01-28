@@ -40,4 +40,4 @@ Una aplicación interactiva diseñada para comprender matemáticas financieras a
 ## 6. ActuariaMaster: Simulador de Matemáticas Actuariales
 Una herramienta integral para explorar los fundamentos del cálculo actuarial, incluyendo tablas de mortalidad, simulación de anualidades, la ley de los grandes números y teoría del riesgo (simulación de ruina).
 
-👉 **[Abrir Simulador Actuarial](./Base%20matemáticas%20actuarial/dist/index.html)**
+👉 **[Abrir Simulador Actuarial](./base-matematicas-actuarial/dist/index.html)**
