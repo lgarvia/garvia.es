@@ -4,8 +4,7 @@ import { MortalityChart } from './components/MortalityChart';
 import { AnnuitySimulator } from './components/AnnuitySimulator';
 import { LawOfLargeNumbers } from './components/LawOfLargeNumbers';
 import { RiskTheorySimulator } from './components/RiskTheorySimulator';
-import { AiAssistant } from './components/AiAssistant';
-import { GraduationCap, Shield, BarChart3, BookOpen, MessageSquare } from 'lucide-react';
+import { GraduationCap, Shield, BarChart3, BookOpen } from 'lucide-react';
 import { translations } from './translations';
 
 type Language = 'es' | 'en';
@@ -20,7 +19,6 @@ export const LanguageContext = createContext<LanguageContextType | undefined>(un
 
 const AppContent: React.FC = () => {
   const context = useContext(LanguageContext);
-  const [showAi, setShowAi] = useState(false);
 
   if (!context) return null;
   const { lang, t, setLang } = context;
@@ -108,21 +106,6 @@ const AppContent: React.FC = () => {
           </section>
         </div>
       </main>
-
-      {/* Floating AI Assistant UI */}
-      <div className="fixed bottom-6 right-6 z-50">
-        {showAi && (
-          <div className="mb-4 w-[350px] sm:w-[400px]">
-            <AiAssistant />
-          </div>
-        )}
-        <button
-          onClick={() => setShowAi(!showAi)}
-          className="ml-auto bg-indigo-600 text-white p-4 rounded-full shadow-2xl hover:bg-indigo-700 transition-all transform hover:scale-105 flex items-center justify-center"
-        >
-          <MessageSquare size={24} />
-        </button>
-      </div>
 
       {/* Footer */}
       <footer className="bg-slate-900 text-white mt-12 sm:mt-24 py-12">

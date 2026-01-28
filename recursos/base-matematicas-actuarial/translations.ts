@@ -59,12 +59,6 @@ export const translations = {
       loadingDesc: "Spread que absorbe desviaciones.",
       targetDesc: "Confianza del 99.95%, estándar regulatorio."
     },
-    ai: {
-      title: "Asistente Actuarial",
-      welcome: "Hola, soy tu asistente experto en ciencias actuariales. ¿Tienes alguna duda sobre mortalidad, rentas vitalicias o teoría del riesgo?",
-      thinking: "El experto está analizando...",
-      placeholder: "Pregunta sobre matemáticas actuariales..."
-    }
   },
   en: {
     nav: {
@@ -125,11 +119,5 @@ export const translations = {
       loadingDesc: "Spread to absorb negative deviations.",
       targetDesc: "99.95% confidence level standard."
     },
-    ai: {
-      title: "Actuarial Assistant",
-      welcome: "Hello, I am your actuarial science expert assistant. Do you have any questions about mortality, life annuities, or risk theory?",
-      thinking: "The expert is analyzing...",
-      placeholder: "Ask about actuarial math..."
-    }
   }
 };
