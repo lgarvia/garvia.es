@@ -1,5 +1,11 @@
 # Apariciones en medios
 
+- **13/02/2026** — El periódico de España · Irene Pérez Toribio · Así es la letra pequeña del Impuesto de Sucesiones: esto es lo que cuesta heredar 500.000 euros en Madrid  
+  📌 [Ver intervención](https://www.epe.es/es/madrid/20260213/impuesto-de-sucesiones-madrid-herencia-cuota-pago-dv-126794425)
+
+- **10/02/2026** — Intereconomía · A media sesión · Análisis económico con Luis Garvía: inversión de las grandes tecnológicas y propuestas de Macron  
+  📌 [Ver intervención](https://www.intereconomia.com/programas/analisis-economico-con-luis-garvia-inversion-de-las-grandes-tecnologicas-y-propuestas-de-macron-20260210-1251/)
+
 - **05/02/2026** — LinkedIn Noticias · Miguel Ángel Moreno Ramos · El BCE mantiene los tipos en pausa: el análisis  
   📌 [Ver intervención](https://www.linkedin.com/news/story/el-bce-mantiene-los-tipos-en-pausa-el-an%C3%A1lisis-6970964/)
 

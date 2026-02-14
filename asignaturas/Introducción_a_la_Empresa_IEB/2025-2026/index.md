@@ -32,6 +32,8 @@ Material en revisión continua. Algunas transcripciones pueden actualizarse.
 - [05/02/2026 - Introducción A La Empresa Sesión 07](./01_transcripciones/2026_02_05_Introducción_a_la_empresa_Sesión_07.md)
 - [09/02/2026 - Introducción A La Empresa Sesión 08](./01_transcripciones/2026_02_09_Introducción_a_la_empresa_Sesión_08.md)
 - [12/02/2026 - Introducción A La Empresa Sesión 09](./01_transcripciones/2026_02_12_Introducción_a_la_empresa_Sesión_09.md)
+- [16/02/2026 - Introducción A La Empresa Sesión 10](./01_transcripciones/2026_02_16_Introducción_a_la_empresa_Sesión_10.md)
+- [19/02/2026 - Introducción A La Empresa Sesión 11](./01_transcripciones/2026_02_19_Introducción_a_la_empresa_Sesión_11.md)
 
 <!-- AUTO-GENERATED: END -->
 
