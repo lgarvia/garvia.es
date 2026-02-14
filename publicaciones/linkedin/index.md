@@ -1,6 +1,27 @@
 # Publicaciones en LinkedIn
 
 <!-- AUTO-GENERATED: START -->
+- **21/02/2026** — Aranceles, Tribunal Supremo y Midterms. Más dudas que certezas  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_aranceles-tribunal-supremo-y-midterms-m%C3%A1s-activity-7430900521734934528-EZgB)
+
+- **19/02/2026** — Palantir - Momentum vs. Michael Burry  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_palantir-momentum-vs-michael-burry-antes-activity-7430030863884754944-vkXz)
+
+- **16/02/2026** — 2026. el año de las mayores salidas a bolsa de la historia.  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_2026-el-a%C3%B1o-de-las-mayores-salidas-a-bolsa-activity-7429042097745244160-ZwH_)
+
+- **13/02/2026** — El tsunami supersónico - la tesis de Elon Musk  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_el-tsunami-supers%C3%B3nico-la-tesis-que-est%C3%A1-activity-7428177483306315776-bqp_)
+
+- **11/02/2026** — Japón, Sanae Takaichi y las Abenomics  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_jap%C3%B3n-sanae-takaichi-y-las-abenomics-jap%C3%B3n-activity-7427230158451023872-dWSP)
+
+- **10/02/2026** — La mayor inversión jamás vista… financiada a pulmón  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_la-mayor-inversi%C3%B3n-jam%C3%A1s-vista-financiada-activity-7426874931210268673-hx-T)
+
+- **08/02/2026** — Super Bowl LX - La máquina de generar valor  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_super-bowl-lx-la-m%C3%A1quina-de-generar-valor-activity-7426345647030562816-Q2aP)
+
 - **05/02/2026** — Para el BCE, seguimos en ‘good place’… por ahora.  
   📌 [Ver publicación](https://www.linkedin.com/posts/garvia_para-el-bce-seguimos-en-good-place-por-activity-7425181352280367104-yXzM)
 

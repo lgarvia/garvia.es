@@ -1,5 +1,20 @@
 # Apariciones en medios
 
+- **20/02/2026** — Intereconomía · Pulso Geopolítico · El mundo ya ha cambiado: IA, deuda y el fin del orden económico tradicional  
+  📌 [Ver intervención](https://youtu.be/HkHy1sK359o?si=PWNh8IuavAqFYlxW)
+
+- **20/02/2026** — Cope · Herrera en la Cope · Luis Garvía, analista financiero: "Las hipotecas son más baratas en España, el problema es que los sueldos son más bajos y hay más presión fiscal"  
+  📌 [Ver intervención](https://www.cope.es/programas/herrera-en-cope/audios/luis-garvia-analista-financiero-hipotecas-son-baratas-espana-resto-europa-problema-sueldos-son-bajos-hay-presion-fiscal-20260220_3310912.html)
+
+- **16/02/2026** — Capital Radio · Xelena Niedbala · España acumula un déficit estructural de 680.000 viviendas  
+  📌 [Ver intervención](https://www.capitalradio.es/noticias/economia/espana-acumula-un-deficit-estructural-680000-viviendas_144035157.html)
+
+- **13/02/2026** — El periódico de España · Irene Pérez Toribio · Así es la letra pequeña del Impuesto de Sucesiones: esto es lo que cuesta heredar 500.000 euros en Madrid  
+  📌 [Ver intervención](https://www.epe.es/es/madrid/20260213/impuesto-de-sucesiones-madrid-herencia-cuota-pago-dv-126794425)
+
+- **10/02/2026** — Intereconomía · A media sesión · Análisis económico con Luis Garvía: inversión de las grandes tecnológicas y propuestas de Macron  
+  📌 [Ver intervención](https://www.intereconomia.com/programas/analisis-economico-con-luis-garvia-inversion-de-las-grandes-tecnologicas-y-propuestas-de-macron-20260210-1251/)
+
 - **05/02/2026** — LinkedIn Noticias · Miguel Ángel Moreno Ramos · El BCE mantiene los tipos en pausa: el análisis  
   📌 [Ver intervención](https://www.linkedin.com/news/story/el-bce-mantiene-los-tipos-en-pausa-el-an%C3%A1lisis-6970964/)
 

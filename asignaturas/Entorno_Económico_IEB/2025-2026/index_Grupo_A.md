@@ -27,6 +27,8 @@ Material en revisión continua. Algunas transcripciones pueden actualizarse.
 - [03   El Sector Público Español   Entorno Económico 25 26   Luis Garvía](./02_presentaciones/03 - El sector público español - Entorno económico 25-26 - Luis Garvía.pdf)
 - [04   El Sector Exterior Español   Entorno Económico 25 26   Luis Garvía](./02_presentaciones/04 - El sector exterior español - Entorno económico 25-26 - Luis Garvía.pdf)
 - [05   El Sector Financiero   Política Monetaria   Entorno Económico 25 26   Luis Garvía](./02_presentaciones/05 - El sector financiero - Política monetaria - Entorno económico 25-26 - Luis Garvía.pdf)
+- [06   El Sector Financiero   Geopolítica   Entorno Económico 25 26   Luis Garvía](./02_presentaciones/06 - El sector financiero - Geopolítica - Entorno económico 25-26 - Luis Garvía.pdf)
+- [07   La Actual Crisis Energética  Entorno Económico 25 26   Luis Garvía](./02_presentaciones/07 - La actual crisis energética- Entorno económico 25-26 - Luis Garvía.pdf)
 
 ## Resúmenes y transcripciones
 - [14/01/2026 - Entorno Económico Grupo A Sesión 01](./01_transcripciones_grupo_A/2026_01_14_Entorno_económico_Grupo_A_Sesión_01.md)
@@ -38,6 +40,10 @@ Material en revisión continua. Algunas transcripciones pueden actualizarse.
 - [06/02/2026 - Entorno Económico Grupo A Sesión 07](./01_transcripciones_grupo_A/2026_02_06_Entorno_económico_Grupo_A_Sesión_07.md)
 - [11/02/2026 - Entorno Económico Grupo A Sesión 08](./01_transcripciones_grupo_A/2026_02_11_Entorno_económico_Grupo_A_Sesión_08.md)
 - [13/02/2026 - Entorno Económico Grupo A Sesión 09](./01_transcripciones_grupo_A/2026_02_13_Entorno_económico_Grupo_A_Sesión_09.md)
+- [18/02/2026 - Entorno Económico Grupo A Sesión 10](./01_transcripciones_grupo_A/2026_02_18_Entorno_económico_Grupo_A_Sesión_10.md)
+- [20/02/2026 - Entorno Económico Grupo A Sesión 11](./01_transcripciones_grupo_A/2026_02_20_Entorno_económico_Grupo_A_Sesión_11.md)
+- [25/02/2026 - Entorno Económico Grupo A Sesión 12](./01_transcripciones_grupo_A/2026_02_25_Entorno_económico_Grupo_A_Sesión_12.md)
+- [27/02/2026 - Entorno Económico Grupo A Sesión 13](./01_transcripciones_grupo_A/2026_02_27_Entorno_económico_Grupo_A_Sesión_13.md)
 
 <!-- AUTO-GENERATED: END -->
 

@@ -35,6 +35,7 @@ Material en revisión continua. Algunas transcripciones pueden actualizarse.
 - [09/02/2026 - Sesión 06 Mugrf Gestión Riesgos Empresa 01](./01_transcripciones/2026_02_09_Sesión_06_MUGRF_Gestión_Riesgos_Empresa_01.md)
 - [10/02/2026 - Sesión 07 Mugrf Gestión Riesgos Empresa 02](./01_transcripciones/2026_02_10_Sesión_07_MUGRF_Gestión_Riesgos_Empresa_02.md)
 - [12/02/2026 - Sesión 08 Mugrf Gestión Riesgos Empresa 03](./01_transcripciones/2026_02_12_Sesión_08_MUGRF_Gestión_Riesgos_Empresa_03.md)
+- [17/02/2026 - Sesión 09 Mugrf Gestión Riesgos Empresa 04](./01_transcripciones/2026_02_17_Sesión_09_MUGRF_Gestión_Riesgos_Empresa_04.md)
 
 <!-- AUTO-GENERATED: END -->
 

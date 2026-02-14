@@ -3,7 +3,9 @@
 Curso 2025-2026
 
 ## 📢 Avisos
-- Ninguno
+- Visita a BME: 2 de marzo
+- Examen parcial: 4 de marzo
+- Examen final: 6 de mayo
 
 ## 🧭 Notas del curso
 Material en revisión continua. Algunas transcripciones pueden actualizarse.
@@ -34,5 +36,9 @@ Material en revisión continua. Algunas transcripciones pueden actualizarse.
 - [04/02/2026 - Nyu Foundations Of Finance Session 06](./01_transcripciones/2026_02_04_NYU_Foundations_of_Finance_Session_06.md)
 - [09/02/2026 - Nyu Foundations Of Finance Session 07](./01_transcripciones/2026_02_09_NYU_Foundations_of_Finance_Session_07.md)
 - [11/02/2026 - Nyu Foundations Of Finance Session 08](./01_transcripciones/2026_02_11_NYU_Foundations_of_Finance_Session_08.md)
+- [16/02/2026 - Nyu Foundations Of Finance Session 09](./01_transcripciones/2026_02_16_NYU_Foundations_of_Finance_Session_09.md)
+- [18/02/2026 - Nyu Foundations Of Finance Session 10](./01_transcripciones/2026_02_18_NYU_Foundations_of_Finance_Session_10.md)
+- [23/02/2026 - Nyu Foundations Of Finance Session 11](./01_transcripciones/2026_02_23_NYU_Foundations_of_Finance_Session_11.md)
+- [25/02/2026 - Nyu Foundations Of Finance Session 12](./01_transcripciones/2026_02_25_NYU_Foundations_of_Finance_Session_12.md)
 
 <!-- AUTO-GENERATED: END -->
