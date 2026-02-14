@@ -27,3 +27,11 @@ Local_Preview_Helper.html
 # === NOTAS DE DESPLIEGUE ===
 # Mantenemos las carpetas /dist/ porque tus enlaces en el index.md 
 # dependen de esos archivos para que la web funcione en GitHub Pages.
+
+# === SCRIPTS LOCALES DE ASIGNATURAS ===
+**/generate_index.py
+**/generate_index.bat
+**/generate_index_*.py
+**/generate_index_*.bat
+**/generate_index *.bat
+**/__pycache__/
