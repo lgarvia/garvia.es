@@ -3,7 +3,9 @@
 Curso 2025-2026
 
 ## 📢 Avisos
-- Ninguno
+- Visita a BME: 2 de marzo
+- Examen parcial: 4 de marzo
+- Examen final: 6 de mayo
 
 ## 🧭 Notas del curso
 Material en revisión continua. Algunas transcripciones pueden actualizarse.
