@@ -26,7 +26,9 @@ import {
 } from 'chart.js';
 import { Line } from 'react-chartjs-2';
 // @ts-ignore
-import jStat from 'jstat';
+import * as jStatModule from 'jstat';
+
+const jStat = (jStatModule.default || jStatModule.jStat || jStatModule) as any;
 
 ChartJS.register(
   CategoryScale,
@@ -296,6 +298,8 @@ export default function App() {
     let xMax = 5;
     let step = 0.1;
 
+    if (!jStat || !jStat.normal) return { labels: [], datasets: [] };
+
     switch (activeDist) {
       case 'normal':
         xMin = params.mu - 4 * params.sigma;
@@ -403,8 +407,8 @@ export default function App() {
                 key={dist.id}
                 onClick={() => setActiveDist(dist.id)}
                 className={`p-4 flex items-center gap-4 text-left transition-all ${activeDist === dist.id
-                  ? 'bg-white/10 border-white/20'
-                  : 'bg-transparent border-transparent hover:bg-white/5'
+                    ? 'bg-white/10 border-white/20'
+                    : 'bg-transparent border-transparent hover:bg-white/5'
                   } rounded-xl border`}
               >
                 <div
