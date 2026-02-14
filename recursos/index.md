@@ -13,9 +13,8 @@ En esta sección encontrarás programas y simuladores interactivos desarrollados
 
 ## 📊 Fundamentos y Estadística
 
-<details>
+<details markdown="1">
 <summary>📘 <b>Matemáticas Financieras y Probabilidad</b></summary>
-<br>
 
 ### 📑 01. Valor Actual, Perpetuidades y Anualidades
 > 4 niveles progresivos para comprender la base de las matemáticas financieras.
@@ -46,9 +45,8 @@ En esta sección encontrarás programas y simuladores interactivos desarrollados
 
 *Haz clic en cada sección para desplegar los simuladores disponibles:*
 
-<details>
+<details markdown="1">
 <summary>📗 <b>Renta Fija (Bonos y Sensibilidad)</b></summary>
-<br>
 
 ### 📑 04. BondMaster: Simulador Educativo de Bonos
 > Cálculo del precio de bonos, relación inversa entre tipos de interés y precio, y concepto de VAN.
@@ -71,9 +69,8 @@ En esta sección encontrarás programas y simuladores interactivos desarrollados
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>📙 <b>Renta Variable (Teoría de Carteras y Diversificación)</b></summary>
-<br>
 
 ### 📑 07. Markowitz: El Poder de la Diversificación (NUEVO)
 > Simulador de diversificación con 2 activos. Permite visualizar cómo la correlación física altera la curvatura de la frontera eficiente y el beneficio de reducción de riesgo.
@@ -96,9 +93,8 @@ En esta sección encontrarás programas y simuladores interactivos desarrollados
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>📕 <b>Derivados (Opciones Financieras)</b></summary>
-<br>
 
 ### 📑 10. Introducción a las Opciones Financieras
 > Conceptos básicos sobre opciones Call y Put. Visualización de posiciones compradoras (Long) y vendedoras (Short), Payoff al vencimiento y cálculo de beneficio/pérdida.
@@ -138,9 +134,8 @@ En esta sección encontrarás programas y simuladores interactivos desarrollados
 
 ## 🛡️ Gestión de Riesgos y Actuaria
 
-<details>
+<details markdown="1">
 <summary>📓 <b>Métricas de Riesgo y Seguros</b></summary>
-<br>
 
 ### 📑 14. VaR & Expected Shortfall Lab
 > Explorador dinámico para el cálculo del Valor en Riesgo (VaR) y Expected Shortfall (ES) mediante metodologías paramétricas y simulaciones de Monte Carlo. Fundamental para entender el riesgo de cola y la solvencia.
@@ -162,9 +157,8 @@ En esta sección encontrarás programas y simuladores interactivos desarrollados
 
 ## ⚙️ Otros
 
-<details>
+<details markdown="1">
 <summary>📁 <b>Mecanismos y Visualizaciones</b></summary>
-<br>
 
 ### 📑 16. Mecanismos y Levas (Pablete)
 > Visualización interactiva sobre el funcionamiento de levas y mecanismos mecánicos.
