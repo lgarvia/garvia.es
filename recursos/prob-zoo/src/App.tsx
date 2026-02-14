@@ -68,6 +68,7 @@ interface Transl {
   description: string;
   useCase: string;
   didYouKnow: string;
+  selectDist: string;
   distributions: Record<string, DistributionContent>;
 }
 
@@ -80,9 +81,10 @@ const CONTENT: Record<Lang, Transl> = {
     description: "Descripción",
     useCase: "Caso de uso real",
     didYouKnow: "¿Sabías que?",
+    selectDist: "Selecciona una función",
     distributions: {
       normal: {
-        name: "Normal (Opcional)",
+        name: "Normal (Z)",
         shortDesc: "La madre de todas las distribuciones.",
         desc: "Simétrica y con forma de campana. El Teorema Central del Límite dice que casi cualquier suma de cosas acaba pareciéndose a esto.",
         use: "Precios de activos, estaturas, errores de medición.",
@@ -176,6 +178,7 @@ const CONTENT: Record<Lang, Transl> = {
     description: "Description",
     useCase: "Real-world usage",
     didYouKnow: "Did you know?",
+    selectDist: "Select a function",
     distributions: {
       normal: {
         name: "Normal (Z)",
@@ -318,7 +321,7 @@ export default function App() {
         xMin = 0; xMax = Math.exp(params.mu + 3 * params.sigma);
         break;
       case 'poisson':
-        xMin = 0; xMax = Math.max(20, params.lambda * 3);
+        xMin = 0; xMax = Math.max(20, params.lambda * 4);
         step = 1;
         break;
       case 'pareto':
@@ -367,7 +370,7 @@ export default function App() {
     plugins: {
       legend: { display: false },
       tooltip: {
-        backgroundColor: '#1e293b',
+        backgroundColor: '#1e292d',
         titleFont: { family: 'Outfit', size: 14 },
         bodyFont: { family: 'Outfit', size: 12 },
         padding: 12,
@@ -385,56 +388,46 @@ export default function App() {
     <div className="min-h-screen p-4 md:p-8 flex flex-col gap-6 max-w-7xl mx-auto">
       {/* Header */}
       <header className="flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
-        <div>
+        <div className="w-full md:w-auto">
           <h1 className="text-3xl md:text-4xl title-gradient">{t.title}</h1>
           <p className="text-text-muted mt-1">{t.subtitle}</p>
         </div>
-        <button
-          onClick={() => setLang(lang === 'es' ? 'en' : 'es')}
-          className="flex items-center gap-2 px-4 py-2 bg-white/5 hover:bg-white/10 rounded-full border border-white/10"
-        >
-          <Globe className="w-4 h-4" />
-          {t.changeLang}
-        </button>
+
+        <div className="flex items-center gap-3 w-full md:w-auto">
+          {/* Mobile Selector Dropdown */}
+          <div className="relative flex-grow lg:hidden">
+            <select
+              value={activeDist}
+              onChange={(e) => setActiveDist(e.target.value)}
+              className="custom-select"
+            >
+              {DISTRIBUTION_METADATA.map(dist => (
+                <option key={dist.id} value={dist.id}>
+                  {t.distributions[dist.id].name}
+                </option>
+              ))}
+            </select>
+          </div>
+
+          <button
+            onClick={() => setLang(lang === 'es' ? 'en' : 'es')}
+            className="flex items-center gap-2 px-4 py-2 bg-white/5 hover:bg-white/10 rounded-full border border-white/10 whitespace-nowrap"
+          >
+            <Globe className="w-4 h-4" />
+            <span className="hidden sm:inline">{t.changeLang}</span>
+            <span className="sm:hidden">{lang === 'es' ? 'EN' : 'ES'}</span>
+          </button>
+        </div>
       </header>
 
       <div className="grid grid-cols-1 lg:grid-cols-12 gap-6 flex-grow">
-        {/* Sidebar Selector */}
-        <aside className="lg:col-span-3 glass-panel p-6 overflow-y-auto max-h-[calc(100vh-200px)] custom-scrollbar">
-          <div className="flex flex-col gap-3">
-            {DISTRIBUTION_METADATA.map((dist) => (
-              <button
-                key={dist.id}
-                onClick={() => setActiveDist(dist.id)}
-                className={`p-4 flex items-center gap-4 text-left transition-all ${activeDist === dist.id
-                    ? 'bg-white/10 border-white/20'
-                    : 'bg-transparent border-transparent hover:bg-white/5'
-                  } rounded-xl border`}
-              >
-                <div
-                  className="distribution-icon"
-                  style={{ backgroundColor: `${dist.color}22`, color: dist.color }}
-                >
-                  {dist.icon}
-                </div>
-                <div>
-                  <div className="font-semibold text-sm">{t.distributions[dist.id].name}</div>
-                  <div className="text-xs text-text-muted truncate w-32">
-                    {t.distributions[dist.id].shortDesc}
-                  </div>
-                </div>
-              </button>
-            ))}
-          </div>
-        </aside>
-
-        {/* Main Content */}
-        <main className="lg:col-span-6 flex flex-col gap-6">
+        {/* Main Content Area (Left on Desktop) */}
+        <main className="lg:col-span-9 flex flex-col gap-6">
           <div className="glass-panel p-6 flex-grow min-h-[400px]">
             <Line data={chartData} options={options} />
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {/* Parameters */}
             <div className="glass-panel p-6">
               <div className="flex items-center gap-2 mb-4 text-primary">
@@ -481,33 +474,56 @@ export default function App() {
                 </p>
               </div>
             </div>
-          </div>
-        </main>
 
-        {/* Info Area */}
-        <aside className="lg:col-span-3 flex flex-col gap-6">
-          <div className="glass-panel p-6">
-            <h2 className="text-xl font-bold mb-4 flex items-center gap-2">
-              {t.distributions[activeDist].name}
-            </h2>
-            <p className="text-sm text-text-muted leading-relaxed">
-              {t.distributions[activeDist].desc}
-            </p>
-          </div>
+            {/* Description / Info */}
+            <div className="glass-panel p-6 md:col-span-2 lg:col-span-1">
+              <h2 className="text-xl font-bold mb-4 flex items-center gap-2">
+                {t.distributions[activeDist].name}
+              </h2>
+              <p className="text-sm text-text-muted leading-relaxed">
+                {t.distributions[activeDist].desc}
+              </p>
 
-          <div className="flex-grow glass-panel p-6 relative overflow-hidden group">
-            <div className="absolute top-0 right-0 p-4 opacity-5 group-hover:opacity-10 transition-opacity">
-              <Layers className="w-32 h-32" />
-            </div>
-            <div className="relative z-10 h-full flex flex-col justify-end">
-              <h4 className="text-xs font-bold text-primary uppercase tracking-widest mb-1">Status</h4>
-              <p className="text-2xl font-bold">Laboratorio Vivo</p>
-              <div className="mt-4 flex gap-2">
-                <div className="w-2 h-2 rounded-full bg-success animate-pulse" />
-                <span className="text-xs text-success font-semibold">Motor Estadístico Activo</span>
+              <div className="mt-8 flex flex-col justify-end">
+                <h4 className="text-xs font-bold text-primary uppercase tracking-widest mb-1">Status</h4>
+                <div className="flex gap-2 items-center">
+                  <div className="w-2 h-2 rounded-full bg-success animate-pulse" />
+                  <span className="text-xs text-success font-semibold">Laboratorio Activo</span>
+                </div>
               </div>
             </div>
           </div>
+        </main>
+
+        {/* Sidebar Selector (Right on Desktop) */}
+        <aside className="hidden lg:flex lg:col-span-3 lg:order-last flex-col gap-3 glass-panel p-6 overflow-y-auto max-h-[calc(100vh-200px)] custom-scrollbar">
+          <div className="flex items-center gap-2 mb-2 px-2 text-text-muted">
+            <Layers className="w-4 h-4" />
+            <span className="text-xs font-bold uppercase tracking-widest">{t.selectDist}</span>
+          </div>
+          {DISTRIBUTION_METADATA.map((dist) => (
+            <button
+              key={dist.id}
+              onClick={() => setActiveDist(dist.id)}
+              className={`p-4 flex items-center gap-4 text-left transition-all ${activeDist === dist.id
+                ? 'bg-white/10 border-white/20'
+                : 'bg-transparent border-transparent hover:bg-white/5'
+                } rounded-xl border`}
+            >
+              <div
+                className="distribution-icon"
+                style={{ backgroundColor: `${dist.color}22`, color: dist.color }}
+              >
+                {dist.icon}
+              </div>
+              <div className="overflow-hidden">
+                <div className="font-semibold text-sm truncate">{t.distributions[dist.id].name}</div>
+                <div className="text-xs text-text-muted truncate">
+                  {t.distributions[dist.id].shortDesc}
+                </div>
+              </div>
+            </button>
+          ))}
         </aside>
       </div>
     </div>
