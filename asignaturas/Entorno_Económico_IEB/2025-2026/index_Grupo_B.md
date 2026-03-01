@@ -29,6 +29,8 @@ Material en revisión continua. Algunas transcripciones pueden actualizarse.
 - [05   El Sector Financiero   Política Monetaria   Entorno Económico 25 26   Luis Garvía](./02_presentaciones/05 - El sector financiero - Política monetaria - Entorno económico 25-26 - Luis Garvía.pdf)
 - [06   El Sector Financiero   Geopolítica   Entorno Económico 25 26   Luis Garvía](./02_presentaciones/06 - El sector financiero - Geopolítica - Entorno económico 25-26 - Luis Garvía.pdf)
 - [07   La Actual Crisis Energética  Entorno Económico 25 26   Luis Garvía](./02_presentaciones/07 - La actual crisis energética- Entorno económico 25-26 - Luis Garvía.pdf)
+- [08   Tecnología  Entorno Económico 25 26   Luis Garvía](./02_presentaciones/08 - Tecnología- Entorno económico 25-26 - Luis Garvía.pdf)
+- [09   Los Movimientos Migratorios Irregulares   Entorno Económico 25 26   Luis Garvía](./02_presentaciones/09 - Los movimientos migratorios irregulares - Entorno económico 25-26 - Luis Garvía.pdf)
 
 ## Resúmenes y transcripciones
 - [12/01/2026 - Entorno Económico Grupo B Sesión 01](./01_transcripciones_grupo_B/2026_01_12_Entorno_económico_Grupo_B_Sesión_01.md)
@@ -44,6 +46,10 @@ Material en revisión continua. Algunas transcripciones pueden actualizarse.
 - [18/02/2026 - Entorno Económico Grupo B Sesión 11](./01_transcripciones_grupo_B/2026_02_18_Entorno_económico_Grupo_B_Sesión_11.md)
 - [23/02/2026 - Entorno Económico Grupo B Sesión 12](./01_transcripciones_grupo_B/2026_02_23_Entorno_económico_Grupo_B_Sesión_12.md)
 - [25/02/2026 - Entorno Económico Grupo B Sesión 13](./01_transcripciones_grupo_B/2026_02_25_Entorno_económico_Grupo_B_Sesión_13.md)
+- [02/03/2026 - Entorno Económico Grupo B Sesión 14](./01_transcripciones_grupo_B/2026_03_02_Entorno_económico_Grupo_B_Sesión_14.md)
+- [11/03/2026 - Entorno Económico Grupo B Sesión 16](./01_transcripciones_grupo_B/2026_03_11_Entorno_económico_Grupo_B_Sesión_16.md)
+- [16/03/2026 - Entorno Económico Grupo B Sesión 17](./01_transcripciones_grupo_B/2026_03_16_Entorno_económico_Grupo_B_Sesión_17.md)
+- [18/03/2026 - Entorno Económico Grupo B Sesión 18](./01_transcripciones_grupo_B/2026_03_18_Entorno_económico_Grupo_B_Sesión_18.md)
 
 <!-- AUTO-GENERATED: END -->
 

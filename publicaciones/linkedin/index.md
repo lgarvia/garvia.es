@@ -1,6 +1,54 @@
 # Publicaciones en LinkedIn
 
 <!-- AUTO-GENERATED: START -->
+- **20/03/2026** — Todo está pasando a la vez en todas partes  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_todo-est%C3%A1-pasando-a-la-vez-en-todas-partes-activity-7440669214270574592-HndI)
+
+- **19/03/2026** — El BCE espera a que el entorno deje de moverse…  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_el-bce-espera-a-que-el-entorno-deje-de-moverse-activity-7440405018022842368-cFPg)
+
+- **18/03/2026** — ¿Cambio de régimen en la Fed?  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_rueda-de-prensa-fed-18032026-activity-7440115444826562561-xyw7)
+
+- **18/03/2026** — Estamos ante una crisis de liquidez.  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_estamos-ante-una-crisis-de-liquidez-ir%C3%A1n-activity-7439913733776273409-cSWf)
+
+- **17/03/2026** — Irán y Afganistán. Más allá de los titulares.  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_ir%C3%A1n-y-afganist%C3%A1n-m%C3%A1s-all%C3%A1-de-los-titulares-activity-7439551345872752640-FcD9)
+
+- **17/03/2026** — No es país para jóvenes...  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_no-es-pa%C3%ADs-para-j%C3%B3venes-inmenso-el-trabajo-activity-7439743379778895873-Cy8R)
+
+- **16/03/2026** — La semana grande de los Bancos Centrales  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_la-semana-grande-de-los-bancos-centrales-activity-7439188958196039681-iODo)
+
+- **15/03/2026** — Una metáfora de dónde estamos en Europa  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_una-met%C3%A1fora-de-d%C3%B3nde-estamos-en-europa-activity-7438888241254199296-u1Yr)
+
+- **13/03/2026** — Ideas geopolíticas que he aprendido esta semana  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_ideas-geopol%C3%ADticas-que-he-aprendido-esta-activity-7438121613482459137-sNzQ)
+
+- **11/03/2026** — Los chokepoints del petróleo  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_los-chokepoints-del-petr%C3%B3leo-para-cerrar-activity-7437378937183358976-ONR_)
+
+- **10/03/2026** — Irán, Pakistán y China. Geometría geopolítica.  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_ir%C3%A1n-pakist%C3%A1n-y-china-geometr%C3%ADa-geopol%C3%ADtica-activity-7437020285989642240-g2UA)
+
+- **09/03/2026** — La geografía manda. Chokepoints  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_la-geograf%C3%ADa-manda-chokepoints-estamos-activity-7436652242935377920-wtNw)
+
+- **07/03/2026** — Mi futuro enjambre de agentes  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_mi-futuro-enjambre-de-agentes-llevo-varias-activity-7436052169474072576-7vsv)
+
+- **06/03/2026** — Gastos invisibles que te vacían la cuenta sin que lo notes  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_gastos-invisibles-que-te-vac%C3%ADan-la-cuenta-activity-7435565079393271808-U4JN)
+
+- **27/02/2026** — Pakistán ataca Kabul. Seguridad contra soberanía.  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_pakist%C3%A1n-ataca-kabul-seguridad-contra-soberan%C3%ADa-activity-7433142513122586624-FQgf)
+
+- **24/02/2026** — 380.000 millones en cash. Menos narrativa.  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_380000-millones-en-cash-menos-narrativa-activity-7431941200707792896-0htD)
+
 - **21/02/2026** — Aranceles, Tribunal Supremo y Midterms. Más dudas que certezas  
   📌 [Ver publicación](https://www.linkedin.com/posts/garvia_aranceles-tribunal-supremo-y-midterms-m%C3%A1s-activity-7430900521734934528-EZgB)
 

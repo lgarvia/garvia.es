@@ -1,5 +1,8 @@
 # 🧾 Informe de Sesión — 12 de febrero de 2026
 
+[[2026_03_03_Sesión_10_MUGRF_Gestión_Riesgos_Empresa_05]]
+
+
 **Máster en Gestión de Riesgos**  
 **Duración:** 1h 30 min  
 **Eje central:** ¿Qué son las finanzas? Instrumentos financieros, sistema financiero y supervisión  

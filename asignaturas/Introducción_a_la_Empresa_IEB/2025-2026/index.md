@@ -2,7 +2,8 @@
 Curso 2025-2026
 
 ## 📢 Avisos
-- Examen parcial: Jueves 12 de marzo
+- Examen - primer parcial: Jueves 12 de marzo
+- Examen - segundo parcial: Jueves 16 de abril
 - Horario: 
 	-  Lunes - 10:30 - 11:20 y 11:40 - 12:30  -   
 	-  Jueves - 8:30 - 9:20 y 9:30 - 10:20
@@ -22,7 +23,8 @@ Material en revisión continua. Algunas transcripciones pueden actualizarse.
 - [01   La Dirección De Producción   Introduccion A La Empresa Ii 25 26   Luis Garvía](./02_presentaciones/01 - La dirección de producción - INTRODUCCION A LA EMPRESA II 25-26 - Luis Garvía.pdf)
 - [01   La Producción En El Mundo Digital](./02_presentaciones/01 - La producción en el mundo digital.pdf)
 - [02   Márketing   Introduccion A La Empresa Ii 25 26   Luis Garvía](./02_presentaciones/02 - Márketing - INTRODUCCION A LA EMPRESA II 25-26 - Luis Garvía.pdf)
-- [03   Aclaraciones Sobre Finanzas](./02_presentaciones/03 - Aclaraciones sobre finanzas.pdf)
+- [03   Innovación   Introduccion A La Empresa Ii 25 26   Luis Garvía](./02_presentaciones/03 - Innovación - INTRODUCCION A LA EMPRESA II 25-26 - Luis Garvía.pdf)
+- [04   Aclaraciones Sobre Finanzas](./02_presentaciones/04 - Aclaraciones sobre finanzas.pdf)
 - [04   La Dirección Financiera   Introduccion A La Empresa Ii 25 26   Luis Garvía](./02_presentaciones/04 - La dirección financiera - INTRODUCCION A LA EMPRESA II 25-26 - Luis Garvía.pdf)
 
 ## Resúmenes y transcripciones
@@ -39,6 +41,32 @@ Material en revisión continua. Algunas transcripciones pueden actualizarse.
 - [19/02/2026 - Introducción A La Empresa Sesión 11](./01_transcripciones/2026_02_19_Introducción_a_la_empresa_Sesión_11.md)
 - [23/02/2026 - Introducción A La Empresa Sesión 12](./01_transcripciones/2026_02_23_Introducción_a_la_empresa_Sesión_12.md)
 - [26/02/2026 - Introducción A La Empresa Sesión 13](./01_transcripciones/2026_02_26_Introducción_a_la_empresa_Sesión_13.md)
+- [02/03/2026 - Introducción A La Empresa Sesión 14](./01_transcripciones/2026_03_02_Introducción_a_la_empresa_Sesión_14.md)
+- [05/03/2026 - Introducción A La Empresa Sesión 15](./01_transcripciones/2026_03_05_Introducción_a_la_empresa_Sesión_15.md)
+- [09/03/2026 - Introducción A La Empresa Sesión 16](./01_transcripciones/2026_03_09_Introducción_a_la_empresa_Sesión_16.md)
+- [16/03/2026 - Introducción A La Empresa Sesión 18](./01_transcripciones/2026_03_16_Introducción_a_la_empresa_Sesión_18.md)
+- [19/03/2026 - Introducción A La Empresa Sesión 19](./01_transcripciones/2026_03_19_Introducción_a_la_empresa_Sesión_19.md)
 
 <!-- AUTO-GENERATED: END -->
 
+## Calendario después de Semana Santa
+
+### Jueves 9 abril - Presentaciones (3 grupos)
+- Exxon Mobil
+- Nvidia
+- ACS
+### Lunes 13 abril - Presentaciones (2 grupos)
+- BlackRock
+- Xiaomi
+### Jueves 16 abril - Segundo parcial. Entra todo el contenido del curso
+- Producción
+- Marketing
+- Finanzas
+(No es liberatorio: cuenta para la nota final y hay que aprobarlo).
+### Lunes 20 abril. Presentaciones (2 grupos)
+- OpenAI
+- Coca-Cola
+### Jueves 23 abril. Presentaciones (3 grupos)
+- Netflix
+- Bet365
+- Spotify

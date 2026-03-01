@@ -1,10 +1,17 @@
 ---
 Título: Información, eficiencia de mercados y comienzo del bloque de banca
 Fecha: 2026-02-24
-Asignatura: Entorno Económico
+Asignatura: Mercados Financieros – Sesión 13
 Tipo: Sesión 13
 Bloque: Transición a Banca y Política Monetaria
-Tags: [mercados_eficientes, informacion, medios, banca, politica_monetaria, inflacion, 2008, pandemia]
+Tags:
+  - mercados_eficientes
+  - informacion
+  - medios
+  - banca
+  - politica_monetaria
+  - inflacion
+  - pandemia
 ---
 
 # 1️⃣ Información y mercados eficientes

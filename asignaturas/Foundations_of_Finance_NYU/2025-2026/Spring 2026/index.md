@@ -40,5 +40,10 @@ Material en revisión continua. Algunas transcripciones pueden actualizarse.
 - [18/02/2026 - Nyu Foundations Of Finance Session 10](./01_transcripciones/2026_02_18_NYU_Foundations_of_Finance_Session_10.md)
 - [23/02/2026 - Nyu Foundations Of Finance Session 11](./01_transcripciones/2026_02_23_NYU_Foundations_of_Finance_Session_11.md)
 - [25/02/2026 - Nyu Foundations Of Finance Session 12](./01_transcripciones/2026_02_25_NYU_Foundations_of_Finance_Session_12.md)
+- [02/03/2026 - Nyu Foundations Of Finance Session 13](./01_transcripciones/2026_03_02_NYU_Foundations_of_Finance_Session_13.md)
+- [09/03/2026 - Nyu Foundations Of Finance Session 15](./01_transcripciones/2026_03_09_NYU_Foundations_of_Finance_Session_15.md)
+- [11/03/2026 - Nyu Foundations Of Finance Session 16](./01_transcripciones/2026_03_11_NYU_Foundations_of_Finance_Session_16.md)
+- [16/03/2026 - Nyu Foundations Of Finance Session 17](./01_transcripciones/2026_03_16_NYU_Foundations_of_Finance_Session_17.md)
+- [18/03/2026 - Nyu Foundations Of Finance Session 18](./01_transcripciones/2026_03_18_NYU_Foundations_of_Finance_Session_18.md)
 
 <!-- AUTO-GENERATED: END -->

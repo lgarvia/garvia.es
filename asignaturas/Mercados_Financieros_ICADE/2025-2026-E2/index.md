@@ -22,6 +22,8 @@ Material en revisión continua. Algunas transcripciones pueden actualizarse.
 - [02   Lesson 2   Monetary Policy](./02_presentaciones/02 - Lesson 2 - Monetary Policy.pdf)
 - [03   Lesson 3   Interest Rate Risk](./02_presentaciones/03 - Lesson 3 - Interest rate risk.pdf)
 - [04   Lesson 4   Credit Institutions](./02_presentaciones/04 - Lesson 4 - Credit institutions.pdf)
+- [05   Lesson 5   Fix Income Markets](./02_presentaciones/05 - Lesson 5 - Fix income markets.pdf)
+- [06   Lesson 6   Equity Markets](./02_presentaciones/06 - Lesson 6 - Equity markets.pdf)
 - [20   Hiperinflación Alemana Mercados Financieros](./02_presentaciones/20 - Hiperinflación alemana Mercados Financieros.pdf)
 - [21   Bretton Woods   Mercados](./02_presentaciones/21 - Bretton Woods - mercados.pdf)
 - [22   Soros](./02_presentaciones/22 - Soros.pdf)
@@ -47,6 +49,12 @@ Material en revisión continua. Algunas transcripciones pueden actualizarse.
 - [17/02/2026 - Mercados Financieros Sesión 11](./01_transcripciones/2026_02_17_Mercados_Financieros_Sesión_11.md)
 - [18/02/2026 - Mercados Financieros Sesión 12](./01_transcripciones/2026_02_18_Mercados_Financieros_Sesión_12.md)
 - [24/02/2026 - Mercados Financieros Sesión 13](./01_transcripciones/2026_02_24_Mercados_Financieros_Sesión_13.md)
+- [03/03/2026 - Mercados Financieros Sesión 15](./01_transcripciones/2026_03_03_Mercados_Financieros_Sesión_15.md)
+- [04/03/2026 - Mercados Financieros Sesión 16](./01_transcripciones/2026_03_04_Mercados_Financieros_Sesión_16.md)
+- [10/03/2026 - Mercados Financieros Sesión 17](./01_transcripciones/2026_03_10_Mercados_Financieros_Sesión_17.md)
+- [11/03/2026 - Mercados Financieros Sesión 18](./01_transcripciones/2026_03_11_Mercados_Financieros_Sesión_18.md)
+- [17/03/2026 - Mercados Financieros Sesión 19](./01_transcripciones/2026_03_17_Mercados_Financieros_Sesión_19.md)
+- [18/03/2026 - Mercados Financieros Sesión 20](./01_transcripciones/2026_03_18_Mercados_Financieros_Sesión_20.md)
 
 <!-- AUTO-GENERATED: END -->
 
