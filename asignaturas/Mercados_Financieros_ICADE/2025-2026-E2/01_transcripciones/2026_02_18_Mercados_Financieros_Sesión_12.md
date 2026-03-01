@@ -1,10 +1,15 @@
 ---
 Título: Curva de tipos – Marco conceptual y expectativas
 Fecha: 2026-02-18
-Asignatura: Entorno Económico
+Asignatura: Mercados Financieros – Sesión 12
 Tipo: Sesión
 Bloque: Instituciones y Política Monetaria
-Tags: [curva_de_tipos, renta_fija, politica_monetaria, bancos_centrales, activo_libre_de_riesgo]
+Tags:
+  - curva_de_tipos
+  - renta_fija
+  - politica_monetaria
+  - bancos_centrales
+  - activo_libre_de_riesgo
 ---
 
 # 🎬 La curva de tipos

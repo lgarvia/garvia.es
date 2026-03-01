@@ -44,6 +44,9 @@ Material en revisión continua. Algunas transcripciones pueden actualizarse.
 - [20/02/2026 - Entorno Económico Grupo A Sesión 11](./01_transcripciones_grupo_A/2026_02_20_Entorno_económico_Grupo_A_Sesión_11.md)
 - [25/02/2026 - Entorno Económico Grupo A Sesión 12](./01_transcripciones_grupo_A/2026_02_25_Entorno_económico_Grupo_A_Sesión_12.md)
 - [27/02/2026 - Entorno Económico Grupo A Sesión 13](./01_transcripciones_grupo_A/2026_02_27_Entorno_económico_Grupo_A_Sesión_13.md)
+- [06/03/2026 - Entorno Económico Grupo A Sesión 15](./01_transcripciones_grupo_A/2026_03_06_Entorno_económico_Grupo_A_Sesión_15.md)
+- [11/03/2026 - Entorno Económico Grupo A Sesión 16](./01_transcripciones_grupo_A/2026_03_11_Entorno_económico_Grupo_A_Sesión_16.md)
+- [13/03/2026 - Entorno Económico Grupo A Sesión 17](./01_transcripciones_grupo_A/2026_03_13_Entorno_económico_Grupo_A_Sesión_17.md)
 
 <!-- AUTO-GENERATED: END -->
 

@@ -1,6 +1,18 @@
 # Publicaciones en LinkedIn
 
 <!-- AUTO-GENERATED: START -->
+- **07/03/2026** — Mi futuro enjambre de agentes  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_mi-futuro-enjambre-de-agentes-llevo-varias-activity-7436052169474072576-7vsv)
+
+- **06/03/2026** — Gastos invisibles que te vacían la cuenta sin que lo notes  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_gastos-invisibles-que-te-vac%C3%ADan-la-cuenta-activity-7435565079393271808-U4JN)
+
+- **27/02/2026** — Pakistán ataca Kabul. Seguridad contra soberanía.  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_pakist%C3%A1n-ataca-kabul-seguridad-contra-soberan%C3%ADa-activity-7433142513122586624-FQgf)
+
+- **24/02/2026** — 380.000 millones en cash. Menos narrativa.  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_380000-millones-en-cash-menos-narrativa-activity-7431941200707792896-0htD)
+
 - **21/02/2026** — Aranceles, Tribunal Supremo y Midterms. Más dudas que certezas  
   📌 [Ver publicación](https://www.linkedin.com/posts/garvia_aranceles-tribunal-supremo-y-midterms-m%C3%A1s-activity-7430900521734934528-EZgB)
 

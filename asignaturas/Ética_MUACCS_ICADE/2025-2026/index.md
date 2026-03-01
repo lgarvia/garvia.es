@@ -28,12 +28,16 @@ Material en revisión continua. Algunas transcripciones pueden actualizarse.
 - [04   Madoff Criminal Complaint](./02_presentaciones/04 - madoff-criminal-complaint.pdf)
 - [04   Madoff Sec Complaint](./02_presentaciones/04 - madoff-sec-complaint.pdf)
 - [04   Sesión 4   El Bien Y El Mal](./02_presentaciones/04 - Sesión 4 - El bien y el mal.pdf)
+- [05   Sesión 5   La Complejidad](./02_presentaciones/05 - Sesión 5 - La complejidad.pdf)
+- [06   Sesión 6   La Ley](./02_presentaciones/06 - Sesión 6 - La ley.pdf)
 
 ## Resúmenes y transcripciones
 - [18/02/2026 - Ética Muaccs Sesión 01](./01_transcripciones/2026_02_18_Ética_MUACCS_Sesión_01.md)
 - [25/02/2026 - Ética Muaccs Sesión 02](./01_transcripciones/2026_02_25_Ética_MUACCS_Sesión_02.md)
 - [26/02/2026 - Ética Muaccs Sesión 03](./01_transcripciones/2026_02_26_Ética_MUACCS_Sesión_03.md)
 - [26/02/2026 - Ética Muaccs Sesión 04](./01_transcripciones/2026_02_26_Ética_MUACCS_Sesión_04.md)
+- [13/03/2026 - Ética Muaccs Sesión 05](./01_transcripciones/2026_03_13_Ética_MUACCS_Sesión_05.md)
+- [13/03/2026 - Ética Muaccs Sesión 06](./01_transcripciones/2026_03_13_Ética_MUACCS_Sesión_06.md)
 
 <!-- AUTO-GENERATED: END -->
 

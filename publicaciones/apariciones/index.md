@@ -1,5 +1,35 @@
 # Apariciones en medios
 
+- **06/03/2026** — GQ · Adrián Espallargas · ¿Explotará la burbuja de la IA generando una gran crisis global?  
+  📌 [Ver intervención](https://www.revistagq.com/articulo/explotara-la-burbuja-de-la-ia-generando-una-gran-crisis-global)
+
+- **03/03/2026** — Intereconomía · A media sesión · Análisis económico con Luis Garvía: guerra en Irán y cierre del Estrecho de Ormuz  
+  📌 [Ver intervención](https://youtu.be/HfHLgiYLxMk)
+
+- **02/03/2026** — ABC · José María Camarero · Tu banco te aprecia más de lo que pensabas o por qué te sirve en bandeja 20.000 euros que no has pedido  
+  📌 [Ver intervención](https://www.abc.es/economia/cuentas-corrientes/banco-aprecia-pensabas-secreto-20000-euros-ofrece-20260126040516-nt_amp.html)
+
+- **02/03/2026** — LinkedIn Noticias · Miguel Ángel Moreno Ramos · La crisis en Oriente Medio eleva el precio del petróleo y el gas  
+  📌 [Ver intervención](https://www.linkedin.com/news/story/la-crisis-en-oriente-medio-eleva-el-precio-del-petr%C3%B3leo-y-el-gas-7047308/)
+
+- **02/02/2026** — Negocios TV · Valeria · ¿Qué pasará con los mercados si cae Ormuz?  
+  📌 [Ver intervención](https://x.com/negocios_tv/status/2028578677068538109?s=20)
+
+- **27/02/2026** — GCCI · GCCI · El Controller del futuro: de Business Partner a asesor estratégico en la era de la inteligencia artificial  
+  📌 [Ver intervención](https://www.globalcci.org/noticias/controller-centricity-2025-ia-rol-asesor-estrategico-gcci-insight-16/)
+
+- **24/02/2026** — Intereconomía · A media sesión · Ucrania, Aranceles y Capitalismo de Estado: ¿Está Cambiando el Sistema Económico Mundial?  
+  📌 [Ver intervención](https://youtu.be/iGpYKMUuekg?si=I0V1rjfyJNJ34hbS)
+
+- **24/02/2026** — ABC · JM · Pilar García de la Granja, experta económica, sobre las hipotecas: «Cuestan el doble de lo que suponía a nuestros padres»  
+  📌 [Ver intervención](https://www.abc.es/recreo/pilar-garcia-granja-experta-economica-sobre-hipotecas-20260224200414-nt_amp.html)
+
+- **24/02/2026** — Cope · Paco Delgado · "Antes era una línea roja para los bancos; ahora 56.000 hipotecas se firman cada año a más del 80% del precio de la vivienda para que los jóvenes puedan acceder a ellas"  
+  📌 [Ver intervención](https://www.cope.es/programas/herrera-en-cope/economia-de-bolsillo/audios/linea-roja-bancos-56-000-hipotecas-firman-ano-80-precio-vivienda-jovenes-puedan-acceder-20260224_3313706.amp.html)
+
+- **23/02/2026** — RTVE · Diana Fresneda · El dólar está en horas bajas y la UE quiere aprovecharlo: "Es el momento para lograr un euro fuerte"  
+  📌 [Ver intervención](https://www.rtve.es/noticias/20260223/ue-euro-fuerte-dolar-debil/16944522.shtml)
+
 - **20/02/2026** — Intereconomía · Pulso Geopolítico · El mundo ya ha cambiado: IA, deuda y el fin del orden económico tradicional  
   📌 [Ver intervención](https://youtu.be/HkHy1sK359o?si=PWNh8IuavAqFYlxW)
 
