@@ -44,6 +44,7 @@ Material en revisión continua. Algunas transcripciones pueden actualizarse.
 - [18/02/2026 - Entorno Económico Grupo B Sesión 11](./01_transcripciones_grupo_B/2026_02_18_Entorno_económico_Grupo_B_Sesión_11.md)
 - [23/02/2026 - Entorno Económico Grupo B Sesión 12](./01_transcripciones_grupo_B/2026_02_23_Entorno_económico_Grupo_B_Sesión_12.md)
 - [25/02/2026 - Entorno Económico Grupo B Sesión 13](./01_transcripciones_grupo_B/2026_02_25_Entorno_económico_Grupo_B_Sesión_13.md)
+- [02/03/2026 - Entorno Económico Grupo B Sesión 14](./01_transcripciones_grupo_B/2026_03_02_Entorno_económico_Grupo_B_Sesión_14.md)
 
 <!-- AUTO-GENERATED: END -->
 

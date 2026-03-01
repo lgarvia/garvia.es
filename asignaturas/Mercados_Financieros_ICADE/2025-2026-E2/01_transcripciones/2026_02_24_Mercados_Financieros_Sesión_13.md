@@ -4,7 +4,7 @@ Fecha: 2026-02-24
 Asignatura: Entorno Económico
 Tipo: Sesión 13
 Bloque: Transición a Banca y Política Monetaria
-Tags: [mercados_eficientes, informacion, medios, banca, politica_monetaria, inflacion, 2008, pandemia]
+Tags: [mercados_eficientes, informacion, medios, banca, politica_monetaria, inflacion, pandemia]
 ---
 
 # 1️⃣ Información y mercados eficientes

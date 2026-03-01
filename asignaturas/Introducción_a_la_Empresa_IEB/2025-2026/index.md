@@ -22,7 +22,8 @@ Material en revisión continua. Algunas transcripciones pueden actualizarse.
 - [01   La Dirección De Producción   Introduccion A La Empresa Ii 25 26   Luis Garvía](./02_presentaciones/01 - La dirección de producción - INTRODUCCION A LA EMPRESA II 25-26 - Luis Garvía.pdf)
 - [01   La Producción En El Mundo Digital](./02_presentaciones/01 - La producción en el mundo digital.pdf)
 - [02   Márketing   Introduccion A La Empresa Ii 25 26   Luis Garvía](./02_presentaciones/02 - Márketing - INTRODUCCION A LA EMPRESA II 25-26 - Luis Garvía.pdf)
-- [03   Aclaraciones Sobre Finanzas](./02_presentaciones/03 - Aclaraciones sobre finanzas.pdf)
+- [03   Innovación   Introduccion A La Empresa Ii 25 26   Luis Garvía](./02_presentaciones/03 - Innovación - INTRODUCCION A LA EMPRESA II 25-26 - Luis Garvía.pdf)
+- [04   Aclaraciones Sobre Finanzas](./02_presentaciones/04 - Aclaraciones sobre finanzas.pdf)
 - [04   La Dirección Financiera   Introduccion A La Empresa Ii 25 26   Luis Garvía](./02_presentaciones/04 - La dirección financiera - INTRODUCCION A LA EMPRESA II 25-26 - Luis Garvía.pdf)
 
 ## Resúmenes y transcripciones
@@ -39,6 +40,7 @@ Material en revisión continua. Algunas transcripciones pueden actualizarse.
 - [19/02/2026 - Introducción A La Empresa Sesión 11](./01_transcripciones/2026_02_19_Introducción_a_la_empresa_Sesión_11.md)
 - [23/02/2026 - Introducción A La Empresa Sesión 12](./01_transcripciones/2026_02_23_Introducción_a_la_empresa_Sesión_12.md)
 - [26/02/2026 - Introducción A La Empresa Sesión 13](./01_transcripciones/2026_02_26_Introducción_a_la_empresa_Sesión_13.md)
+- [02/03/2026 - Introducción A La Empresa Sesión 14](./01_transcripciones/2026_03_02_Introducción_a_la_empresa_Sesión_14.md)
 
 <!-- AUTO-GENERATED: END -->
 
