@@ -22,7 +22,8 @@ Material en revisión continua. Algunas transcripciones pueden actualizarse.
 - [01   La Dirección De Producción   Introduccion A La Empresa Ii 25 26   Luis Garvía](./02_presentaciones/01 - La dirección de producción - INTRODUCCION A LA EMPRESA II 25-26 - Luis Garvía.pdf)
 - [01   La Producción En El Mundo Digital](./02_presentaciones/01 - La producción en el mundo digital.pdf)
 - [02   Márketing   Introduccion A La Empresa Ii 25 26   Luis Garvía](./02_presentaciones/02 - Márketing - INTRODUCCION A LA EMPRESA II 25-26 - Luis Garvía.pdf)
-- [03   Aclaraciones Sobre Finanzas](./02_presentaciones/03 - Aclaraciones sobre finanzas.pdf)
+- [03   Innovación   Introduccion A La Empresa Ii 25 26   Luis Garvía](./02_presentaciones/03 - Innovación - INTRODUCCION A LA EMPRESA II 25-26 - Luis Garvía.pdf)
+- [04   Aclaraciones Sobre Finanzas](./02_presentaciones/04 - Aclaraciones sobre finanzas.pdf)
 - [04   La Dirección Financiera   Introduccion A La Empresa Ii 25 26   Luis Garvía](./02_presentaciones/04 - La dirección financiera - INTRODUCCION A LA EMPRESA II 25-26 - Luis Garvía.pdf)
 
 ## Resúmenes y transcripciones

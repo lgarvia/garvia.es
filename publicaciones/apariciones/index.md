@@ -1,5 +1,20 @@
 # Apariciones en medios
 
+- **27/02/2026** — GCCI · GCCI · El Controller del futuro: de Business Partner a asesor estratégico en la era de la inteligencia artificial  
+  📌 [Ver intervención](https://www.globalcci.org/noticias/controller-centricity-2025-ia-rol-asesor-estrategico-gcci-insight-16/)
+
+- **24/02/2026** — Intereconomía · A media sesión · Ucrania, Aranceles y Capitalismo de Estado: ¿Está Cambiando el Sistema Económico Mundial?  
+  📌 [Ver intervención](https://youtu.be/iGpYKMUuekg?si=I0V1rjfyJNJ34hbS)
+
+- **24/02/2026** — ABC · JM · Pilar García de la Granja, experta económica, sobre las hipotecas: «Cuestan el doble de lo que suponía a nuestros padres»  
+  📌 [Ver intervención](https://www.abc.es/recreo/pilar-garcia-granja-experta-economica-sobre-hipotecas-20260224200414-nt_amp.html)
+
+- **24/02/2026** — Cope · Paco Delgado · "Antes era una línea roja para los bancos; ahora 56.000 hipotecas se firman cada año a más del 80% del precio de la vivienda para que los jóvenes puedan acceder a ellas"  
+  📌 [Ver intervención](https://www.cope.es/programas/herrera-en-cope/economia-de-bolsillo/audios/linea-roja-bancos-56-000-hipotecas-firman-ano-80-precio-vivienda-jovenes-puedan-acceder-20260224_3313706.amp.html)
+
+- **23/02/2026** — RTVE · Diana Fresneda · El dólar está en horas bajas y la UE quiere aprovecharlo: "Es el momento para lograr un euro fuerte"  
+  📌 [Ver intervención](https://www.rtve.es/noticias/20260223/ue-euro-fuerte-dolar-debil/16944522.shtml)
+
 - **20/02/2026** — Intereconomía · Pulso Geopolítico · El mundo ya ha cambiado: IA, deuda y el fin del orden económico tradicional  
   📌 [Ver intervención](https://youtu.be/HkHy1sK359o?si=PWNh8IuavAqFYlxW)
 
