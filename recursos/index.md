@@ -97,6 +97,15 @@ En esta sección encontrarás programas y simuladores interactivos desarrollados
 >
 > 👉 **[Abrir Calculadora de Duración](./bond-duration/dist/index.html)**
 
+---
+
+### 📑 08. Redington Lab: Inmunización de Carteras (NUEVO)
+> **Estado:** Disponible
+> 
+> Simulador interactivo sobre la Inmunización de Redington. Aprende cómo blindar una cartera frente al riesgo de tipos de interés igualando el valor actual, duración y convexidad respecto a un pasivo esperado.
+>
+> 👉 **[Abrir Redington Lab](./immunization-lab/dist/index.html)**
+
 <br>
 </details>
 
@@ -105,7 +114,7 @@ En esta sección encontrarás programas y simuladores interactivos desarrollados
 
 <br>
 
-### 📑 08. Markowitz: El Poder de la Diversificación
+### 📑 09. Markowitz: El Poder de la Diversificación
 > **Estado:** Disponible
 > 
 > Simulador de diversificación con 2 activos. Permite visualizar cómo la correlación física altera la curvatura de la frontera eficiente y el beneficio de reducción de riesgo.
@@ -114,7 +123,7 @@ En esta sección encontrarás programas y simuladores interactivos desarrollados
 
 ---
 
-### 📑 09. CML Lab: Markowitz + Activo Libre de Riesgo
+### 📑 10. CML Lab: Markowitz + Activo Libre de Riesgo
 > **Estado:** Disponible
 > 
 > Visualización de la Capital Market Line (CML) y la Cartera Tangente. Comprende el Teorema de Separación y cómo el Ratio de Sharpe define la eficiencia del mercado.
@@ -123,7 +132,7 @@ En esta sección encontrarás programas y simuladores interactivos desarrollados
 
 ---
 
-### 📑 10. Markowitz Lab: Teoría de Carteras y CAPM
+### 📑 11. Markowitz Lab: Teoría de Carteras y CAPM
 > **Estado:** Disponible
 > 
 > Explorador interactivo de la Teoría Moderna de Carteras (MPT) y el Modelo de Valoración de Activos de Capital (CAPM).
@@ -138,7 +147,7 @@ En esta sección encontrarás programas y simuladores interactivos desarrollados
 
 <br>
 
-### 📑 11. Introducción a las Opciones Financieras
+### 📑 12. Introducción a las Opciones Financieras
 > **Estado:** Disponible
 > 
 > Conceptos básicos sobre opciones Call y Put. Visualización de posiciones compradoras (Long) y vendedoras (Short), Payoff al vencimiento y cálculo de beneficio/pérdida.
@@ -147,7 +156,7 @@ En esta sección encontrarás programas y simuladores interactivos desarrollados
 
 ---
 
-### 📑 12. Paridad Put-Call: Visual Proof
+### 📑 13. Paridad Put-Call: Visual Proof
 > **Estado:** Disponible
 > 
 > Demostración interactiva de la equivalencia entre una Protective Put y una Fiduciary Call. Permite visualizar cómo carteras con distintos instrumentos llegan al mismo resultado.
@@ -156,7 +165,7 @@ En esta sección encontrarás programas y simuladores interactivos desarrollados
 
 ---
 
-### 📑 13. Options Strategies Lab: Multinivel
+### 📑 14. Options Strategies Lab: Multinivel
 > **Estado:** Disponible
 > 
 > Laboratorio avanzado para el estudio de estrategias combinadas. Incluye 4 niveles:
@@ -169,7 +178,7 @@ En esta sección encontrarás programas y simuladores interactivos desarrollados
 
 ---
 
-### 📑 14. Simulador Black & Scholes
+### 📑 15. Simulador Black & Scholes
 > **Estado:** Disponible
 > 
 > Herramienta visual para comprender el modelo de valoración de opciones financieras Black-Scholes. Permite modificar parámetros y ver cambios en tiempo real.
@@ -190,7 +199,7 @@ En esta sección encontrarás programas y simuladores interactivos desarrollados
 
 <br>
 
-### 📑 15. VaR & Expected Shortfall Lab
+### 📑 16. VaR & Expected Shortfall Lab
 > **Estado:** Disponible
 > 
 > Explorador dinámico para el cálculo del Valor en Riesgo (VaR) y Expected Shortfall (ES) mediante metodologías paramétricas y simulaciones de Monte Carlo. Fundamental para entender el riesgo de cola y la solvencia.
@@ -199,7 +208,7 @@ En esta sección encontrarás programas y simuladores interactivos desarrollados
 
 ---
 
-### 📑 16. ActuariaMaster: Simulador de Matemáticas Actuariales
+### 📑 17. ActuariaMaster: Simulador de Matemáticas Actuariales
 > **Estado:** Disponible
 > 
 > Tablas de mortalidad, anualidades, ley de los grandes números y teoría del riesgo.
@@ -220,7 +229,7 @@ En esta sección encontrarás programas y simuladores interactivos desarrollados
 
 <br>
 
-### 📑 17. Mecanismos y Levas (Pablete)
+### 📑 18. Mecanismos y Levas (Pablete)
 > **Estado:** Disponible
 > 
 > Visualización interactiva sobre el funcionamiento de levas y mecanismos mecánicos.
