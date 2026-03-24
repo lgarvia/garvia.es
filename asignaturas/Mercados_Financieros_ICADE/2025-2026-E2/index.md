@@ -55,6 +55,7 @@ Material en revisión continua. Algunas transcripciones pueden actualizarse.
 - [11/03/2026 - Mercados Financieros Sesión 18](./01_transcripciones/2026_03_11_Mercados_Financieros_Sesión_18.md)
 - [17/03/2026 - Mercados Financieros Sesión 19](./01_transcripciones/2026_03_17_Mercados_Financieros_Sesión_19.md)
 - [18/03/2026 - Mercados Financieros Sesión 20](./01_transcripciones/2026_03_18_Mercados_Financieros_Sesión_20.md)
+- [24/03/2026 - Mercados Financieros Sesión 21](./01_transcripciones/2026_03_24_Mercados_Financieros_Sesión_21.md)
 
 <!-- AUTO-GENERATED: END -->
 
