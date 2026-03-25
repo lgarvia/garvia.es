@@ -51,6 +51,7 @@ Material en revisión continua. Algunas transcripciones pueden actualizarse.
 - [12/03/2026 - Entorno Económico Grupo C Sesión 17](./01_transcripciones_grupo_C/2026_03_12_Entorno_económico_Grupo_C_Sesión_17.md)
 - [18/03/2026 - Entorno Económico Grupo C Sesión 18](./01_transcripciones_grupo_C/2026_03_18_Entorno_económico_Grupo_C_Sesión_18.md)
 - [19/03/2026 - Entorno Económico Grupo C Sesión 19](./01_transcripciones_grupo_C/2026_03_19_Entorno_económico_Grupo_C_Sesión_19.md)
+- [25/03/2026 - Entorno Económico Grupo C Sesión 20](./01_transcripciones_grupo_C/2026_03_25_Entorno_económico_Grupo_C_Sesión_20.md)
 
 <!-- AUTO-GENERATED: END -->
 

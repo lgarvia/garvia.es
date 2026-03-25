@@ -51,6 +51,7 @@ Material en revisión continua. Algunas transcripciones pueden actualizarse.
 - [16/03/2026 - Entorno Económico Grupo B Sesión 17](./01_transcripciones_grupo_B/2026_03_16_Entorno_económico_Grupo_B_Sesión_17.md)
 - [18/03/2026 - Entorno Económico Grupo B Sesión 18](./01_transcripciones_grupo_B/2026_03_18_Entorno_económico_Grupo_B_Sesión_18.md)
 - [23/03/2026 - Entorno Económico Grupo B Sesión 19](./01_transcripciones_grupo_B/2026_03_23_Entorno_económico_Grupo_B_Sesión_19.md)
+- [25/03/2026 - Entorno Económico Grupo B Sesión 20](./01_transcripciones_grupo_B/2026_03_25_Entorno_económico_Grupo_B_Sesión_20.md)
 
 <!-- AUTO-GENERATED: END -->
 

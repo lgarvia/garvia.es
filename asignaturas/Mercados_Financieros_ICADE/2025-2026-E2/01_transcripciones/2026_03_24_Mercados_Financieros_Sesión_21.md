@@ -10,7 +10,6 @@ Sesión: 21
 Bloque: Cambio de paradigma (IA aplicada)
 Tags: [IA, agentes, bootstrapping, cambio_regimen, productividad, sistemas]
 ---
-
 # Sesión 21 — IA: el verdadero punto de inflexión
 
 ## 1. Lo que ha sido realmente esta clase
