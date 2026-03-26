@@ -9,7 +9,7 @@ Curso 2025-2026
 	-  Jueves - 8:30 - 9:20 y 9:30 - 10:20
 
 ## 🧭 Notas del curso
-Material en revisión continua. Algunas transcripciones pueden actualizarse.
+Material en revisión continua. Algunas transcripciones pueden actualizarse. Esta clase es guay
 
 ## 📒 Cuaderno NoteBookLM de la asignatura
 [Enlace al cuaderno](https://notebooklm.google.com/notebook/b10febf9-acf6-4d5a-a571-848c4794848f)
