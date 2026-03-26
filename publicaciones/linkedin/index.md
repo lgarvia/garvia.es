@@ -1,6 +1,39 @@
 # Publicaciones en LinkedIn
 
 <!-- AUTO-GENERATED: START -->
+- **05/04/2026** — El petróleo no espera a la escasez, reacciona al miedo  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_el-petr%C3%B3leo-no-espera-a-la-escasez-reacciona-activity-7446515635745886208-Lf1_)
+
+- **04/04/2026** — AI-First. Unicornios sin empleados  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_ai-first-unicornios-sin-empleados-sam-altman-activity-7446089426998325248-xi8B)
+
+- **31/03/2026** — El mundo visto desde China  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_el-mundo-visto-desde-china-el-mundo-no-es-activity-7444778916126425088-KVsd)
+
+- **30/03/2026** — Mismo salario real, más impuestos  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_mismo-salario-real-m%C3%A1s-impuestos-no-se-activity-7444413881273245696-Sl9G)
+
+- **29/03/2026** — De impacto a transmisión - cómo leer la inflación hoy  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_de-impacto-a-transmisi%C3%B3n-c%C3%B3mo-leer-la-inflaci%C3%B3n-activity-7443999909059461120-SDrc)
+
+- **27/03/2026** — Taiwán. El mapa no ha cambiado, la presión sí.  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_taiw%C3%A1n-el-mapa-no-ha-cambiado-la-presi%C3%B3n-activity-7443175224537219072-Nf_d)
+
+- **26/03/2026** — No mires los resultados. Mira el CAPEX.  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_no-mires-los-resultados-mira-el-capex-activity-7442812836701106176-7F65)
+
+- **25/03/2026** — La Fed puede llegar a mayo sin presidente  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_la-fed-puede-llegar-a-mayo-sin-presidente-activity-7442450448806084608-99y-)
+
+- **24/03/2026** — El mercado ha puesto precio a la guerra  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_el-mercado-ha-puesto-precio-a-la-guerra-activity-7442088060953079808-kyD0)
+
+- **24/03/2026** — El negocio de la guerra. La información cotiza por encima de la vida  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_el-negocio-de-la-guerra-la-informaci%C3%B3n-cotiza-activity-7442271429116628992-KVxl)
+
+- **23/03/2026** — El mercado repo - la señal que anticipa las crisis  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_el-mercado-repo-la-se%C3%B1al-que-anticipa-las-activity-7441725673066381312-3Lb_)
+
 - **20/03/2026** — Todo está pasando a la vez en todas partes  
   📌 [Ver publicación](https://www.linkedin.com/posts/garvia_todo-est%C3%A1-pasando-a-la-vez-en-todas-partes-activity-7440669214270574592-HndI)
 

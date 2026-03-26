@@ -1,5 +1,68 @@
 # Apariciones en medios
 
+- **04/04/2026** — La sexta · Sexta Xplica · Vivienda y guerra de Irán  
+  📌 [Ver intervención](https://www.atresplayer.com/lasexta/programas/lasexta-xplica/2026/04-04-26_69cf99820d58810007383077/)
+
+- **04/04/2026** — La sexta · Sábado clave · ¿Qué sucedería si hay una escalada con el petroleo?  
+  📌 [Ver intervención](https://www.atresplayer.com/lasexta/noticias/sabado-clave/temporada-1/04-04-26-trump-avisa-a-iran-de-que-su-ultimatum-esta-a-punto-de-acabar_69d163250d588100073831eb/)
+
+- **01/04/2026** — Antena 3 · Ahora Sonsoles · Medidas europa ahorro energía  
+  📌 [Ver intervención](https://www.atresplayer.com/antena3/programas/y-ahora-sonsoles/abril-2026/01-04-26-el-audio-de-los-detenidos-por-el-crimen-de-francisca-cadenas-que-podria-probar-una-agresion-sexual-te-la-zumbaste_69cd5c13f391850007f48bd6/)
+
+- **31/03/2026** — Intereconomía · A media sesión · Tertulia con Luis Garvía y con Antonio Rodríguez Furones: guerra en Irán, inflación y menor crecimiento económico  
+  📌 [Ver intervención](https://www.intereconomia.com/programas/tertulia-con-luis-garvia-y-con-antonio-rodriguez-furones-guerra-en-iran-inflacion-y-menor-crecimiento-economico-20260331-1156/)
+
+- **28/03/2026** — El Español · Cintia de la Paz · Pilar García, economista: "Nuestros padres necesitaban 3 años de salario íntegro para comprar una casa; hoy hacen falta 7"  
+  📌 [Ver intervención](https://www.elespanol.com/mujer/estilo-vida/20260328/pilar-garcia-economista-padres-necesitaban-anos-salario-integro-comprar-casa-hoy-hacen-falta/1003744166660_0.html)
+
+- **28/03/2026** — La sexta · Sábado clave · ¿Es igual la guerra de Irán a la de Ucrania?  
+  📌 [Ver intervención](https://www.atresplayer.com/lasexta/noticias/sabado-clave/temporada-1/28-03-26-protestas-masivas-contra-trump_69c825604cfdb0e43a261d1a/)
+
+- **28/03/2026** — La sexta · Sexta Xplica · Sube todo menos los salarios  
+  📌 [Ver intervención](https://www.atresplayer.com/lasexta/programas/lasexta-xplica/2026/28-03-26-clamor-contra-trump_69c6588b98cd29000794eef1/)
+
+- **27/03/2026** — Antena 3 · Ahora Sonsoles · El precio de la energía afecta a todo  
+  📌 [Ver intervención](https://www.atresplayer.com/antena3/programas/y-ahora-sonsoles/marzo-2026/27-03-26-jose-domingo-20-anos-tratandose-de-una-enfermedad-degenerativa-que-nunca-tuvo-fue-un-tratamiento-durisimo-por-nada_69c6b1ab65df5f00071b0d4f/)
+
+- **26/03/2026** — Semana · Laura Ortíz · Luis Garvía, economista: "El bolsillo se va a aligerar con las medidas anticrisis del Gobierno por la guerra de Irán, son buenas noticias"  
+  📌 [Ver intervención](https://www.semana.es/al-dia/luis-garvia-economista-bolsillo-aligerar-medidas-anticrisis-gobierno-guerra-iran-buenas-noticias_2812557)
+
+- **26/03/2026** — Antena 3 · Ahora Sonsoles · Luis Garvía, economista, sobre las medidas anticrisis aprobadas por el Gobierno: "El bolsillo se va a aligerar"  
+  📌 [Ver intervención](https://www.antena3.com/programas/y-ahora-sonsoles/luis-garvia-economista-medidas-anticrisis-aprobadas-gobierno-bolsillo-aligerar_2026032669c5710abfc2456bae14c449.html)
+
+- **26/03/2026** — Antena 3 · Ahora Sonsoles · Medidas anticrisis del gobierno  
+  📌 [Ver intervención](https://www.tiktok.com/@yahorasonsoles/video/7621624388508503318)
+
+- **24/03/2026** — Lecturas · Silvia López · Luis Garvía, economista: "Las hipotecas son más baratas en España que en el resto de Europa, el problema es que los sueldos son más bajos y hay más presión fiscal"  
+  📌 [Ver intervención](https://www.lecturas.com/diario/luis-garvia-economista-hipotecas-son-mas-baratas-espana-que-resto-europa-problema-es-que-sueldos-son-mas-bajos-y-hay-mas-presion-fiscal_190336)
+
+- **24/03/2026** — Las Provincias · Mar Georga · El dinero en efectivo que deberías tener ya en casa, según el economista Luis Garvía  
+  📌 [Ver intervención](https://www.lasprovincias.es/economia/dinero-efectivo-deberias-tener-casa-segun-economista-20260323183925-nt.html?ref=https%3A%2F%2Fwww.google.com%2F)
+
+- **24/03/2026** — Intereconomía · A media sesión · Análisis económico con Luis Garvía: crean el «índice del TACO» para anticipar en el mercado los giros de Trump  
+  📌 [Ver intervención](https://www.intereconomia.com/programas/analisis-economico-con-luis-garvia-crean-el-indice-del-taco-para-anticipar-en-el-mercado-los-giros-de-trump-20260324-1256/)
+
+- **24/03/2026** — Cuatro · Todo es mentira · El negocio de la guerra  
+  📌 [Ver intervención](https://x.com/todoesmentiratv/status/2036464196771020810?s=20)
+
+- **23/03/2026** — Negocios TV · Valeria · "Es el momento de los valientes en el mercado; puede que hayamos tocado el suelo". Cicuéndez  
+  📌 [Ver intervención](https://www.youtube.com/watch?v=m46P8YkKqz4)
+
+- **23/03/2026** — Capital Radio · Xelena Niedbala · El dinero detrás de la guerra: quién financia a Israel en el conflicto con Irán  
+  📌 [Ver intervención](https://www.capitalradio.es/noticias/economia/dinero-detras-guerra-quien-financia-israel-conflicto-iran_144127946.html)
+
+- **22/03/2026** — Telemadrid · IEB - Cristina Mugas · Energía, inflación y riesgo global: lo que viene tras la subida del petróleo  
+  📌 [Ver intervención](https://youtu.be/QZ3fDq-qc5o)
+
+- **22/03/2026** — Vanitatis · Sandra Gonzálvez · Luis Garvía, sobre el dinero en efectivo que debemos tener en casa: "Debe ser el equivalente a dos semanas de gastos básicos"  
+  📌 [Ver intervención](https://www.vanitatis.elconfidencial.com/vida-saludable/2026-03-22/economista-dinero-efectivo-tener-casa-guerra-iran_4324947/)
+
+- **21/03/2026** — La Razón · Iago Rodríguez · Un economista desvela los trucos para ahorrar hasta 40 euros por depósito ante la subida descontrolada del combustible  
+  📌 [Ver intervención](https://www.larazon.es/economia/economista-desvela-trucos-ahorrar-40-euros-deposito-subida-descontrolada-combustible-b50m_2026032169bee77fe89622081d461fed.html?outputType=amp)
+
+- **21/03/2026** — Antena 3 · Sara Sanz Navarro · Trucos sencillos para ahorrar en gasolina ante la subida de precios por la guerra  
+  📌 [Ver intervención](https://www.antena3.com/programas/y-ahora-sonsoles/trucos-sencillos-ahorrar-gasolina-subida-precios-guerra_2026032169bece9fe89622081d45fab3.html)
+
 - **20/03/2026** — Lider Actual · Miguel Jorge · Luís Garvía, economista, aclara la cantidad de dinero en efectivo que debemos tener en casa: “Lo suficiente como para el supermercado, gasolina y medicinas, entre una y dos semanas de gastos básicos”  
   📌 [Ver intervención](https://www.lideractual.es/finanzas/luis-garvia-economista-aclara-la-cantidad-de-dinero-en-efectivo-que-debemos-tener-en-casa-lo-suficiente-como-para-el-supermercado-gasolina-medicinas-entre-una-dos-semanas-de-gastos-basicos_13135)
 
