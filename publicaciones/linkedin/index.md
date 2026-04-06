@@ -1,6 +1,63 @@
 # Publicaciones en LinkedIn
 
 <!-- AUTO-GENERATED: START -->
+- **01/05/2026** — La IA ya no compite por chips. Compite por energía.  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_la-ia-ya-no-compite-por-chips-compite-por-activity-7455874240802672640-CRf-)
+
+- **30/04/2026** — El BCE atrapado: inflación importada vs. industria en caída  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_el-bce-atrapado-inflaci%C3%B3n-importada-vs-activity-7455602417011679232-zUoc)
+
+- **29/04/2026** — La última de Powell… y Trump contraprogramando  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_reuni%C3%B3n-fed-29042026-activity-7455333010415210498-64qS)
+
+- **28/04/2026** — El dólar pasa de ser un monopolio a una opción  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_el-d%C3%B3lar-pasa-de-ser-un-monopolio-a-una-opci%C3%B3n-activity-7454756536788271104-D-ab)
+
+- **27/04/2026** — El dólar B: cómo las cripto financian el déficit de EEUU  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_el-d%C3%B3lar-b-c%C3%B3mo-las-cripto-financian-el-activity-7454394148922482688-TnjE)
+
+- **25/04/2026** — Agentic AI - una nueva fase  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_agentes-ia-un-peque%C3%B1o-mapa-del-momento-activity-7453696221342420992-4iot)
+
+- **23/04/2026** — ¿Se hackeó Polymarket con un secador?  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_se-hacke%C3%B3-polymarket-con-un-secador-suena-activity-7453123248956846081-iOti)
+
+- **22/04/2026** — garv IA - Grandes mis alumnos  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_garv-ia-grandes-mis-alumnos-terminando-activity-7452622271338352640-VH1g)
+
+- **21/04/2026** — Japón lleva 30 años viviendo el futuro de Europa  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_jap%C3%B3n-lleva-30-a%C3%B1os-viviendo-el-futuro-de-activity-7452219821666074624-UOF8)
+
+- **20/04/2026** — Todo un honor acompañaros este jueves.  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_enseaehar-pensar-thinkglao-activity-7452043987588251648-xyGS)
+
+- **19/04/2026** — El ajedrez como metáfora total  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_el-ajedrez-como-met%C3%A1fora-total-soy-un-mal-activity-7451595527084728320-YJbB)
+
+- **17/04/2026** — La curva de tipos lleva décadas anunciando…  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_la-curva-de-tipos-lleva-d%C3%A9cadas-anunciando-activity-7450770270220357633--Xr4)
+
+- **15/04/2026** — ASML - El cuello de botella del mundo digital  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_asml-el-cuello-de-botella-del-mundo-digital-activity-7450061988753346560-JFu4)
+
+- **13/04/2026** — Más de 22 billones de dólares en la sombra  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_m%C3%A1s-de-22-billones-de-d%C3%B3lares-en-la-sombra-activity-7449320719135490048-643l)
+
+- **10/04/2026** — El BCE atado de pies y manos  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_el-bce-atado-de-pies-y-manos-el-bce-se-re%C3%BAne-activity-7448233555157143552-YZ4M)
+
+- **09/04/2026** — 1944 - 2026. El ocaso de un orden  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_1944-2026-el-ocaso-de-un-orden-del-13-activity-7447871171565555712-W6Ax)
+
+- **08/04/2026** — Cumbre Trump-Xi. Irán y Afganistán  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_cumbre-trump-xi-ir%C3%A1n-y-afganist%C3%A1n-llevo-activity-7447508779451092992-akaU)
+
+- **07/04/2026** — La próxima crisis no vendrá por los tipos  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_la-pr%C3%B3xima-crisis-no-vendr%C3%A1-por-los-tipos-activity-7447146391593906176-m3J0)
+
+- **06/04/2026** — El barril decide más que los bancos centrales  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_el-barril-decide-m%C3%A1s-que-los-bancos-centrales-activity-7446784003757576192-4Eb1)
+
 - **05/04/2026** — El petróleo no espera a la escasez, reacciona al miedo  
   📌 [Ver publicación](https://www.linkedin.com/posts/garvia_el-petr%C3%B3leo-no-espera-a-la-escasez-reacciona-activity-7446515635745886208-Lf1_)
 

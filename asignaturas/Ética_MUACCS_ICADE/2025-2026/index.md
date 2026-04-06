@@ -39,6 +39,8 @@ Material en revisión continua. Algunas transcripciones pueden actualizarse.
 - [26/02/2026 - Ética Muaccs Sesión 04](./01_transcripciones/2026_02_26_Ética_MUACCS_Sesión_04.md)
 - [13/03/2026 - Ética Muaccs Sesión 05](./01_transcripciones/2026_03_13_Ética_MUACCS_Sesión_05.md)
 - [13/03/2026 - Ética Muaccs Sesión 06](./01_transcripciones/2026_03_13_Ética_MUACCS_Sesión_06.md)
+- [26/03/2026 - Ética Muaccs Sesión 07](./01_transcripciones/2026_03_26_Ética_MUACCS_Sesión_07.md)
+- [08/04/2026 - Ética Muaccs Sesión 08](./01_transcripciones/2026_04_08_Ética_MUACCS_Sesión_08.md)
 
 <!-- AUTO-GENERATED: END -->
 

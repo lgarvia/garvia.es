@@ -1,5 +1,83 @@
 # Apariciones en medios
 
+- **30/04/2026** — LinkedIn Noticias · Ainhoa Iriberri · No hay subida de tipos: habla el BCE  
+  📌 [Ver intervención](https://www.linkedin.com/news/story/no-hay-subida-de-tipos-habla-el-bce-8025201/)
+
+- **29/04/2026** — Intereconomía · Marta Isern · ¿Última reunión de Powell? Wall Street espera tipos sin cambios  
+  📌 [Ver intervención](https://www.youtube.com/watch?v=cCAQDePLeLQ)
+
+- **28/04/2026** — Capital Radio · Xelena Niedbala · Emiratos Árabes Unidos abandonará la OPEP  
+  📌 [Ver intervención](https://www.capitalradio.es/noticias/economia/emiratos-arabes-unidos-abandonara-opep_144272489.html)
+
+- **28/04/2026** — Intereconomía · A media sesión · Tertulia con Luis Garvía y con Antonio Rodríguez-Furones: un año del apagón y bancos centrales  
+  📌 [Ver intervención](https://www.intereconomia.com/programas/tertulia-con-luis-garvia-y-con-antonio-rodriguez-furones-un-ano-del-apagon-y-bancos-centrales-20260428-1136/)
+
+- **28/04/2026** — RTVE · Alma Navarro · El coste del gran apagón un año después: más impacto en el bolsillo del ciudadano que en la economía del país  
+  📌 [Ver intervención](https://www.rtve.es/noticias/20260428/coste-apagon-mas-impacto-bolsillo-ciudadano-macroeconomia/17037580.shtml)
+
+- **26/04/2026** — ABC · Laura Sánchez · Una guía esencial para avanzar sobre el alambre de la incertidumbre y el ruido  
+  📌 [Ver intervención](https://www.abc.es/economia/guia-esencial-avanzar-sobre-alambre-incertidumbre-ruido-20260426095650-nt.html)
+
+- **23/04/2026** — It's time to think · Iñigo Díaz-Leante · La pregunta - En el IEB  
+  📌 [Ver intervención](https://www.itstimetothink.org/en/event-details/thinkglao-con-luis-garvia-vega)
+
+- **23/04/2026** — Clarín · Redacción Clarín · Luis Garvía, experto en economía, sobre el dinero en efectivo que hay que tener en casa: “Debe ser el equivalente a dos semanas de gastos básicos”  
+  📌 [Ver intervención](https://www.clarin.com/internacional/luis-garvia-experto-economia-dinero-efectivo-tener-casa-debe-equivalente-semanas-gastos-basicos_0_qWZHZ91g0V.html)
+
+- **23/04/2026** — Cope · Blas Sánchez · El nuevo Gobierno de Extremadura se inspira en el modelo argentino de Milei: alivio impositivo y eliminación de leyes y trabas burocráticas  
+  📌 [Ver intervención](https://www.cope.es/emisoras/extremadura/noticias/nuevo-gobierno-extremadura-inspira-modelo-argentino-milei-alivio-impositivo-vicepresidencia-derogar-leyes-20260423_3350915.amp.html)
+
+- **23/04/2026** — Clarín · Redacción Clarín · Luis Garvía anticipó el conflicto en Irán  
+  📌 [Ver intervención](https://www.clarin.com/videos/luis-garvia-anticipo-conflicto-iran_3_jccluCahED.html)
+
+- **23/04/2026** — RNE · Fin de mes · Nueva economía lunar  
+  📌 [Ver intervención](https://www.rtve.es/play/audios/fin-de-mes/fin-mes-radiografia-fondos-next-generation/17038579/)
+
+- **21/04/2026** — Vanitatis · Sandra Gonzálvez · Luis Garvía, sobre el dinero en efectivo que debemos tener en casa: "Debe ser el equivalente a dos semanas de gastos básicos"  
+  📌 [Ver intervención](https://www.vanitatis.elconfidencial.com/vida-saludable/2026-04-21/economista-dinero-efectivo-tener-casa-guerra-iran_4324947/)
+
+- **16/04/2026** — La Voz de Galicia · Carrera espacial 2.0: el ruido lo pone Estados Unidos  
+  📌 [Ver intervención](https://www.lavozdegalicia.es/noticia/opinion/2026/04/16/carrera-espacial-20-ruido-pone-estados-unidos/0003_202604G16P14991.htm)
+
+- **14/04/2026** — Líder actual · Ada Sanuy · Luis Garvía, doctor en finanzas, sobre la vivienda: "Tenemos bolsas paradas en todos los ayuntamientos de España"  
+  📌 [Ver intervención](https://www.lideractual.es/finanzas/luis-garvia-doctor-en-finanzas-sobre-la-vivienda-tenemos-bolsas-paradas-en-todos-los-ayuntamientos-de-espana_13245)
+
+- **14/04/2026** — Intereconomía · A media sesión · Análisis económico con Luis Garvía: Pedro Sánchez en China y riesgos del crédito privado  
+  📌 [Ver intervención](https://www.intereconomia.com/programas/analisis-economico-con-luis-garvia-pedro-sanchez-en-china-y-riesgos-del-credito-privado-20260414-1152/)
+
+- **13/04/2026** — Capital Radio · Xelena Niedbala · Hungría cambia de rumbo: el impacto económico del fin de la era Orbán  
+  📌 [Ver intervención](https://www.capitalradio.es/noticias/economia/hungria-cambia-rumbo-impacto-economico-fin-era-orban_144206079.html)
+
+- **11/04/2026** — La sexta · La Sexta · El negocio de la Luna: China y EEUU disputan una nueva carrera espacial en busca de materiales raros  
+  📌 [Ver intervención](https://www.lasexta.com/noticias/ciencia-tecnologia/negocio-luna-china-eeuu-disputan-nueva-carrera-espacial-busca-materiales-raros_2026041169da3a8b097ebe16ad74e1db.html)
+
+- **11/04/2026** — Antena 3 · Telediario · Una nueva carrera espacial  
+  📌 [Ver intervención](https://www.atresplayer.com/antena3/noticias/noticias-fin-de-semana/abril-2026/11-04-26-amerizaje-perfecto-de-artemis-ii-regreso-seguro-tras-un-viaje-historico-a-la-luna_69da25100d58810007384549/)
+
+- **11/04/2026** — Telecinco · Telediario · La luna - Extracción de materiales  
+  📌 [Ver intervención](https://www.mediasetinfinity.es/informativos/informativos-telecinco/2026/mediodia/programa-10045-40_018783651/player/)
+
+- **11/04/2026** — La sexta · Telediario · El negocio de la luna  
+  📌 [Ver intervención](https://www.atresplayer.com/lasexta/noticias/noticias-fin-de-semana/abril-2026/11-04-26-artemis-ii-regresa-a-la-tierra-y-completa-con-exito-su-historico-viaje-a-la-luna_69da2493e2837b0007b8b213/)
+
+- **10/04/2026** — 24 horas · Noticias 24h · La Luna ya no es ciencia: es geopolítica, dinero y poder  
+  📌 [Ver intervención](https://youtu.be/SpHJxxxcbMI)
+
+- **07/04/2026** — Intereconomía · A media sesión · La Luna ha dejado de ser ciencia ficción. Hoy es negocio, geopolítica y poder.  
+  📌 [Ver intervención](https://youtu.be/WSnlZP9nSnU)
+
+- **07/04/2026** — Cope · Blas Sánchez · La estanflación, la pesadilla de los economistas que amenaza Extremadura  
+  📌 [Ver intervención](https://www.cope.es/emisoras/extremadura/noticias/estanflacion-pesadilla-economistas-amenaza-extremadura-20260407_3340110.amp.html)
+
+- **06/04/2026** — La sexta · Sexta Xplica · Luis Garvía: "Tenemos bolsas paradas en todos los ayuntamientos de España, es un problema de oferta"  
+  📌 [Ver intervención](https://www.lasexta.com/programas/sexta-noche/luis-garvia-tenemos-bolsas-paradas-todos-ayuntamientos-espana-problema-oferta_2026040669d38322bfc2456bae1eb93b.html)
+
+- **06/04/2026** — Men's Health · Juanjo Villalba · Luis Garvía, profesor de Economía: “Ahora más que nunca, deberíamos tener en casa dinero en efectivo para dos semanas de gastos”  
+  📌 [Ver intervención](https://www.menshealth.com/es/tecnologia/a70890899/luis-garvia-economista-dinero-efectivo-dos-semanas/)
+
+- **04/04/2026** — 65 y más · Miriam Gómez Sanz · Cuánto dinero en efectivo conviene tener en casa para una emergencia  
+  📌 [Ver intervención](https://www.65ymas.com/economia/economia-familiar/cuanto-dinero-en-efectivo-conviene-tener-en-casa-emergencia_80924_102.html)
+
 - **04/04/2026** — La sexta · Sexta Xplica · Vivienda y guerra de Irán  
   📌 [Ver intervención](https://www.atresplayer.com/lasexta/programas/lasexta-xplica/2026/04-04-26_69cf99820d58810007383077/)
 

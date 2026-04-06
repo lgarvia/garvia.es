@@ -31,6 +31,8 @@ Material en revisión continua. Algunas transcripciones pueden actualizarse.
 - [07   La Actual Crisis Energética  Entorno Económico 25 26   Luis Garvía](./02_presentaciones/07 - La actual crisis energética- Entorno económico 25-26 - Luis Garvía.pdf)
 - [08   Tecnología  Entorno Económico 25 26   Luis Garvía](./02_presentaciones/08 - Tecnología- Entorno económico 25-26 - Luis Garvía.pdf)
 - [09   Los Movimientos Migratorios Irregulares   Entorno Económico 25 26   Luis Garvía](./02_presentaciones/09 - Los movimientos migratorios irregulares - Entorno económico 25-26 - Luis Garvía.pdf)
+- [10   La Ue   Instituciones   Entorno Económico 25 26   Luis Garvía](./02_presentaciones/10 - La UE - Instituciones - Entorno económico 25-26 - Luis Garvía.pdf)
+- [11   La Ue   Retos Y Futuro   Entorno Económico 25 26   Luis Garvía](./02_presentaciones/11 - La UE - Retos y futuro - Entorno económico 25-26 - Luis Garvía.pdf)
 
 ## Resúmenes y transcripciones
 - [14/01/2026 - Entorno Económico Grupo A Sesión 01](./01_transcripciones_grupo_A/2026_01_14_Entorno_económico_Grupo_A_Sesión_01.md)
@@ -52,6 +54,10 @@ Material en revisión continua. Algunas transcripciones pueden actualizarse.
 - [18/03/2026 - Entorno Económico Grupo A Sesión 18](./01_transcripciones_grupo_A/2026_03_18_Entorno_económico_Grupo_A_Sesión_18.md)
 - [20/03/2026 - Entorno Económico Grupo A Sesión 19](./01_transcripciones_grupo_A/2026_03_20_Entorno_económico_Grupo_A_Sesión_19.md)
 - [25/03/2026 - Entorno Económico Grupo A Sesión 20](./01_transcripciones_grupo_A/2026_03_25_Entorno_económico_Grupo_A_Sesión_20.md)
+- [27/03/2026 - Entorno Económico Grupo A Sesión 21](./01_transcripciones_grupo_A/2026_03_27_Entorno_económico_Grupo_A_Sesión_21.md)
+- [10/04/2026 - Entorno Económico Grupo A Sesión 22](./01_transcripciones_grupo_A/2026_04_10_Entorno_económico_Grupo_A_Sesión_22.md)
+- [17/04/2026 - Entorno Económico Grupo A Sesión 24](./01_transcripciones_grupo_A/2026_04_17_Entorno_económico_Grupo_A_Sesión_24.md)
+- [22/04/2026 - Entorno Económico Grupo A Sesión 25](./01_transcripciones_grupo_A/2026_04_22_Entorno_económico_Grupo_A_Sesión_25.md)
 
 <!-- AUTO-GENERATED: END -->
 
