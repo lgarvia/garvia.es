@@ -31,6 +31,8 @@ Material en revisión continua. Algunas transcripciones pueden actualizarse.
 - [07   La Actual Crisis Energética  Entorno Económico 25 26   Luis Garvía](./02_presentaciones/07 - La actual crisis energética- Entorno económico 25-26 - Luis Garvía.pdf)
 - [08   Tecnología  Entorno Económico 25 26   Luis Garvía](./02_presentaciones/08 - Tecnología- Entorno económico 25-26 - Luis Garvía.pdf)
 - [09   Los Movimientos Migratorios Irregulares   Entorno Económico 25 26   Luis Garvía](./02_presentaciones/09 - Los movimientos migratorios irregulares - Entorno económico 25-26 - Luis Garvía.pdf)
+- [10   La Ue   Instituciones   Entorno Económico 25 26   Luis Garvía](./02_presentaciones/10 - La UE - Instituciones - Entorno económico 25-26 - Luis Garvía.pdf)
+- [11   La Ue   Retos Y Futuro   Entorno Económico 25 26   Luis Garvía](./02_presentaciones/11 - La UE - Retos y futuro - Entorno económico 25-26 - Luis Garvía.pdf)
 
 ## Resúmenes y transcripciones
 - [12/01/2026 - Entorno Económico Grupo B Sesión 01](./01_transcripciones_grupo_B/2026_01_12_Entorno_económico_Grupo_B_Sesión_01.md)
@@ -52,6 +54,8 @@ Material en revisión continua. Algunas transcripciones pueden actualizarse.
 - [18/03/2026 - Entorno Económico Grupo B Sesión 18](./01_transcripciones_grupo_B/2026_03_18_Entorno_económico_Grupo_B_Sesión_18.md)
 - [23/03/2026 - Entorno Económico Grupo B Sesión 19](./01_transcripciones_grupo_B/2026_03_23_Entorno_económico_Grupo_B_Sesión_19.md)
 - [25/03/2026 - Entorno Económico Grupo B Sesión 20](./01_transcripciones_grupo_B/2026_03_25_Entorno_económico_Grupo_B_Sesión_20.md)
+- [13/04/2026 - Entorno Económico Grupo B Sesión 21](./01_transcripciones_grupo_B/2026_04_13_Entorno_económico_Grupo_B_Sesión_21.md)
+- [20/04/2026 - Entorno Económico Grupo B Sesión 23](./01_transcripciones_grupo_B/2026_04_20_Entorno_económico_Grupo_B_Sesión_23.md)
 
 <!-- AUTO-GENERATED: END -->
 

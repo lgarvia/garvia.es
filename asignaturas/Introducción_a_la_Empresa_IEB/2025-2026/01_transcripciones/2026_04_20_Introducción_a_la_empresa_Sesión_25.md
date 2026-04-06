@@ -1,0 +1,46 @@
+Por problemas técnicos no se ha podido disponer de la transcripción de la sesión de hoy. Hoy se han realizado las siguientes actividades en el aula:
+
+# Presentaciones:
+- Presentación de Coca-Cola: Ana, Isabel y María
+- Presentación de Open AI: Pilar, Valentina y Carolina
+
+# Revisión del examen:
+
+**Bloque 1 (2 puntos) – Producción**
+
+**¿Qué tipos de organizaciones hay en función de los diferentes tipos de procesos productivos? Proporciona un ejemplo de cada tipo. (1 punto)** En función del volumen y la variedad, los procesos productivos se dividen en cuatro grandes tipos. En primer lugar, la **producción por proyecto**, que se caracteriza por una alta personalización y bajo volumen, como por ejemplo la construcción de una casa a medida. En segundo lugar, la **producción por lotes**, utilizada para productos que requieren trazabilidad ante posibles defectos, como la fabricación de medicamentos o neumáticos. En tercer lugar, la **producción en masa**, caracterizada por un alto volumen y poca variedad, siendo el ejemplo clásico la fábrica del coche Ford T. Finalmente, la **producción continua**, donde el flujo no se detiene, ejemplificado por la fabricación de Coca-Cola o de ladrillos.
+
+**¿Qué es un prosumer? Indica qué importancia tiene la aparición de esta figura para un sistema de producción tradicional (1 punto)** Un **prosumer** es un concepto que nace de la fusión de las palabras _producer_ (productor) y _consumer_ (consumidor). Su aparición es fundamental porque rompe la frontera del sistema de producción de la era industrial, donde las fábricas producían y los clientes simplemente consumían de forma pasiva. En la actual economía digital basada en plataformas, **los usuarios consumen contenido y al mismo tiempo lo producen**, como ocurre en Twitter o en cualquier red social. Esto obliga a las organizaciones a dejar de ser fábricas unidireccionales para convertirse en ecosistemas de intercambio colaborativo.
+
+**Bloque 2 –Marketing (3 puntos)**
+
+**¿Explica tres formas de segmentar el sector del automóvil y que características deseables debe de tener la forma de segmentación? (1 punto)** En el sector del automóvil, la segmentación permite no tratar a todos los compradores por igual. Tres formas aplicadas en clase son: la segmentación por **estilo de vida/necesidad familiar**, como hace Volvo dirigiéndose a un público que busca máxima seguridad; la segmentación por **edad y actitud**, como hace BMW para atraer a un público más joven y dinámico; y la segmentación por **renta o estatus socioeconómico**, como hace Mercedes enfocándose en un público de mayor edad y mayor poder adquisitivo. Toda forma de segmentación debe cumplir con cuatro características deseables: **los segmentos deben ser medibles, concretos, identificables y accesibles**.
+
+**Explica la matriz de Boston Consulting Group, que se representa en cada eje y cuáles son los diferentes tipos de productos (1 punto)** La matriz de Boston Consulting Group (BCG) es una herramienta estratégica para gestionar la cartera de productos de una empresa. En su eje horizontal representa la **participación o cuota relativa en el mercado**, y en su eje vertical representa la **tasa de crecimiento de dicho mercado**. De esta relación surgen cuatro tipos de productos: los **Interrogantes** (baja cuota en mercado de alto crecimiento), las **Estrellas** (alta cuota en mercado de alto crecimiento), las **Vacas lecheras** (alta cuota en mercado maduro/bajo crecimiento) y los **Perros** (baja cuota en mercado de bajo crecimiento).
+
+**Relaciona los diferentes productos de la matriz de Boston Consulting Group con el ciclo de vida del producto. Razona tu respuesta (1 punto)** Existe una correlación directa entre ambas herramientas teóricas. En la fase de **introducción**, los productos suelen ser "Interrogantes" porque el mercado está creciendo pero su notoriedad y cuota son bajas. Durante la fase de **crecimiento**, si el producto tiene éxito, se convierte en una "Estrella", requiriendo fuerte inversión promocional para mantener su alta cuota. Cuando el mercado se satura y se llega a la fase de **madurez**, el crecimiento se frena y la estrella se transforma en una "Vaca lechera", generando los máximos beneficios y liquidez sin apenas necesitar inversión. Finalmente, en la fase de **declive**, el producto pasa a ser un "Perro". **Ejemplo:** El iPhone hace diez años era un producto Estrella con ventas en rápido ascenso, mientras que hoy es una Vaca lechera en un mercado maduro que brinda ingresos estables a Apple.
+
+**Bloque 3 (5 puntos) – Finanzas**
+
+**¿Qué es un instrumento financiero? ¿Qué diferentes tipos hay? (1 punto)** Un instrumento financiero es, esencialmente, **un contrato cerrado entre dos partes**. Su valor deriva directamente de lo estipulado en ese contrato; por ello, siempre representa un **activo** para la persona o entidad que lo posee y un **pasivo** (una deuda u obligación) para quien lo emite. Los principales tipos vistos en clase, divididos en niveles de complejidad, son: **el dinero** (el más básico y líquido), los **instrumentos de financiación** (como acciones, bonos y préstamos) y los **derivados** (cuyo valor depende de un activo subyacente, como los futuros, las opciones y los swaps).
+
+**Explica qué es una factura y qué relación tiene con la cuenta de pérdidas y ganancias (1 punto)** Una factura es un instrumento financiero o efecto comercial que acredita la realización de una venta o la prestación de un servicio. Su relación con la cuenta de pérdidas y ganancias es directa: **emitir una factura genera automáticamente un "ingreso" contable**, mientras que **recibir una factura de un proveedor genera un "gasto"**. La diferencia entre los ingresos y los gastos arrojará el beneficio (o pérdida) de la empresa. Sin embargo, la factura permite entender una regla de oro de las finanzas: **ingresar no es lo mismo que cobrar**. La emisión de la factura afecta a las pérdidas y ganancias, pero el dinero físico no entra a la caja (activo) hasta que ese derecho de cobro se efectúa realmente.
+
+**Indica cada uno de los siguientes instrumentos, de que masa patrimonial (activo, pasivo o patrimonio neto) pueden formar parte. Explica tu respuesta. (0,25 puntos por instrumento)** _(Como el enunciado dejó el espacio en blanco, aplico los cuatro grandes instrumentos exigidos en clase para su clasificación)_:
+
+1. **Acciones:** Forman parte del **Patrimonio Neto**. Representan los recursos propios aportados por los dueños o socios de la empresa.
+2. **Bonos:** Forman parte del **Pasivo**. Representan deuda externa a largo plazo por la que la empresa debe pagar cupones y devolver un valor nominal.
+3. **Préstamos bancarios:** Forman parte del **Pasivo**. Son obligaciones de pago contraídas con entidades financieras por las que hay que pagar un coste en intereses.
+4. **Dinero en caja y Facturas a cobrar:** Forman parte del **Activo**. Son bienes líquidos y derechos de cobro que la empresa posee para desarrollar su actividad y generar rentabilidad.
+
+**¿Qué es el descuento comercial? ¿Qué es el factoring? ¿Qué es el confirming? ¿Para qué sirven estos tres instrumentos? ¿Qué diferencia hay entre unos y otros? (1 punto)** Los tres son instrumentos de **financiación externa a corto plazo** que sirven para obtener liquidez inmediata operando con los plazos de las facturas.
+
+- **Descuento comercial:** La empresa acude al banco para que le anticipe el importe de una factura antes de su vencimiento. La diferencia principal es que **el riesgo de impago lo mantiene la empresa**; si el cliente no paga, el banco le reclamará el dinero a la empresa.
+- **Factoring:** Consiste en vender o ceder por completo los derechos de cobro (créditos comerciales) a una entidad financiera. A diferencia del descuento, en muchos contratos de factoring la entidad asume el riesgo de impago, liberando a la empresa.
+- **Confirming:** En lugar de gestionar los cobros, gestiona los **pagos a proveedores**. La empresa articula con un banco que sus proveedores puedan cobrar sus facturas por anticipado a cambio de asumir un pequeño descuento por ese servicio de liquidez.
+
+**¿Explica qué es cada concepto y qué diferencia hay entre la inversión directa en un activo, el renting y el leasing? (1 punto)** Los tres conceptos representan distintas formas de conseguir y financiar bienes a medio/largo plazo para la empresa.
+
+- **Inversión directa:** La empresa compra el bien mediante sus propios fondos o con un préstamo. Al tenerlo en propiedad, la inversión aparece en su activo y el coste se lleva a la cuenta de resultados de forma progresiva mediante la **amortización** a lo largo de su vida útil.
+- **Renting:** Es un **alquiler puro**. Se paga una cuota mensual por el uso del bien, pero este nunca llega a ser de la empresa. La gran diferencia es que el renting incluye todos los servicios adicionales como seguros, mantenimiento o sustitución, lo que reduce la carga operativa. No incluye opción de compra.
+- **Leasing:** También conocido como arrendamiento financiero, es una forma de uso que **incorpora la lógica de una compra financiada o a plazos**. La diferencia crucial con el renting es que en el leasing el contrato finaliza con una **opción de compra**, permitiendo que la empresa adquiera la propiedad total del activo pagando un valor residual.
