@@ -1,6 +1,111 @@
 # Publicaciones en LinkedIn
 
 <!-- AUTO-GENERATED: START -->
+- **20/08/2026** — Europa tiene ahorro, tiene ciencia pero le falta capital para crecer  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_europa-tiene-ahorro-tiene-ciencia-pero-le-activity-7496083853015498752-nIcq)
+
+- **18/08/2026** — La nube está descubriendo que tiene geografía  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_la-nube-est%C3%A1-descubriendo-que-tiene-geograf%C3%ADa-activity-7495359077296967680-NZ8U)
+
+- **14/08/2026** — Ojo con Japón: el dinero vuelve a tener precio  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_ojo-con-jap%C3%B3n-el-dinero-vuelve-a-tener-precio-activity-7493909525897605120-JM19)
+
+- **11/08/2026** — Cobras más, pero cada vez eres más pobre  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_cobras-m%C3%A1s-pero-cada-vez-eres-m%C3%A1s-pobre-activity-7492837928243728384-xxXZ)
+
+- **07/08/2026** — Vender lo que aún no existe  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_vender-lo-que-a%C3%BAn-no-existe-pensando-en-activity-7491431012162449408-qQdv)
+
+- **04/08/2026** — Lo que diga la IA  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_lo-que-diga-la-ia-aunque-he-ido-dejando-activity-7490285647161880576-rpiN)
+
+- **31/07/2026** — Somos guays... y pobres como ratas  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_somos-guays-y-pobres-como-ratas-aprovechando-activity-7488836095657463809-MM2b)
+
+- **29/07/2026** — La FED ha mantenido los tipos, pero no la unanimidad  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_la-fed-ha-mantenido-los-tipos-pero-no-la-activity-7488306678807912450-wz9L)
+
+- **28/07/2026** — 30 códigos secretos de Chat GPT... o más...  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_30-c%C3%B3digos-secretos-de-chat-gpt-o-m%C3%A1s-activity-7487748932064763904-fqtl)
+
+- **25/07/2026** — Procura los amigos mejores que tú  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_procura-los-amigos-mejores-que-t%C3%BA-estoy-activity-7486661768572948480-wdFT)
+
+- **23/07/2026** — El BCE ha pausado. El crédito no  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_el-bce-ha-pausado-el-cr%C3%A9dito-no-lagarde-activity-7486061417138372608-1i4r)
+
+- **20/07/2026** — Trump vs. Nixon. ¿La historia no se repite... pero rima?  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_trump-vs-nixon-la-historia-no-se-repite-activity-7484948685546733568-u5dt)
+
+- **17/07/2026** — La economía del espacio: dos negocios diferentes  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_la-econom%C3%ADa-del-espacio-dos-negocios-diferentes-activity-7483762665585049600-c-8e)
+
+- **15/07/2026** — España ganó 2-0. Francia no puede perder.  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_espa%C3%B1a-gan%C3%B3-2-0-francia-no-puede-perder-activity-7483037890663555072-ldL0)
+
+- **13/07/2026** — Francia: el partido fiscal que ya entra en descuento  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_francia-el-partido-fiscal-que-ya-entra-en-activity-7482313114030387200-ulUg)
+
+- **11/07/2026** — ¿Y si trabajar dejara de pagar impuestos?  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_y-si-trabajar-dejara-de-pagar-impuestos-activity-7481652698245898240-rkGC)
+
+- **08/07/2026** — Ejercicio Derecho de Rectificación (Ley Orgánica 2/1984) - Luis Garvía  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_ejercicio-derecho-de-rectificaci%C3%B3n-ley-org%C3%A1nica-activity-7480617044569399296-R9r2)
+
+- **07/07/2026** — Dos empresas indias. Mismo mercado. Filosofías opuestas.  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_dos-empresas-indias-mismo-mercado-filosof%C3%ADas-activity-7480123687703248896-d0wx)
+
+- **06/07/2026** — El vídeo no va de satélites. Va de infraestructura.  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_el-v%C3%ADdeo-no-va-de-sat%C3%A9lites-va-de-infraestructura-activity-7479761299548282880-99Ai)
+
+- **02/07/2026** — SpaceX (SPCX) – Trampas al solitario  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_spacex-spcx-trampas-al-solitario-la-activity-7478311748387717120-mO0Q)
+
+- **30/06/2026** — El tamaño mínimo eficiente  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_el-tama%C3%B1o-m%C3%ADnimo-eficiente-los-dinosaurios-activity-7477586972375511040-obw0)
+
+- **27/06/2026** — 10 pueblos nómadas de los que aprender  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_10-pueblos-n%C3%B3madas-de-los-que-aprender-llevan-activity-7476588754737016832-CCHd)
+
+- **26/06/2026** — La Seguridad Social acaba de pagar 26.756 millones de euros en pensiones...  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_la-seguridad-social-acaba-de-pagar-26756-activity-7476137420875411456-AyFp)
+
+- **24/06/2026** — ¿Por qué Micron Technology es crítica para la IA?  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_por-qu%C3%A9-micron-technology-es-cr%C3%ADtica-para-activity-7475412645144240128-16aQ)
+
+- **22/06/2026** — España tiene sol, pero no tiene cables  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_espa%C3%B1a-tiene-sol-pero-no-tiene-cables-espa%C3%B1a-activity-7474687869341818880-LTAH)
+
+- **19/06/2026** — Faltan 750.000 viviendas en España  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_faltan-750000-viviendas-en-espa%C3%B1a-el-banco-activity-7473600705769975808-eGCX)
+
+- **17/06/2026** — Kevin Warsh: todo cambia para que nada cambie  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_kevin-warsh-todo-cambia-para-que-nada-cambie-activity-7473084504228921345-LzXG)
+
+- **15/06/2026** — La nueva fontanería del dólar  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_la-nueva-fontaner%C3%ADa-del-d%C3%B3lar-la-transformaci%C3%B3n-activity-7472151154269827072-Ygtd)
+
+- **11/06/2026** — Lagarde acaba de subir los tipos. Es un error.  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_lagarde-acaba-de-subir-los-tipos-es-un-error-activity-7470842507858350081-3C2s)
+
+- **10/06/2026** — La euforia con la IA me recuerda peligrosamente al 2008.  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_la-euforia-con-la-ia-me-recuerda-peligrosamente-activity-7470493983660584960-Oofn)
+
+- **09/06/2026** — La inflación viaja en barco... y el BCE subirá los tipos  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_la-inflaci%C3%B3n-viaja-en-barco-y-el-bce-subir%C3%A1-activity-7469976827168657408-OJh3)
+
+- **07/06/2026** — El ascensor social no está roto. Está reventando  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_el-ascensor-social-no-est%C3%A1-roto-est%C3%A1-reventando-activity-7469366105736900608-MFeU)
+
+- **05/06/2026** — La gran tragedia del salario en España: 30 años de parálisis  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_la-gran-tragedia-del-salario-en-espa%C3%B1a-30-activity-7468527275651694592-ia4W)
+
+- **03/06/2026** — El mercado de la codicia: Dólares, crudo y la fiesta de las OPVs de IA  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_el-mercado-de-la-codicia-d%C3%B3lares-crudo-activity-7467871825423781889-YN5T)
+
+- **01/06/2026** — La batalla del automóvil ya ha terminado. Europa aún no lo sabe.  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_la-batalla-del-autom%C3%B3vil-ya-ha-terminado-activity-7467077724164173824-eP9g)
+
 - **29/05/2026** — La Reserva Federal está atrapada en una jaula de oro...  
   📌 [Ver publicación](https://www.linkedin.com/posts/garvia_la-reserva-federal-est%C3%A1-atrapada-en-una-jaula-activity-7465990560554729472-QLNe)
 

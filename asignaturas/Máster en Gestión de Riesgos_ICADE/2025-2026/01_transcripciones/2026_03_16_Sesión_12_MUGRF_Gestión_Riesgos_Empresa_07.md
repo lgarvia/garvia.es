@@ -1091,3 +1091,8 @@ Esta no la habéis visto venir. Oh, mola, eres tu propio, tu peor enemigo. Ya la
 Sí, sí, perdón, no, pero segura, Rafa, Rafa.  
 Perdona, que voy a ampliar los pasos. Vale, nos vamos ya. Preconcurso, aquí tenéis en las diapositivas más o menos explicado lo que os he comentado, ¿de acuerdo?  
 Pues ni tan mal al lado, ha cundido.
+
+---
+
+## 🧭 Conexiones
+- **Asignatura Central:** [[00 Área operativa/01 Asignaturas/06 MUGRF 2025-26|06 MUGRF 2025-26]]

@@ -409,3 +409,8 @@ La velocidad los bancos centrales gestionan la economía en tiempo real y si os 
 Sigue con valybant. ¿Imaginaos que esto es una persona, eso es el suelo, no? 40 pisos. Entendéis que si cae al suelo todo se llena de sangre y es un desastre y ha muerto la persona. En cambio, si tú eres capaz, si tú eres capaz de cogerle al vuelo, si tú eres capaz de llegar.  
 Con las inyecciones de, o sea, Silicon baliban tocó suelo, hubo que rescatarlo, hablaremos de Silicon Baliban, pero a ver sobrevive. Fue rescatado YY tuvo que entrarle el Fondo de Garantía de Depósitos con Silicon Balibanc, pero después ha habido otros bancos que han tenido problemas parecidos y antes de entrar en el Fondo de Garantía de depósitos.  
 Se les metió una inyección de liquidez si veis aquí desde entonces, sube, baja, sube, baja. Y qué está haciendo la Reserva Federal sin que se entere nadie digo nadie, pues esto es lo que os comentaba, si tú miras esto es público, pero no sale publicado, no hay un pánico bancario, o sea, se lleva el pulso de la economía en tiempo real.
+
+---
+
+## 🧭 Conexiones
+- **Asignatura Central:** [[00 Área operativa/01 Asignaturas/06 MUGRF 2025-26|06 MUGRF 2025-26]]

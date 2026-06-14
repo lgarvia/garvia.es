@@ -1075,3 +1075,8 @@ Sí, o sea potente, lo que no tienes son tantas cosas, van más rápido, pero re
 Vamos a que tenéis que hacer para el próximo día, quiero ver que cada 1.  
 No, no, no le des ideas. Hombre, no, no lo comentamos en clase. Hostia, es verdad.  
 Este viernes sí hay el seminario y empezáis a las 3 a las 3.
+
+---
+
+## 🧭 Conexiones
+- **Asignatura Central:** [[00 Área operativa/01 Asignaturas/06 MUGRF 2025-26|06 MUGRF 2025-26]]

@@ -1,5 +1,139 @@
 # Apariciones en medios
 
+- **16/08/2026** — La Razón · Rodrigo Criado · Luis Garvía, economista, doctor en Finanzas: "La clase media ya no es ni tener una vivienda, sino tener la entrada para acceder a una casa e hipotecarte"  
+  📌 [Ver intervención](https://www.larazon.es/economia/luis-garvia-economista-doctor-finanzas-clase-media-tener-vivienda-tener-entrada-acceder-casa-hipotecarte-b50m_202608166a815fbc71b42a0b5df20e2d.html)
+
+- **15/08/2026** — La sexta · Sexta Xplica · Mejores momentos  
+  📌 [Ver intervención](https://www.atresplayer.com/lasexta/programas/lasexta-xplica/2026/15-08-26-mejores-momentos_6a809bf020648f000727bf47/)
+
+- **15/08/2026** — La sexta · Editorial · Luis Garvía, Doctor en Finanzas, explica por qué "los bancos prefieren familias a especuladores": "Quieren el dinero a lo largo del tiempo"  
+  📌 [Ver intervención](https://amp.lasexta.com/programas/sexta-noche/luis-garvia-doctor-finanzas-explica-que-bancos-prefieren-familias-especuladores-quieren-dinero-largo-tiempo_202608156a7efa59a046ad6ebcb0d98a.html)
+
+- **15/08/2026** — El Confidencial · Editorial · Luis Garvía, director en finanzas: "La clase media ya no es ni tener una vivienda, sino tener la entrada e hipotecarte"  
+  📌 [Ver intervención](https://www.elconfidencial.com/vivienda/2026-08-15/luis-garvia-sobre-la-vivienda-e-hipotecas-lasexta-1qrt_4199872/)
+
+- **13/08/2026** — Cope · La linterna · El dato del IPC  
+  📌 [Ver intervención](https://www.cope.es/programas/la-linterna/horas-completas/21-00h-13-ago-2026-linterna-20260813_3419729)
+
+- **07/08/2026** — La sexta · Sexta Xplica · Vacaciones y desigualdad social  
+  📌 [Ver intervención](https://www.atresplayer.com/lasexta/programas/lasexta-xplica/2026/08-08-26-el-gran-eclipse_6a7757592fec6e00072f214a/)
+
+- **07/08/2026** — La sexta · Sábado clave · Trump vende tuits por 100.000$  
+  📌 [Ver intervención](https://www.atresplayer.com/lasexta/noticias/sabado-clave/temporada-1/08-08-26-ceuta-sigue-al-limite_6a77582abc1eb0e4141f4763/)
+
+- **06/08/2026** — Lecturas · Alicia Alarcón · Al mes puc gastar sobre 1.000 o 2.500 euros en dièsel a aquests preus.  
+  📌 [Ver intervención](https://www.lecturas.cat/trending/miguel-taxista-mes-puc-gastar-sobre-1000-o-25000-euros-diesel-a-aquests-preus-he-tirat-60-litres-a-177-i-mha-costat-107-euros-omplir-diposit-aixo-es-porta-molt-malament_196732)
+
+- **05/08/2026** — Antena 3 · Marta Ruíz Romero · La desesperación de los taxistas por la subida de precio de la gasolina  
+  📌 [Ver intervención](https://www.antena3.com/programas/y-ahora-sonsoles/desesperacion-taxistas-subida-precio-gasolina-desembolsan-mas-2000-euros-mes_202608056a7309dca046ad6ebc9e8b60.html)
+
+- **04/08/2026** — Antena 3 · Ahora Sonsoles · Gasolina en verano II parte  
+  📌 [Ver intervención](https://www.atresplayer.com/antena3/programas/yas-verano/temporada-4/04-08-26-natalia-vecina-de-ceuta-de-22-anos-de-noche-salgo-acompanada-de-un-adulto_6a720422bc1eb0e4c3144763/)
+
+- **01/08/2026** — La sexta · Sexta Xplica · Absentismo y bajas laborales  
+  📌 [Ver intervención](https://www.atresplayer.com/lasexta/programas/lasexta-xplica/2026/01-08-26-tension-en-ceuta_6a6c4dbabc1eb0e468094763/)
+
+- **31/07/2026** — Antena 3 · Ahora Sonsoles · Gasolina en verano y términos ingleses  
+  📌 [Ver intervención](https://www.atresplayer.com/antena3/programas/yas-verano/temporada-4/31-07-26-los-pequenos-comercios-de-ceuta-reabren-con-cautela-y-atienden-a-todos-los-clientes-por-igual-somos-humanos_6a6cc2a22fec6e00072f0e80/)
+
+- **28/07/2026** — Intereconomía · A media sesión · Análisis económico con Luis Garvía: inversiones multimillonarias en IA y reunión de la FED  
+  📌 [Ver intervención](https://www.intereconomia.com/programas/analisis-economico-con-luis-garvia-inversiones-multimillonarias-en-ia-y-reunion-de-la-fed-20260728-1148/)
+
+- **28/07/2026** — CaixaBank · Agencia Efe · Finanzas para influencers  
+  📌 [Ver intervención](https://youtu.be/V7lnAGVzCq0?si=4Q4K10Mm8N_p2kXb)
+
+- **22/07/2026** — El Confidencial · Javier Molina · IX Foro de Activos Digitales  
+  📌 [Ver intervención](https://www.elconfidencial.com/mercados/2026-07-22/foro-blockchain-activos-digitales-inversion-bra_4394013/)
+
+- **21/07/2026** — Intereconomía · A media sesión · Análisis económico con Luis Garvía: presión arancelaria de Donald Trump a Canadá  
+  📌 [Ver intervención](https://www.intereconomia.com/programas/analisis-economico-con-luis-garvia-presion-arancelaria-de-donald-trump-a-canada-20260721-1204/)
+
+- **21/07/2026** — El Español · A. Criado · El valor de la paciencia frente al ruido geopolítico: las claves del 'value investing' para proteger los ahorros  
+  📌 [Ver intervención](https://www.elespanol.com/invertia/mercados/20260721/valor-paciencia-frente-ruido-geopolitico-claves-value-investing-proteger-ahorros/1003744327609_0.html)
+
+- **14/07/2026** — El Español · Bestinver · Value Investing: Cómo navegar el mercado actual contracorriente  
+  📌 [Ver intervención](https://www.youtube.com/watch?v=_lt9FqDQgQ4)
+
+- **14/07/2026** — Intereconomía · A media sesión · Análisis económico con Luis Garvía: estrecho de Ormuz, banqueros centrales e Inteligencia Artificial  
+  📌 [Ver intervención](https://www.intereconomia.com/programas/analisis-economico-con-luis-garvia-estrecho-de-ormuz-banqueros-centrales-e-inteligencia-artificial-20260714-1142/)
+
+- **14/07/2026** — Sport · Javier Fidalgo · Luis Garvía, experto en economía: "Los trabajadores de la construcción y las limpiadoras de hoteles tendrían que retirarse antes, pero los funcionarios pueden hacerlo más tarde"  
+  📌 [Ver intervención](https://www.sport.es/es/noticias/economia/luis-garvia-experto-economia-trabajadores-construccion-limpiadoras-retirarse-antes-132408343)
+
+- **11/07/2026** — La sexta · Sexta Xplica · Vivienda  
+  📌 [Ver intervención](https://www.atresplayer.com/lasexta/programas/lasexta-xplica/2026/11-07-26-a-contrarreloj-contra-el-fuego_6a4b7cf3c518b0e445e72cce/)
+
+- **09/07/2026** — Cope · Marta Ruiz · Petróleo Irán  
+  📌 [Ver intervención](https://www.cope.es/programas/mediodia-cope/horas-completas/14-00h-09-jul-2026-mediodia-cope-20260709_3402049.html)
+
+- **08/07/2026** — El Economista · Editorial · ¿A qué edad habría que jubilarse para mantener el sistema de pensiones? Un experto en economía responde  
+  📌 [Ver intervención](https://www.eleconomista.es/economia/noticias/13996835/07/26/un-experto-en-economia-plantea-edad-de-jubilacion-suba-hasta-los-72-anos-por-el-envejecimiento-de-la-poblacion-y.html)
+
+- **07/07/2026** — Intereconomía · A media sesión · La nueva geopolítica del silicio: Taiwán, China y el futuro de la IA  
+  📌 [Ver intervención](https://youtu.be/eU8_ew8AI6A)
+
+- **04/07/2026** — La sexta · Sexta Xplica · Absentismo  
+  📌 [Ver intervención](https://www.atresplayer.com/lasexta/programas/lasexta-xplica/2026/27-06-26-convulsion_6a3e2aa9f9a3be000779ae22/)
+
+- **02/07/2026** — Sport · Xavi Espinosa · Luis Garvía, profesor de mercados financieros, sobre la jubilación: "A partir de los 72 años, para que salieran las cuentas"  
+  📌 [Ver intervención](https://www.sport.es/es/noticias/economia/luis-garvia-profesor-mercados-financieros-132021008)
+
+- **30/06/2026** — Intereconomía · A media sesión · Análisis económico con Luis Garvía: entrada en vigor de la «tasa Shein» en Europa  
+  📌 [Ver intervención](https://www.intereconomia.com/programas/analisis-economico-con-luis-garvia-entrada-en-vigor-de-la-tasa-shein-en-europa-20260630-1140/)
+
+- **27/06/2026** — La sexta · Sexta Xplica · Impuestos y gasto público  
+  📌 [Ver intervención](https://www.atresplayer.com/lasexta/programas/lasexta-xplica/2026/27-06-26-convulsion_6a3e2aa9f9a3be000779ae22/)
+
+- **25/06/2026** — Capital Radio · Xelena Niedbala · ¿Más vivienda asequible o menos inversión? El dilema de la reforma a las SOCIMIs  
+  📌 [Ver intervención](https://www.capitalradio.es/noticias/economia/mas-vivienda-asequible-menos-inversion-dilema-reforma-socimis_144473070.html)
+
+- **23/06/2026** — Intereconomía · A media sesión · Análisis económico con Luis Garvía: Alan Greenspan, Inteligencia Artificial y Brexit  
+  📌 [Ver intervención](https://www.intereconomia.com/programas/analisis-economico-con-luis-garvia-alan-greenspan-inteligencia-artificial-y-brexit-20260623-1144/)
+
+- **19/06/2026** — COPE · Blas Sánchez · Las claves del precio de la fruta: por qué se dispara hasta un 900% del campo al supermercado  
+  📌 [Ver intervención](https://www.cope.es/emisoras/extremadura/noticias/claves-precio-fruta-dispara-900-campo-supermercado-20260619_3386849.html)
+
+- **19/06/2026** — Capital Radio · Capital, la bolsa y la vida · ¿Nos sumamos a las grandes tecnológicas? "Hay una carrera de ratas"  
+  📌 [Ver intervención](https://www.capitalradio.es/audio/6a34e6d4b9bc3ef48d2b0c89/144456608)
+
+- **19/06/2026** — Sport · Ramón Baylos · Luis Garvía, experto en economía: "El ascensor social, que debería ser algo fundamental en un estado de derecho, está roto"  
+  📌 [Ver intervención](https://www.sport.es/es/noticias/economia/luis-garvia-experto-economia-ascensor-131595190)
+
+- **16/06/2026** — Intereconomía · A media sesión · Análisis con Luis Garvía: SpaceX, inteligencia artificial y acuerdo EE.UU.- Irán  
+  📌 [Ver intervención](https://www.intereconomia.com/programas/analisis-con-luis-garvia-spacex-inteligencia-artificial-y-acuerdo-ee-uu-iran-20260616-1158/)
+
+- **15/06/2026** — Grupo Aseguranza · Área XXI · El reto no es acceder a la información. Es filtrarla con críterio  
+  📌 [Ver intervención](https://www.grupoaseguranza.com/noticias-de-seguros/reto-ya-no-acceder-informacion-filtrarla-criterio)
+
+- **13/06/2026** — Latino Insurance · Área XXI · Luis Garvía alerta sobre los riesgos del exceso de liquidez y la necesidad de filtrar información en la economía digital  
+  📌 [Ver intervención](https://boletines.latinoinsurance.com/luis-garvia-alerta-sobre-los-riesgos-del-exceso-de-liquidez-y-la-necesidad-de-filtrar-informacion-en-la-economia-digital)
+
+- **13/06/2026** — La sexta · Sexta Xplica · Pensiones. Sostenibilidad y jóvenes  
+  📌 [Ver intervención](https://www.atresplayer.com/lasexta/programas/lasexta-xplica/2026/13-06-26-botin_6a2bb9158605b0e43c553864/)
+
+- **11/06/2026** — Capital Radio · Café con riesgo · Café con Riesgo-Luis Garvía - Director del Master de Gestión de Riesgos de ICADE  
+  📌 [Ver intervención](https://www.capitalradio.es/audio/6a2ab894c262be0498b2e338/144430410)
+
+- **11/06/2026** — El Español · Paula Bolinaga Trum · Esther Cabrera, trabajadora de 63 años: “Me quiero jubilar, pero me quitan un 21% de la pensión”  
+  📌 [Ver intervención](https://www.elespanol.com/sociedad/20260611/esther-cabrera-trabajadora-anos-quiero-jubilar-quitan-pension-kw/1003744280190_0.html)
+
+- **09/06/2026** — Intereconomía · A media sesión · Análisis económico con Luis Garvía: visita de León XIV a España y salida a Bolsa de SpaceX  
+  📌 [Ver intervención](https://www.intereconomia.com/programas/analisis-economico-con-luis-garvia-visita-de-leon-xiv-a-espana-y-salida-a-bolsa-de-spacex-20260609-1202/)
+
+- **07/06/2026** — Sport · Ronald Goncalves · Luis Garvía, economista: "Hace 20 años cotizaban cinco personas por cada jubilado; ahora son solo 2,3"  
+  📌 [Ver intervención](https://www.sport.es/es/noticias/actualidad/luis-garvia-economista-20-anos-cotizacion-jubilados-131121677)
+
+- **07/06/2026** — La sexta · Sexta Xplica · Salarios y huelga sanidad y educación  
+  📌 [Ver intervención](https://www.atresplayer.com/lasexta/programas/lasexta-xplica/2026/06-06-26-visita-de-leon-xiv-a-espana_6a2287ff92619700076ceb39/)
+
+- **02/06/2026** — Negocios TV · Valeria · LUIS GARVÍA: "Cualquier acuerdo EEUU-Irán no sería nuevo, viene condicionado por la cumbre Trump-Xi"  
+  📌 [Ver intervención](https://youtu.be/iV4KF_C-ecM?si=lvZxyn0tbkC0vw1R)
+
+- **02/06/2026** — Intereconomía · A media sesión · Análisis económico con Luis Garvía: IA, ciberseguridad y factura energética  
+  📌 [Ver intervención](https://www.intereconomia.com/programas/analisis-economico-con-luis-garvia-ia-ciberseguridad-y-factura-energetica-20260602-1217/)
+
+- **30/05/2026** — El periódico · Javier Fidalgo · El doctor en finanzas Luis Garvía advierte: "Tendríamos que empezar a jubilarnos a partir de los 72 años"  
+  📌 [Ver intervención](https://www.elperiodico.com/es/economia/20260530/luis-garvia-experto-economia-tendriamos-empezar-jubilarnos-72-anos-dv-129817680)
 
 - **26/05/2026** — Intereconomía · A media sesión · Análisis económico con Luis Garvía: marco legal para la IA y Magnifica Humanitas  
   📌 [Ver intervención](https://intereconomia.com/programas/analisis-economico-con-luis-garvia-marco-legal-para-la-ia-y-magnifica-humanitas-20260526-1156/)

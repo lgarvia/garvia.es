@@ -501,3 +501,8 @@ ni en PowerPoint. Aquí, ¿de qué vamos a hablar muy rápido? Aquí vamos a hab
 Dinero. Necesitas caja. Y hay empresas. Yo estoy pensando en una.
 
 Eh, resumen, aquí lo que tenemos es la construcción del flujo de caja con cada uno, las amortizaciones, renting, leing e inversión. ¿Qué es el renting? ¿Qué diferencia entre renting y leing? Que no tiene la capacidad de quedarte. La opción de compra es una diferencia, pero realmente el leasing, la aseguradora también te cura menos cura que otra. A ver, puedes hacer tres cosas con un activo, puedes hacer tres cosas. Lo compras, que si lo compras hay que amortizarlo, lo alquilas, que si lo alquilas es flujo de caja y va fuera. o el leasing, que el leasing se parece a un alquiler, pero a la hora de las cuotas del leasing tienes que tienes que tener en cuenta que estás amortizado. ¿Me estoy explicando esto? ¿Qué es conocimiento operativo de cara al modelo? ¿Os viene bien? Yo creo que sí, porque además es muy y luego lo mismo de antes y modelos y ya está. Cerramos. Podría estar hablando de cada una de las diapositivas horas, pero yo creo que ni tan mal, ¿no? Dudas, preguntas. Damos por concluida la sesión.
+
+---
+
+## 🧭 Conexiones
+- **Asignatura Central:** [[00 Área operativa/01 Asignaturas/06 MUGRF 2025-26|06 MUGRF 2025-26]]

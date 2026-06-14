@@ -1085,3 +1085,8 @@ Es.
 Por un lado, tengo las cuatro primeras quiero dar, hay 2 que le haremos mañana y un poquito de sistema financiero, que lo que quiero es cultura general que tenéis que tener cultura general tanto de derecho administrativo, sistema financiero. Voy a repasar cosas rápido para ver si las lleváis. Luego un poquito de modelización financiera pensando en corporate finance.  
 Y luego, parte de lo que ya hemos visto de blockchain, de cripto, o sea, al final este es el repaso de la asignatura y si queréis, si estáis fritos, nos lo dejamos ya por hoy.  
 Sí.
+
+---
+
+## 🧭 Conexiones
+- **Asignatura Central:** [[00 Área operativa/01 Asignaturas/06 MUGRF 2025-26|06 MUGRF 2025-26]]

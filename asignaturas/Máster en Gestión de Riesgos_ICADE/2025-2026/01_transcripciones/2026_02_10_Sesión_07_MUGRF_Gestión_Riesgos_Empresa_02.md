@@ -1319,3 +1319,8 @@ Pero es lo más cuando que hay. Algo de GitHub, también. Digo todo para todo, �
 Es verdad, más o menos en las diapositivas tenéis lo que hemos estado hablando. Más o menos en las diapositivas tenéis lo que hemos estado hablando el próximo día le meto una vuelta, ¿vale? Me da miedo la transcripción de hoy. Eso vale dinero.  
 La ley y la pone, esa es la que hay que meter al todo lo tiene ahí, la verdad está a gusto.  
 No una por ver una bueno cuando he dicho lo de Ángel.
+
+---
+
+## 🧭 Conexiones
+- **Asignatura Central:** [[00 Área operativa/01 Asignaturas/06 MUGRF 2025-26|06 MUGRF 2025-26]]

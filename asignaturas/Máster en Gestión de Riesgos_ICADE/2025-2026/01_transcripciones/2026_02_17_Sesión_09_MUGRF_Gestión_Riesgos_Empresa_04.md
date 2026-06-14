@@ -984,3 +984,8 @@ Nos tenemos que ir.
 Cómo me mola, el me encanta.  
 Davis angulos.  
 ¿Qué tal Juan David?
+
+---
+
+## 🧭 Conexiones
+- **Asignatura Central:** [[00 Área operativa/01 Asignaturas/06 MUGRF 2025-26|06 MUGRF 2025-26]]
