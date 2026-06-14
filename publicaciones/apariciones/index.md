@@ -1,5 +1,58 @@
 # Apariciones en medios
 
+- **27/06/2026** — La sexta · Sexta Xplica · Impuestos y gasto público  
+  📌 [Ver intervención](https://www.atresplayer.com/lasexta/programas/lasexta-xplica/2026/27-06-26-convulsion_6a3e2aa9f9a3be000779ae22/)
+
+- **25/06/2026** — Capital Radio · Xelena Niedbala · ¿Más vivienda asequible o menos inversión? El dilema de la reforma a las SOCIMIs  
+  📌 [Ver intervención](https://www.capitalradio.es/noticias/economia/mas-vivienda-asequible-menos-inversion-dilema-reforma-socimis_144473070.html)
+
+- **23/06/2026** — Intereconomía · A media sesión · Análisis económico con Luis Garvía: Alan Greenspan, Inteligencia Artificial y Brexit  
+  📌 [Ver intervención](https://www.intereconomia.com/programas/analisis-economico-con-luis-garvia-alan-greenspan-inteligencia-artificial-y-brexit-20260623-1144/)
+
+- **19/06/2026** — COPE · Blas Sánchez · Las claves del precio de la fruta: por qué se dispara hasta un 900% del campo al supermercado  
+  📌 [Ver intervención](https://www.cope.es/emisoras/extremadura/noticias/claves-precio-fruta-dispara-900-campo-supermercado-20260619_3386849.html)
+
+- **19/06/2026** — Capital Radio · Capital, la bolsa y la vida · ¿Nos sumamos a las grandes tecnológicas? "Hay una carrera de ratas"  
+  📌 [Ver intervención](https://www.capitalradio.es/audio/6a34e6d4b9bc3ef48d2b0c89/144456608)
+
+- **19/06/2026** — Sport · Ramón Baylos · Luis Garvía, experto en economía: "El ascensor social, que debería ser algo fundamental en un estado de derecho, está roto"  
+  📌 [Ver intervención](https://www.sport.es/es/noticias/economia/luis-garvia-experto-economia-ascensor-131595190)
+
+- **16/06/2026** — Intereconomía · A media sesión · Análisis con Luis Garvía: SpaceX, inteligencia artificial y acuerdo EE.UU.- Irán  
+  📌 [Ver intervención](https://www.intereconomia.com/programas/analisis-con-luis-garvia-spacex-inteligencia-artificial-y-acuerdo-ee-uu-iran-20260616-1158/)
+
+- **15/06/2026** — Grupo Aseguranza · Área XXI · El reto no es acceder a la información. Es filtrarla con críterio  
+  📌 [Ver intervención](https://www.grupoaseguranza.com/noticias-de-seguros/reto-ya-no-acceder-informacion-filtrarla-criterio)
+
+- **13/06/2026** — Latino Insurance · Área XXI · Luis Garvía alerta sobre los riesgos del exceso de liquidez y la necesidad de filtrar información en la economía digital  
+  📌 [Ver intervención](https://boletines.latinoinsurance.com/luis-garvia-alerta-sobre-los-riesgos-del-exceso-de-liquidez-y-la-necesidad-de-filtrar-informacion-en-la-economia-digital)
+
+- **13/06/2026** — La sexta · Sexta Xplica · Pensiones. Sostenibilidad y jóvenes  
+  📌 [Ver intervención](https://www.atresplayer.com/lasexta/programas/lasexta-xplica/2026/13-06-26-botin_6a2bb9158605b0e43c553864/)
+
+- **11/06/2026** — Capital Radio · Café con riesgo · Café con Riesgo-Luis Garvía - Director del Master de Gestión de Riesgos de ICADE  
+  📌 [Ver intervención](https://www.capitalradio.es/audio/6a2ab894c262be0498b2e338/144430410)
+
+- **11/06/2026** — El Español · Paula Bolinaga Trum · Esther Cabrera, trabajadora de 63 años: “Me quiero jubilar, pero me quitan un 21% de la pensión”  
+  📌 [Ver intervención](https://www.elespanol.com/sociedad/20260611/esther-cabrera-trabajadora-anos-quiero-jubilar-quitan-pension-kw/1003744280190_0.html)
+
+- **09/06/2026** — Intereconomía · A media sesión · Análisis económico con Luis Garvía: visita de León XIV a España y salida a Bolsa de SpaceX  
+  📌 [Ver intervención](https://www.intereconomia.com/programas/analisis-economico-con-luis-garvia-visita-de-leon-xiv-a-espana-y-salida-a-bolsa-de-spacex-20260609-1202/)
+
+- **07/06/2026** — Sport · Ronald Goncalves · Luis Garvía, economista: "Hace 20 años cotizaban cinco personas por cada jubilado; ahora son solo 2,3"  
+  📌 [Ver intervención](https://www.sport.es/es/noticias/actualidad/luis-garvia-economista-20-anos-cotizacion-jubilados-131121677)
+
+- **07/06/2026** — La sexta · Sexta Xplica · Salarios y huelga sanidad y educación  
+  📌 [Ver intervención](https://www.atresplayer.com/lasexta/programas/lasexta-xplica/2026/06-06-26-visita-de-leon-xiv-a-espana_6a2287ff92619700076ceb39/)
+
+- **02/06/2026** — Negocios TV · Valeria · LUIS GARVÍA: "Cualquier acuerdo EEUU-Irán no sería nuevo, viene condicionado por la cumbre Trump-Xi"  
+  📌 [Ver intervención](https://youtu.be/iV4KF_C-ecM?si=lvZxyn0tbkC0vw1R)
+
+- **02/06/2026** — Intereconomía · A media sesión · Análisis económico con Luis Garvía: IA, ciberseguridad y factura energética  
+  📌 [Ver intervención](https://www.intereconomia.com/programas/analisis-economico-con-luis-garvia-ia-ciberseguridad-y-factura-energetica-20260602-1217/)
+
+- **30/05/2026** — El periódico · Javier Fidalgo · El doctor en finanzas Luis Garvía advierte: "Tendríamos que empezar a jubilarnos a partir de los 72 años"  
+  📌 [Ver intervención](https://www.elperiodico.com/es/economia/20260530/luis-garvia-experto-economia-tendriamos-empezar-jubilarnos-72-anos-dv-129817680)
 
 - **26/05/2026** — Intereconomía · A media sesión · Análisis económico con Luis Garvía: marco legal para la IA y Magnifica Humanitas  
   📌 [Ver intervención](https://intereconomia.com/programas/analisis-economico-con-luis-garvia-marco-legal-para-la-ia-y-magnifica-humanitas-20260526-1156/)

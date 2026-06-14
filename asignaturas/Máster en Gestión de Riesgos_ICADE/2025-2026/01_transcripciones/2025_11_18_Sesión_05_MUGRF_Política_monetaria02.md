@@ -1398,3 +1398,8 @@ César.
 ¿Pero por qué? ¿Has visto las ojeras que tienen? Y ha venido a las 9:00 de la mañana.  
 Pues César, mis dieces.  
 O sea, y por ha salido.
+
+---
+
+## 🧭 Conexiones
+- **Asignatura Central:** [[00 Área operativa/01 Asignaturas/06 MUGRF 2025-26|06 MUGRF 2025-26]]

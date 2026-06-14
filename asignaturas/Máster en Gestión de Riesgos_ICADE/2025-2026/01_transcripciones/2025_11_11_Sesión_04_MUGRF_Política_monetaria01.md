@@ -935,3 +935,8 @@ Pues ya está el coronavirus no ha habido mucho impacto, pero cuidado que se ha 
 Dudas, preguntas, quejas.  
 Gale, correcto.  
 Rubén, si suben los tipos, fenomenal.
+
+---
+
+## 🧭 Conexiones
+- **Asignatura Central:** [[00 Área operativa/01 Asignaturas/06 MUGRF 2025-26|06 MUGRF 2025-26]]

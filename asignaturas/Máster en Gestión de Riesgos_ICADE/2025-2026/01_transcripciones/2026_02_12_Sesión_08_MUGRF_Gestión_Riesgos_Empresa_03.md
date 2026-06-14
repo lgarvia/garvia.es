@@ -813,3 +813,8 @@ Para que las empresas que no son tan grandes puedan cotizar con un poco más de 
 Back today.  
 Listo, y luego o TC, o TC es importantísimo, no voy a hablar de o TC y luego aquí tenéis 3 diapositivas con cada uno de los 2 supervisor Banco de España. Esta diapositiva la desarrollamos el otro día. En inglés, yo que sé, porque el audio en inglés, Banco de España y MBV.  
 De la acción en DV son valores de supervisión, resumen, resumen, mercados, resumen, este es el resumen, luego esta parte el próximo día.
+
+---
+
+## 🧭 Conexiones
+- **Asignatura Central:** [[00 Área operativa/01 Asignaturas/06 MUGRF 2025-26|06 MUGRF 2025-26]]

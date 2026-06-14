@@ -933,3 +933,8 @@ Después de política monetaria, voy a entrar con la curva de tipos y la curva s
 Y luego inmunización, inmunización y ya estamos.  
 ¿Que no sé ni cómo se llama, cómo se llama?  
 ¿Si no, le, si no le Leo es que ya me ha bloqueado, no?
+
+---
+
+## 🧭 Conexiones
+- **Asignatura Central:** [[00 Área operativa/01 Asignaturas/06 MUGRF 2025-26|06 MUGRF 2025-26]]

@@ -960,3 +960,8 @@ Yo creo que sí, pero al final, ¿qué eventos tienen? Las Miterm están en el c
 Pues vas mirando el calendario y luego flexibilidad para adaptarte a estas cosas. O sea, lo de Pakistán a mí me sorprendió, pero me sorprendió todavía más lo de Irán. Y luego con perspectiva sumas 1 + 1 y luego pones ahí el mapa de la ruta de la sede y dices, pues como que tiene sentido.  
 Voy recogiendo, o sea, digo, apago esto y voy recogiendo, sigo hablando, pero apago dudas, preguntas.  
 Yo creo que ni tan mal no.
+
+---
+
+## 🧭 Conexiones
+- **Asignatura Central:** [[00 Área operativa/01 Asignaturas/06 MUGRF 2025-26|06 MUGRF 2025-26]]

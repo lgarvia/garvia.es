@@ -890,3 +890,8 @@ para que yo haremos alguna más haremos eh o sea mira bien está luego estuve po
 A progresar.  
 Bueno, pues.  
 Ya se tiene que haber.
+
+---
+
+## 🧭 Conexiones
+- **Asignatura Central:** [[00 Área operativa/01 Asignaturas/06 MUGRF 2025-26|06 MUGRF 2025-26]]
