@@ -1,6 +1,21 @@
 # Publicaciones en LinkedIn
 
 <!-- AUTO-GENERATED: START -->
+- **29/08/2026** — De bromance a guerra total 
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_de-bromance-a-guerra-total-la-cronolog%C3%ADa-activity-7499401055701602304-zhsq)
+
+- **28/08/2026** — Apple se sube al tren de la IA  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_apple-se-sube-al-tren-de-la-ia-por-unos-activity-7498982956024221698-gxTY)
+
+- **27/08/2026** — NVIDIA ya no vende chips  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_nvidia-ya-no-vende-chips-hace-menos-activity-7498655147275853824-AcQA)
+
+- **26/08/2026** — Unitree + Alibaba, con Europa como espejo  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_unitree-alibaba-con-europa-como-espejo-activity-7498289266544799744-_aJe)
+
+- **24/08/2026** — En menos de una semana han pasado tres cosas que conviene leer juntas.  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_en-menos-de-una-semana-han-pasado-tres-cosas-activity-7497533404486213632-1KDI)
+
 - **20/08/2026** — Europa tiene ahorro, tiene ciencia pero le falta capital para crecer  
   📌 [Ver publicación](https://www.linkedin.com/posts/garvia_europa-tiene-ahorro-tiene-ciencia-pero-le-activity-7496083853015498752-nIcq)
 

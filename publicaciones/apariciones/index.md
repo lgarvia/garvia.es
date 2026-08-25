@@ -1,5 +1,23 @@
 # Apariciones en medios
 
+- **28/08/2026** — Intereconomía · Marta Isern · Warsh en Jackson Hole  
+  📌 [Ver intervención](https://www.youtube.com/live/5TECV72Ciis?si=GQQ_Jds_Rhe4IRLs)
+
+- **28/08/2026** — Antena 3 · Ahora Sonsoles · Los tips del economista Luis Garvía para sobrevivir a la cuesta de septiembre: "Hay que pararse a pensar"  
+  📌 [Ver intervención](https://www.antena3.com/programas/y-ahora-sonsoles/tips-economista-luis-garvia-sobrevivir-cuesta-septiembre-hay-que-pararse-pensar_202608286a91b6ba2bcaf82098f3885e.html)
+
+- **28/08/2026** — Antena 3 · Ahora Sonsoles · La cuesta de septiembre  
+  📌 [Ver intervención](https://www.atresplayer.com/antena3/programas/entrevistas-de-sonsoles/temporada-2026/oscar-martiinez-28-08-26_6a91c7cdd5dfb0e44f5aa8a4/)
+
+- **28/08/2026** — El Blog Salmón · Editorial · Luis Garvía, experto en finanzas: "La clase media ya no consiste en tener una casa, sino en poder pagar la entrada"  
+  📌 [Ver intervención](https://www.elblogsalmon.com/economia/luis-garvia-experto-finanzas-clase-media-no-consiste-tener-casa-sino-poder-pagar-entrada)
+
+- **28/08/2026** — El País · Cármen Sánchez-Silva · Estos son los delitos empresariales que hacen historia: de Bernie Madoff a Francisco Briones  
+  📌 [Ver intervención](https://elpais.com/economia/negocios/2026-08-28/estos-son-los-delitos-empresariales-que-hacen-historia.html)
+
+- **22/08/2026** — La sexta · Sexta Xplica · Impuestos e insolidario Pascual  
+  📌 [Ver intervención](https://www.atresplayer.com/lasexta/programas/lasexta-xplica/2026/22-08-26-ceuta-un-caos-de-ida-y-vuelta_6a8a0ae420648f000727d194/)
+
 - **16/08/2026** — La Razón · Rodrigo Criado · Luis Garvía, economista, doctor en Finanzas: "La clase media ya no es ni tener una vivienda, sino tener la entrada para acceder a una casa e hipotecarte"  
   📌 [Ver intervención](https://www.larazon.es/economia/luis-garvia-economista-doctor-finanzas-clase-media-tener-vivienda-tener-entrada-acceder-casa-hipotecarte-b50m_202608166a815fbc71b42a0b5df20e2d.html)
 
