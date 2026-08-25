@@ -35,3 +35,7 @@ Local_Preview_Helper.html
 **/generate_index_*.bat
 **/generate_index *.bat
 **/__pycache__/
+
+# === DOCUMENTACIÓN INTERNA / INSTRUCCIONES ===
+INSTRUCCIONES_CREAR_ASIGNATURA.md
+
