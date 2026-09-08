@@ -14,10 +14,9 @@ _Pendiente de enlace_
 <!-- AUTO-GENERATED: START -->
 
 ## Presentaciones
-- [01   Session 01 Fall2026](./02_presentaciones/01 - Session_01_Fall2026.pdf)
-- [02   Session 02 Fall2026](./02_presentaciones/02 - Session_02_Fall2026.pdf)
+- [01   Icade International   Financial Markets   2026   Introduction](./02_presentaciones/01 - ICADE International - Financial markets - 2026 - Introduction.pdf)
 
 ## Resúmenes y transcripciones
-- [02/09/2026 - Financial Markets Session 01 Recap](./01_transcripciones/2026_09_02_Financial_Markets_Session_01_Recap.md)
+- [07/09/2026 - Financial Markets Session 01 Recap](./01_transcripciones/2026_09_07_Financial_Markets_Session_01_Recap.md)
 
 <!-- AUTO-GENERATED: END -->

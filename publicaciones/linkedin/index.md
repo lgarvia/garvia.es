@@ -1,6 +1,15 @@
 # Publicaciones en LinkedIn
 
 <!-- AUTO-GENERATED: START -->
+- **03/09/2026** — Japón lleva décadas financiando al mundo. Empiezan a aparecer señales de que esto está cambiando.  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_jap%C3%B3n-lleva-d%C3%A9cadas-financiando-al-mundo-activity-7501157283201011712-TyWC)
+
+- **01/09/2026** — Liquidez, midterms y la IPO de Anthropic  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_liquidez-midterms-y-la-ipo-de-anthropic-activity-7500417408558403584-2VZ4)
+
+- **31/08/2026** — El salón de espejos de Jackson Hole y la doble baraja de la Fed  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_el-sal%C3%B3n-de-espejos-de-jackson-hole-y-la-activity-7500070119604301824-pnF3)
+
 - **29/08/2026** — De bromance a guerra total 
   📌 [Ver publicación](https://www.linkedin.com/posts/garvia_de-bromance-a-guerra-total-la-cronolog%C3%ADa-activity-7499401055701602304-zhsq)
 

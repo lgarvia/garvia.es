@@ -1,5 +1,20 @@
 # Apariciones en medios
 
+- **03/09/2026** — Ok Diario · Pedro Antolinos · Luis Garvía, economista, sobre la clase media: «Ya no es ni tener una vivienda, sino tener la entrada para acceder a una casa e hipotecarte»  
+  📌 [Ver intervención](https://okdiario.com/economia/luis-garvia-economista-sobre-clase-media-ya-no-ni-tener-vivienda-sino-tener-entrada-acceder-casa-hipotecarte-20214118)
+
+- **02/09/2026** — RTVE · Alma Navarro · La Inteligencia Artificial, el nuevo peligro para la inflación: smartphones, portátiles y consolas ya cuestan un 25% más  
+  📌 [Ver intervención](https://www.rtve.es/noticias/20260902/inteligencia-artificial-nuevo-peligro-para-inflacion-smartphones-portatiles-consolas-ya-cuestan-25-mas/17209056.shtml)
+
+- **01/09/2026** — Intereconomía · A media sesión · Análisis económico con Luis Garvía: próxima visita de Xi Jinping a Estados Unidos  
+  📌 [Ver intervención](https://www.intereconomia.com/programas/analisis-economico-con-luis-garvia-proxima-visita-de-xi-jinping-a-estados-unidos-20260901-1211/)
+
+- **31/08/2026** — La Vanguardia · Luis Florio · Las grandes tecnológicas triplican su beneficio tras la irrupción de la IA  
+  📌 [Ver intervención](https://www.lavanguardia.com/economia/20260831/11623248/grandes-tecnologicas-triplican-beneficio-irrupcion-ia.html)
+
+- **31/08/2026** — RTVE · Alma Navarro · La cuesta de septiembre dispara el endeudamiento de las familias: el riesgo del crédito rápido y la tarjeta revolving  
+  📌 [Ver intervención](https://www.rtve.es/noticias/20260831/cuesta-septiembre-dispara-endeudamiento-familias-riesgo-creditos-rapidos-tarjetas-revolving/17198019.shtml)
+
 - **28/08/2026** — Intereconomía · Marta Isern · Warsh en Jackson Hole  
   📌 [Ver intervención](https://www.youtube.com/live/5TECV72Ciis?si=GQQ_Jds_Rhe4IRLs)
 
