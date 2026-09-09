@@ -1527,11 +1527,11 @@ makes only one payment at maturity.
 
 If the bond pays:
 
-FF
+$$F$$
 
 at time:
 
-TT
+$$T$$
 
 then its price is simply:
 

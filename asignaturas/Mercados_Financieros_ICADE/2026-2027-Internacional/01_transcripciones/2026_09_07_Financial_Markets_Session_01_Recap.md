@@ -434,15 +434,15 @@ The mathematical foundation introduced in the session was the relationship betwe
 
 The basic formula is:
 
-PV=FV1+rPV=\frac{FV}{1+r}
+$$PV = \frac{FV}{1+r}$$
 
 where:
 
-- PVPV = Present Value;
+- $PV$ = Present Value;
     
-- FVFV = Future Value;
+- $FV$ = Future Value;
     
-- rr = interest or discount rate.
+- $r$ = interest or discount rate.
     
 
 This formula will recur throughout the course.
@@ -472,7 +472,7 @@ The basic logic is:
 
 Conceptually:
 
-Value=∑t=1nCFt(1+r)tValue=\sum_{t=1}^{n}\frac{CF_t}{(1+r)^t}
+$$\text{Value} = \sum_{t=1}^{n} \frac{CF_t}{(1+r)^t}$$
 
 DCF is one of the fundamental approaches used to value businesses and financial assets.
 
@@ -612,7 +612,7 @@ The investor could:
 
 Conceptually:
 
-8%−5%=3%8\%-5\%=3\%
+$\$8\% - 5\% = 3\%$$
 
 If both operations are genuinely equivalent in risk and timing, this would represent an arbitrage opportunity.
 
@@ -636,7 +636,7 @@ The intuition will be developed later through present-value mathematics.
 
 For now:
 
-r↑⇒Pbond↓r \uparrow \quad \Rightarrow \quad P_{bond} \downarrow r↓⇒Pbond↑r \downarrow \quad \Rightarrow \quad P_{bond} \uparrow
+$$r\uparrow \;\Rightarrow\; P_{\text{bond}}\downarrow \qquad r\downarrow \;\Rightarrow\; P_{\text{bond}}\uparrow$$
 
 ---
 
@@ -652,7 +652,7 @@ This introduces **leverage**.
 
 For example:
 
-Investment=Investor Equity+Borrowed FundsInvestment = Investor\ Equity + Borrowed\ Funds
+$$\text{Investment} = \text{Investor Equity} + \text{Borrowed Funds}$$
 
 Leverage magnifies the impact of price changes on the investor's own capital.
 
@@ -708,13 +708,13 @@ Students should begin distinguishing between two fundamental market positions.
 
 An investor benefits when the asset price rises.
 
-Price↑⇒ProfitPrice\uparrow \Rightarrow Profit
+$$P\uparrow \;\Rightarrow\; \text{Profit}$$
 
 ### Short position
 
 An investor benefits when the asset price falls.
 
-Price↓⇒ProfitPrice\downarrow \Rightarrow Profit
+$$P\downarrow \;\Rightarrow\; \text{Profit}$$
 
 This distinction is essential for understanding financial markets, derivatives, hedge funds, and trading strategies.
 
@@ -963,17 +963,17 @@ The objective is not yet to master every detail but to become familiar with the 
 
 ## Present Value
 
-PV=FV1+rPV=\frac{FV}{1+r}
+$$PV = \frac{FV}{1+r}$$
 
 For several periods:
 
-PV=FV(1+r)nPV=\frac{FV}{(1+r)^n}
+$$PV = \frac{FV}{(1+r)^n}$$
 
 ---
 
 ## Discounted Cash Flow
 
-Value=∑t=1nCFt(1+r)tValue=\sum_{t=1}^{n}\frac{CF_t}{(1+r)^t}
+$$\text{Value} = \sum_{t=1}^{n} \frac{CF_t}{(1+r)^t}$$
 
 ---
 
@@ -989,7 +989,7 @@ under equivalent risk and timing conditions, an arbitrage opportunity may exist.
 
 ## Bond Price Relationship
 
-Interest Rates↑⇒Bond Prices↓Interest\ Rates\uparrow \Rightarrow Bond\ Prices\downarrow Interest Rates↓⇒Bond Prices↑Interest\ Rates\downarrow \Rightarrow Bond\ Prices\uparrow
+$$\text{Interest Rates}\uparrow \;\Rightarrow\; P_{\text{bond}}\downarrow \qquad \text{Interest Rates}\downarrow \;\Rightarrow\; P_{\text{bond}}\uparrow$$
 
 ---
 
@@ -1028,7 +1028,7 @@ Financial decisions are fundamentally about expectations.
 
 ### 2. Money has a time value.
 
-PV=FV1+rPV=\frac{FV}{1+r}
+$$PV = \frac{FV}{1+r}$$
 
 will become one of the core formulas of the course.
 
