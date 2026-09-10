@@ -8,7 +8,6 @@ institucion: IEB
 tipo: sesion
 estado: preparado
 ---
-
 # IEB – Deontología Profesional
 
 ## Sesión 1 — Introducción: ética, cuidado, pensamiento y herramientas

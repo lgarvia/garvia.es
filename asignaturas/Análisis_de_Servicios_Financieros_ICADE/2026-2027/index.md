@@ -20,5 +20,6 @@ _Pendiente de enlace_
 
 ## Resúmenes y transcripciones
 - [03/09/2026 - Sesión 01 E2A 2026](./01_transcripciones/2026_09_03_Sesión_01_E2A_2026.md)
+- [10/09/2026 - Sesión 02 E2A 2026](./01_transcripciones/2026_09_10_Sesión_02_E2A_2026.md)
 
 <!-- AUTO-GENERATED: END -->

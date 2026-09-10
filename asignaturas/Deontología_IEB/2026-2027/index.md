@@ -20,5 +20,6 @@ _Pendiente de enlace_
 
 ## Resúmenes y transcripciones
 - [07/09/2026 - Deontología Session 01](./01_transcripciones/2026_09_07_IEB_Deontología_Session_01.md)
+- [10/09/2026 - Deontología Session 02](./01_transcripciones/2026_09_10_IEB_Deontología_Session_02.md)
 
 <!-- AUTO-GENERATED: END -->
