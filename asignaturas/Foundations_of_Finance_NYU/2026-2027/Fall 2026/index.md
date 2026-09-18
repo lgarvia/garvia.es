@@ -26,5 +26,7 @@ _Pendiente de enlace_
 - [02/09/2026 - Nyu Foundations Of Finance Session 02 Ficha](./01_transcripciones/2026_09_02_NYU_Foundations_of_Finance_Session_02_Ficha.md)
 - [07/09/2026 - Nyu Foundations Of Finance Session 03 Ficha](./01_transcripciones/2026_09_07_NYU_Foundations_of_Finance_Session_03_Ficha.md)
 - [09/09/2026 - Nyu Foundations Of Finance Session 04 Ficha](./01_transcripciones/2026_09_09_NYU_Foundations_of_Finance_Session_04_Ficha.md)
+- [14/09/2026 - Nyu Foundations Of Finance Session 05 Ficha](./01_transcripciones/2026_09_14_NYU_Foundations_of_Finance_Session_05_Ficha.md)
+- [16/09/2026 - Nyu Foundations Of Finance Session 06 Ficha](./01_transcripciones/2026_09_16_NYU_Foundations_of_Finance_Session_06_Ficha.md)
 
 <!-- AUTO-GENERATED: END -->

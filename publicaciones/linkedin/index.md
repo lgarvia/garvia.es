@@ -1,6 +1,15 @@
 # Publicaciones en LinkedIn
 
 <!-- AUTO-GENERATED: START -->
+- **10/10/2026** — El BCE vuelve a subir los tipos. El error continúa  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_el-bce-vuelve-a-subir-los-tipos-el-error-activity-7503788148494319617-TXeO)
+
+- **09/09/2026** — BYD supera a Tesla en España  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_byd-supera-a-tesla-en-espa%C3%B1a-en-los-ocho-activity-7503316510975631360-Pv5X)
+
+- **07/09/2026** — El arancel que nadie vota pero todos pagamos: el seguro de guerra en el Estrecho de Ormuz  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_el-arancel-que-nadie-vota-pero-todos-pagamos-activity-7502591735202762752-VuAC)
+
 - **03/09/2026** — Japón lleva décadas financiando al mundo. Empiezan a aparecer señales de que esto está cambiando.  
   📌 [Ver publicación](https://www.linkedin.com/posts/garvia_jap%C3%B3n-lleva-d%C3%A9cadas-financiando-al-mundo-activity-7501157283201011712-TyWC)
 

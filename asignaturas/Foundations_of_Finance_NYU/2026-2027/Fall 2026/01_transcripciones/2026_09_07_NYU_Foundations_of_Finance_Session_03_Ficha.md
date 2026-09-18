@@ -140,7 +140,7 @@ Suppose the \$200 investment grows to \$220.
 
 After repaying the bank:
 
-$$220 - 105 = 115$$
+$\$220 - 105 = 115$$
 
 The investor originally contributed only \$100.
 
@@ -248,7 +248,7 @@ Buy it back later at:
 
 Profit:
 
-$$50 - 25 = 25$$
+$\$50 - 25 = 25$$
 
 Therefore:
 
@@ -817,7 +817,7 @@ I know Holly wants to buy, you are making the price drop.
 If you mix this idea with and with Robin Hood, that is the name of a trade or a trader of, if you mix this with and with social networks, you can start saying, no, this company is going to fall and a lot of people will sort and then you can manipulate the market and make.  
 Yeah, this is the this is the story that had happened with Base Stop two years ago. I think they were not implementing the press, but forget about this stuff.  
 Suppose.  
-Suppose the price of the stock today is $50, yes?  
+Suppose the price of the stock today is \$50, yes?  
 And you have a 5000 to invest.  
 Hey.  
 These are three different scenarios: the price can.  

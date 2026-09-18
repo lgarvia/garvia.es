@@ -1,5 +1,20 @@
 # Apariciones en medios
 
+- **09/09/2026** — Intereconomía · A media sesión · IA, deuda y China: la nueva batalla por el poder y el dinero  
+  📌 [Ver intervención](https://www.youtube.com/watch?v=bTS2-dw3DKE)
+
+- **08/09/2026** — Vanitatis · Sandra Gonzálvez · Luis Garvía, sobre el dinero en efectivo que debemos tener en casa: "Debe ser el equivalente a dos semanas de gastos básicos"  
+  📌 [Ver intervención](https://www.vanitatis.elconfidencial.com/vida-saludable/2026-09-08/economista-dinero-efectivo-tener-casa-guerra-iran_4324947/)
+
+- **08/09/2026** — Lider Actual · Jaume Esteve · Luis Garvía, experto en finanzas: "La clase media ya no consiste en tener una casa, sino en poder pagar la entrada"  
+  📌 [Ver intervención](https://www.lideractual.es/economia-personal/luis-garvia-experto-en-finanzas-sostiene-que-la-clase-media-ya-no-consiste-en-tener-una-casa-sino-en-poder-pagar-la-entrada_14596)
+
+- **08/09/2026** — El País · Belén Carreño · España afronta el dilema de qué hacer con el oro depositado en la Reserva Federal de EE UU  
+  📌 [Ver intervención](https://elpais.com/economia/2026-09-08/espana-afronta-el-dilema-de-que-hacer-con-el-oro-depositado-en-la-reserva-federal.html)
+
+- **07/09/2026** — Intereconomía · Itziar Prieto Ruíz · El boom de la IA resucita los oficios: Electricistas y carpinteros, los nuevos cotizados  
+  📌 [Ver intervención](https://www.youtube.com/watch?v=jL5R9mDz0WM)
+
 - **03/09/2026** — Ok Diario · Pedro Antolinos · Luis Garvía, economista, sobre la clase media: «Ya no es ni tener una vivienda, sino tener la entrada para acceder a una casa e hipotecarte»  
   📌 [Ver intervención](https://okdiario.com/economia/luis-garvia-economista-sobre-clase-media-ya-no-ni-tener-vivienda-sino-tener-entrada-acceder-casa-hipotecarte-20214118)
 
