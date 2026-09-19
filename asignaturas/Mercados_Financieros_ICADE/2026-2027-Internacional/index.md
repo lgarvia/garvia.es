@@ -18,6 +18,7 @@ _Pendiente de enlace_
 - [01   Icade International   Financial Markets   2026   Practical   Tvm](./02_presentaciones/01 - ICADE International - Financial markets - 2026 - Practical - TVM.pdf)
 - [02   Icade International   Financial Markets   2026   Lesson 1   The Financial System](./02_presentaciones/02 - ICADE International - Financial markets - 2026 - Lesson 1 - The Financial System.pdf)
 - [02   Icade International   Financial Markets   2026   Practical   Fixed Income](./02_presentaciones/02 - ICADE International - Financial markets - 2026 - Practical - Fixed Income.pdf)
+- [03   Icade International   Financial Markets   2026   Lesson 2   Monetary Policy](./02_presentaciones/03 - ICADE International - Financial markets - 2026 - Lesson 2 - Monetary Policy.pdf)
 
 ## Resúmenes y transcripciones
 - [07/09/2026 - Financial Markets Session 01 Recap](./01_transcripciones/2026_09_07_Financial_Markets_Session_01_Recap.md)

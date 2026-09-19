@@ -1,5 +1,32 @@
 # Apariciones en medios
 
+- **17/09/2026** — IE · Susana Rodríguez Urgel · IA y Poder: La Nueva Carrera por el Dominio Global
+  📌 [Ver intervención](https://www.eventbrite.com/e/ia-y-poder-la-nueva-carrera-por-el-dominio-global-tickets-1993351638410)
+
+- **16/09/2026** — El Confidencial · Javier Molina · El dinero se vuelve programable: la gran transformación que obliga a la banca a reinventarse  
+  📌 [Ver intervención](https://www.elconfidencial.com/mercados/2026-09-16/foro-activos-digitales-dinero-programable-espana-bra_4424444/)
+
+- **16/09/2026** — RTVE · Inés Pérez Chavarri · Inversiones desbocadas y peligro para la humanidad: ¿Por qué frenar ahora el desarrollo de la inteligencia artificial?  
+  📌 [Ver intervención](https://amp.rtve.es/noticias/20260916/inversiones-desbocadas-peligro-para-humanidad-frenar-desarrollo-ia/17226357.shtml)
+
+- **16/09/2026** — La Razón · EFE · Los riesgos de la IA, la excusa del sector para tapar la falta de liquidez  
+  📌 [Ver intervención](https://www.larazon.es/economia/riesgos-excusa-sector-tapar-falta-liquidez_202609166aa9f42c250a3a7556faac06.html?outputType=amp)
+
+- **16/09/2026** — El Confidencial · Javier Molina · IX edición del foro 'Activos digitales', en imágenes  
+  📌 [Ver intervención](https://www.elconfidencial.com/mercados/2026-09-16/activos-digitales-sistema-financiero-tokenizacion-bra_4423491/)
+
+- **15/09/2026** — Intereconomía · A media sesión · Tertulia con Luis Garvía y Antonio Rodríguez-Furones: ralentización en el desarrollo de la IA y reunión de la FED  
+  📌 [Ver intervención](https://www.intereconomia.com/programas/tertulia-con-luis-garvia-y-antonio-rodriguez-furones-ralentizacion-en-el-desarrollo-de-la-ia-y-reunion-de-la-fed-20260915-1130/)
+
+- **15/09/2026** — El Confidencial · Javier Molina · IX edición foro 'Activos Digitales'  
+  📌 [Ver intervención](https://www.youtube.com/watch?v=PsWrftknoLQ)
+
+- **15/09/2026** — La Razón · EFE · Los expertos creen que ralentizar la IA puede ser “un ajuste que el mercado necesita” para evitar una burbuja  
+  📌 [Ver intervención](https://www.larazon.es/economia/expertos-creen-que-ralentizar-puede-ser-ajuste-que-mercado-necesita-evitar-burbuja_202609156aa8fee0e428ed29213fbcd5.html?outputType=amp)
+
+- **10/09/2026** — LinkedIn Noticias · Miguel Ángel Moreno Ramos · Los efectos de la subida de tipos del BCE  
+  📌 [Ver intervención](https://www.linkedin.com/news/story/el-bce-sube-los-tipos-al-2-5-y-alerta-sobre-la-inflaci%C3%B3n-7587580)
+
 - **09/09/2026** — Intereconomía · A media sesión · IA, deuda y China: la nueva batalla por el poder y el dinero  
   📌 [Ver intervención](https://www.youtube.com/watch?v=bTS2-dw3DKE)
 

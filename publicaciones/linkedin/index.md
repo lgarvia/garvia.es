@@ -1,6 +1,12 @@
 # Publicaciones en LinkedIn
 
 <!-- AUTO-GENERATED: START -->
+- **16/09/2026** — No me creo el cuento que me están contando  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_la-fed-sube-los-tipos-25pbs-ugcPost-7506065369464340481-pJEi/)
+
+- **14/09/2026** — Dos gigantes compitiendo por el mismo dinero  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_dos-gigantes-compitiendo-por-el-mismo-dinero-share-7503115790485913600-YM3M/)
+
 - **10/10/2026** — El BCE vuelve a subir los tipos. El error continúa  
   📌 [Ver publicación](https://www.linkedin.com/posts/garvia_el-bce-vuelve-a-subir-los-tipos-el-error-activity-7503788148494319617-TXeO)
 
