@@ -1,7 +1,34 @@
 # Apariciones en medios
 
+- **24/09/2026** — Canal Sur Radio · El Mirador de Andalucía · La IA, sus peligros y mentiras  
+  📌 [Ver intervención](https://audio.canalsurmas.es/videos/detail/407242-la-ia-sus-peligros-y-mentiras)
+
+- **24/09/2026** — El Economista · Ecobrands · "Cerebro complementario" y criterio humano: cómo destacar en la era de la IA  
+  📌 [Ver intervención](https://www.eleconomista.es/branded-content/noticias/14015419/09/26/cerebro-complementario-y-criterio-humano-como-destacar-en-la-era-de-la-ia.html)
+
+- **22/09/2026** — Intereconomía · A media sesión · Análisis económico con Luis Garvía: cumbre China-Estados Unido y desarrollo de la IA  
+  📌 [Ver intervención](https://www.intereconomia.com/programas/analisis-economico-con-luis-garvia-cumbre-china-estados-unido-y-desarrollo-de-la-ia-20260922-1133/)
+
+- **21/09/2026** — Vía País · Rodrigo Capeans · Si no tenés esta cantidad de dinero en efectivo en casa, un experto en economía advierte que podrías estar en riesgo  
+  📌 [Ver intervención](https://viapais.com.ar/economia/tenes-cantidad-dinero-efectivo-casa-experto-economia-advierte-podrias-riesgo_0_tGZlLNJuCo.html)
+
+- **20/09/2026** — Noticias de Navarra · Javier Alonso · ¿Puede la inteligencia artificial aniquilar a la humanidad?  
+  📌 [Ver intervención](https://www.noticiasdenavarra.com/ciencia-y-tecnologia/2026/09/20/inteligencia-artificial-aniquilar-humanidad-11564285.html)
+
+- **20/09/2026** — Telediario · Lara Sánchez · Frenar la IA  
+  📌 [Ver intervención](https://youtu.be/qziMSbAkybw)
+
+- **20/09/2026** — Noticias de Navarra · Javier Alonso · ¿Puede la inteligencia artificial aniquilar a la humanidad?  
+  📌 [Ver intervención](https://www.noticiasdenavarra.com/ciencia-y-tecnologia/2026/09/20/inteligencia-artificial-aniquilar-humanidad-11564285.amp.html)
+
+- **18/09/2026** — Intereconomía · Laura IEB · El déficit de trabajadores amenaza la prosperidad de Suiza: ¿será capaz de superarlo?  
+  📌 [Ver intervención](https://www.youtube.com/watch?is=BO8P9fQ0gfJDXgVt&v=vy4KchxLT6c&feature=youtu.be)
+
 - **17/09/2026** — IE · Susana Rodríguez Urgel · IA y Poder: La Nueva Carrera por el Dominio Global
   📌 [Ver intervención](https://www.eventbrite.com/e/ia-y-poder-la-nueva-carrera-por-el-dominio-global-tickets-1993351638410)
+
+- **16/09/2026** — Intereconomía · Marta Isern · Hay algo que no cuadra en el giro hacia la inflación de la Fed  
+  📌 [Ver intervención](https://www.youtube.com/watch?v=2ZUQFptjYjA)
 
 - **16/09/2026** — El Confidencial · Javier Molina · El dinero se vuelve programable: la gran transformación que obliga a la banca a reinventarse  
   📌 [Ver intervención](https://www.elconfidencial.com/mercados/2026-09-16/foro-activos-digitales-dinero-programable-espana-bra_4424444/)

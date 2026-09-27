@@ -74,7 +74,7 @@ $$\boxed{P = \frac{F}{(1+r)^T}}$$
 
 where:
 
-- FF = face value;
+- $F$ = face value;
     
 - $r$ = required return;
     

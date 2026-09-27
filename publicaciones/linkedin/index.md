@@ -1,6 +1,15 @@
 # Publicaciones en LinkedIn
 
 <!-- AUTO-GENERATED: START -->
+- **25/09/2026** — Ojo con el mercado de deuda pública  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_ojo-con-el-mercado-de-deuda-p%C3%BAblica-el-share-7509000603436658688-1rnK/)
+
+- **23/09/2026** — Algo está pasando en los mercados  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_algo-est%C3%A1-pasando-en-los-mercados-hay-momentos-share-7508285908131987456-48bF/)
+
+- **21/09/2026** — No hay arroz para tanto pollo  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_no-hay-arroz-para-tanto-pollo-dario-amodei-share-7507544059129815040-rr1f/)
+
 - **16/09/2026** — No me creo el cuento que me están contando  
   📌 [Ver publicación](https://www.linkedin.com/posts/garvia_la-fed-sube-los-tipos-25pbs-ugcPost-7506065369464340481-pJEi/)
 

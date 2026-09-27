@@ -22,6 +22,8 @@ _Pendiente de enlace_
 - [06   Session 06 Fall2026](./02_presentaciones/06 - Session_06_Fall2026.pdf)
 - [07   Session 07 Fall2026](./02_presentaciones/07 - Session_07_Fall2026.pdf)
 - [08   Session 08 Fall2026](./02_presentaciones/08 - Session_08_Fall2026.pdf)
+- [09   Session 09 Fall2026](./02_presentaciones/09 - Session_09_Fall2026.pdf)
+- [10   Session 10 Fall2026](./02_presentaciones/10 - Session_10_Fall2026.pdf)
 
 ## Resúmenes y transcripciones
 - [31/08/2026 - Nyu Foundations Of Finance Session 01 Ficha](./01_transcripciones/2026_08_31_NYU_Foundations_of_Finance_Session_01_Ficha.md)
@@ -30,5 +32,7 @@ _Pendiente de enlace_
 - [09/09/2026 - Nyu Foundations Of Finance Session 04 Ficha](./01_transcripciones/2026_09_09_NYU_Foundations_of_Finance_Session_04_Ficha.md)
 - [14/09/2026 - Nyu Foundations Of Finance Session 05 Ficha](./01_transcripciones/2026_09_14_NYU_Foundations_of_Finance_Session_05_Ficha.md)
 - [16/09/2026 - Nyu Foundations Of Finance Session 06 Ficha](./01_transcripciones/2026_09_16_NYU_Foundations_of_Finance_Session_06_Ficha.md)
+- [21/09/2026 - Nyu Foundations Of Finance Session 07 Ficha](./01_transcripciones/2026_09_21_NYU_Foundations_of_Finance_Session_07_Ficha.md)
+- [23/09/2026 - Nyu Foundations Of Finance Session 08 Ficha](./01_transcripciones/2026_09_23_NYU_Foundations_of_Finance_Session_08_Ficha.md)
 
 <!-- AUTO-GENERATED: END -->
