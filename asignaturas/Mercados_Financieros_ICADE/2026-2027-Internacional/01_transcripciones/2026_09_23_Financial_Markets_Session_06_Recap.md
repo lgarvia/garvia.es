@@ -8,8 +8,6 @@ institucion: ICADE
 tipo: sesion
 estado: preparado
 ---
-
-
 # Financial Markets – Session 6: Investment Returns, Monetary Policy & Financial Crises
 
 ## 1. Session Overview

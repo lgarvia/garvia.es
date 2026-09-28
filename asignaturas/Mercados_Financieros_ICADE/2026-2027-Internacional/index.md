@@ -28,5 +28,6 @@ _Pendiente de enlace_
 - [16/09/2026 - Financial Markets Session 04 Recap](./01_transcripciones/2026_09_16_Financial_Markets_Session_04_Recap.md)
 - [21/09/2026 - Financial Markets Session 05 Recap](./01_transcripciones/2026_09_21_Financial_Markets_Session_05_Recap.md)
 - [23/09/2026 - Financial Markets Session 06 Recap](./01_transcripciones/2026_09_23_Financial_Markets_Session_06_Recap.md)
+- [28/09/2026 - Financial Markets Session 07 Recap](./01_transcripciones/2026_09_28_Financial_Markets_Session_07_Recap.md)
 
 <!-- AUTO-GENERATED: END -->

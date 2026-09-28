@@ -25,5 +25,7 @@ _Pendiente de enlace_
 - [14/09/2026 - Deontología Session 03](./01_transcripciones/2026_09_14_IEB_Deontología_Session_03.md)
 - [17/09/2026 - Deontología Session 04](./01_transcripciones/2026_09_17_IEB_Deontología_Session_04.md)
 - [21/09/2026 - Deontología Session 05](./01_transcripciones/2026_09_21_IEB_Deontología_Session_05.md)
+- [24/09/2026 - Deontología Session 06](./01_transcripciones/2026_09_24_IEB_Deontología_Session_06.md)
+- [28/09/2026 - Deontología Session 07](./01_transcripciones/2026_09_28_IEB_Deontología_Session_07.md)
 
 <!-- AUTO-GENERATED: END -->

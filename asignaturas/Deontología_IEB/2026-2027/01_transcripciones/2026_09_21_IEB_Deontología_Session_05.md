@@ -8,7 +8,6 @@ institucion: IEB
 tipo: sesion
 estado: preparado
 ---
-
 # IEB – Deontología Profesional
 
 ## Sesión 5 — Ética, ley y sentido de la norma
