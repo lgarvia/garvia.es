@@ -8,7 +8,6 @@ institucion: ICADE
 tipo: sesion
 estado: preparado
 ---
-
 # Financial Markets – Session 7: Fixed Income, Duration & the Yield Curve
 
 ## 1. Session Overview
