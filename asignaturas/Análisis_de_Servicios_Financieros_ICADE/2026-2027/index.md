@@ -20,6 +20,7 @@ _Pendiente de enlace_
 - [03   Icade E2A   Análisis De Servicios Financieros   Sessión 3](./02_presentaciones/03 - ICADE E2A - Análisis de Servicios Financieros - Sessión 3.pdf)
 - [04   Icade E2A   Análisis De Servicios Financieros   Sessión 4](./02_presentaciones/04 - ICADE E2A - Análisis de Servicios Financieros - Sessión 4.pdf)
 - [05   Icade E2A   Análisis De Servicios Financieros   Sessión 5](./02_presentaciones/05 - ICADE E2A - Análisis de Servicios Financieros - Sessión 5.pdf)
+- [06   Icade E2A   Análisis De Servicios Financieros   Sessión 6   Entidades De Crédito   Camel](./02_presentaciones/06 - ICADE E2A - Análisis de Servicios Financieros - Sessión 6 - Entidades de crédito - CAMEL.pdf)
 
 ## Resúmenes y transcripciones
 - [03/09/2026 - Sesión 01 E2A 2026](./01_transcripciones/2026_09_03_Sesión_01_E2A_2026.md)

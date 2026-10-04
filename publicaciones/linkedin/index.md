@@ -1,6 +1,15 @@
 # Publicaciones en LinkedIn
 
 <!-- AUTO-GENERATED: START -->
+- **02/10/2026** — La renta fija cada vez está más tensionada  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_la-deuda-p%C3%BAblica-en-niveles-de-stress-ugcPost-7511545557979652096-WVoe/)
+
+- **30/09/2026** — ¿Qué ha conseguido EEUU restringiendo el acceso tecnológico a China?  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_qu%C3%A9-ha-conseguido-eeuu-restringiendo-el-share-7510769485591511040-66BD/)
+
+- **28/09/2026** — ¿Cuánto más puede aguantar Europa?  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_cu%C3%A1nto-m%C3%A1s-puede-aguantar-europa-durante-share-7509963269848166400-FImm/)
+
 - **25/09/2026** — Ojo con el mercado de deuda pública  
   📌 [Ver publicación](https://www.linkedin.com/posts/garvia_ojo-con-el-mercado-de-deuda-p%C3%BAblica-el-share-7509000603436658688-1rnK/)
 

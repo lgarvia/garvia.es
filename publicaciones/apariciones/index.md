@@ -1,5 +1,11 @@
 # Apariciones en medios
 
+- **30/09/2026** — Intereconomía · Pulso Geopolítico · ¿Es Europa el nuevo «enfermo del mundo»? Deuda, guerra comercial con China y la trampa de la IA  
+  📌 [Ver intervención](https://www.youtube.com/watch?v=EST8nV0PU28)
+
+- **26/09/2026** — Expansión · Susana Pérez · Cómo impacta el nuevo escenario de las divisas en la cartera  
+  📌 [Ver intervención](https://www.expansion.com/inversion/2026/09/26/6ab7a259e5fdea3f1a8b4587.html)
+
 - **24/09/2026** — Canal Sur Radio · El Mirador de Andalucía · La IA, sus peligros y mentiras  
   📌 [Ver intervención](https://audio.canalsurmas.es/videos/detail/407242-la-ia-sus-peligros-y-mentiras)
 

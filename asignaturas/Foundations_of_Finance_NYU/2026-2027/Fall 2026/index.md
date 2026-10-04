@@ -24,6 +24,8 @@ _Pendiente de enlace_
 - [08   Session 08 Fall2026](./02_presentaciones/08 - Session_08_Fall2026.pdf)
 - [09   Session 09 Fall2026](./02_presentaciones/09 - Session_09_Fall2026.pdf)
 - [10   Session 10 Fall2026](./02_presentaciones/10 - Session_10_Fall2026.pdf)
+- [11   Session 11 Fall2026](./02_presentaciones/11 - Session_11_Fall2026.pdf)
+- [12   Session 12 Fall2026](./02_presentaciones/12 - Session_12_Fall2026.pdf)
 
 ## Resúmenes y transcripciones
 - [31/08/2026 - Nyu Foundations Of Finance Session 01 Ficha](./01_transcripciones/2026_08_31_NYU_Foundations_of_Finance_Session_01_Ficha.md)

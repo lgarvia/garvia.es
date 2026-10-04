@@ -21,6 +21,7 @@ _Pendiente de enlace_
 - [03   Icade International   Financial Markets   2026   Lesson 2   Monetary Policy](./02_presentaciones/03 - ICADE International - Financial markets - 2026 - Lesson 2 - Monetary Policy.pdf)
 - [04   Icade International   Financial Markets   2026   Lesson 3   Exercises And Solutions](./02_presentaciones/04 - ICADE International - Financial markets - 2026 - Lesson 3 - Exercises and Solutions.pdf)
 - [04   Icade International   Financial Markets   2026   Lesson 3   Interest Rate Risk](./02_presentaciones/04 - ICADE International - Financial markets - 2026 - Lesson 3 - Interest rate risk.pdf)
+- [05   Icade   Financial Markets   2026   Lesson 4   Credit Institutions](./02_presentaciones/05 - ICADE - Financial markets - 2026 - Lesson 4 - Credit institutions.pdf)
 
 ## Resúmenes y transcripciones
 - [07/09/2026 - Financial Markets Session 01 Recap](./01_transcripciones/2026_09_07_Financial_Markets_Session_01_Recap.md)
