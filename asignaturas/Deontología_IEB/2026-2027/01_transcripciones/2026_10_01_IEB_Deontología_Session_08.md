@@ -469,7 +469,252 @@ Planteaba una fuerte distinción entre:
 - mundo de las ideas.
     
 
-Esta dualidad permite entender también la clásica
+Esta dualidad permite entender también la clásica separación entre:
+
+- cuerpo;
+    
+- alma.
+    
+
+### Descartes
+
+La conciencia y el pensamiento vuelven a situarse en el centro de la pregunta por la persona.
+
+La cuestión quedó abierta.
+
+---
+
+## 16. Identidad
+
+Del concepto de alma se pasó a otro diferente:
+
+# **identidad**
+
+La identidad responde a otra pregunta:
+
+> **¿quién soy?**
+
+Y las respuestas pueden incluir:
+
+- nuestro nombre;
+    
+- nuestra familia;
+    
+- nuestras raíces;
+    
+- nuestra cultura;
+    
+- nuestra historia;
+    
+- nuestras experiencias;
+    
+- nuestras creencias;
+    
+- nuestras relaciones.
+    
+
+La identidad no es necesariamente algo completamente estático.
+
+Puede desarrollarse y modificarse con nuestras circunstancias y experiencias.
+
+---
+
+## 17. Nombre e identidad
+
+Un ejemplo muy sencillo fue el nombre.
+
+En un aula puede haber varias personas llamadas María.
+
+Pero compartir un nombre no significa compartir identidad.
+
+El nombre:
+
+- identifica;
+    
+- diferencia;
+    
+- conecta con nuestra historia;
+    
+- forma parte de cómo los demás nos reconocen.
+    
+
+Pero:
+
+> **somos mucho más que nuestro nombre.**
+
+La pregunta «¿quién eres?» no puede responderse únicamente enseñando un documento de identidad.
+
+---
+
+## 18. Raíces, cultura y pertenencia
+
+Otra respuesta surgida durante la clase fue:
+
+> **“Soy mis raíces.”**
+
+Esto introduce el componente cultural de la persona.
+
+Nuestra identidad está influida por:
+
+- familia;
+    
+- lengua;
+    
+- lugar de origen;
+    
+- educación;
+    
+- entorno social;
+    
+- tradiciones.
+    
+
+Una persona no existe aislada.
+
+Parte de lo que somos se construye mediante nuestras relaciones con otras personas y con la sociedad en la que vivimos.
+
+---
+
+## 19. Religión como dimensión personal
+
+La religión apareció también como posible elemento de identidad.
+
+Pero se insistió en que se trata de una dimensión profundamente personal.
+
+Desde el punto de vista jurídico, nuestras:
+
+- creencias;
+    
+- convicciones;
+    
+- ideología;
+    
+
+disponen de una protección especial.
+
+Esto enlaza nuevamente con el tema anterior del curso.
+
+La ley intenta proteger precisamente dimensiones de la persona que consideramos especialmente importantes.
+
+---
+
+## 20. Robots, inteligencia artificial y aprendizaje
+
+Durante el descanso apareció una breve discusión sobre robots humanoides y código abierto.
+
+El ejemplo sirvió para introducir una diferencia interesante.
+
+Los robots pueden:
+
+- recoger información;
+    
+- interactuar;
+    
+- aprender de los datos;
+    
+- modificar su comportamiento.
+    
+
+Además, mediante el código abierto, una comunidad puede compartir información y acelerar el aprendizaje colectivo.
+
+La misma lógica se aplicó a las herramientas de inteligencia artificial utilizadas durante el curso:
+
+> **la IA no debería limitarse a hacer cosas por nosotros; debería ayudarnos también a aprender a hacerlas.**
+
+---
+
+# 21. Una primera aproximación a la persona
+
+Después de la sesión, podemos construir provisionalmente una visión en capas:
+
+### Dimensión biológica
+
+Somos organismos vivos con necesidades y mecanismos automáticos.
+
+### Dimensión emocional
+
+Experimentamos miedo, afecto, deseo, agresividad y vínculos.
+
+### Dimensión habitual
+
+Aprendemos mediante costumbres y repetición.
+
+### Dimensión racional
+
+Podemos analizar, decidir y cuestionar nuestros propios impulsos.
+
+### Dimensión consciente
+
+Somos capaces de preguntarnos por nosotros mismos.
+
+### Dimensión social
+
+Vivimos dentro de familias, grupos y culturas.
+
+### Dimensión identitaria
+
+Construimos una respuesta a la pregunta «¿quién soy?».
+
+La definición de persona todavía no está cerrada.
+
+Ese será precisamente el objeto de las próximas sesiones.
+
+---
+
+# 22. Las cinco ideas fundamentales
+
+1. **La persona no puede entenderse únicamente desde la razón.** También existen emociones, hábitos, impulsos y necesidades.
+    
+2. **El contexto importa.** La presión social y las circunstancias pueden modificar profundamente nuestro comportamiento.
+    
+3. **Pensar éticamente implica ser capaz de superar, cuando sea necesario, nuestros automatismos.**
+    
+4. **La conciencia de uno mismo añade una dimensión fundamental a la pregunta sobre qué significa ser persona.**
+    
+5. **La identidad combina biología, historia, cultura, relaciones, experiencias y decisiones personales.**
+    
+
+---
+
+# 23. Para reflexionar
+
+- ¿Somos racionales o simplemente tenemos capacidad para ser racionales?
+    
+- ¿Cuánto de nuestro comportamiento decidimos conscientemente?
+    
+- ¿Qué parte de nuestra identidad hemos elegido?
+    
+- ¿Seguiríamos siendo la misma persona si perdiéramos nuestros recuerdos?
+    
+- ¿Qué diferencia esencial existe entre una persona, un animal y una inteligencia artificial?
+    
+
+---
+
+## Próxima sesión
+
+La siguiente sesión continuará con el bloque de:
+
+# **La persona**
+
+y profundizará en:
+
+- identidad;
+    
+- conciencia;
+    
+- dimensión social;
+    
+- dimensión personal;
+    
+- comportamiento;
+    
+- relación entre naturaleza, cultura y libertad.
+    
+
+También quedó pendiente una lectura que se trabajará en las próximas clases.
+
+---
 
 
 # Transcripción

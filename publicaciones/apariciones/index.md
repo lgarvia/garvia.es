@@ -1,7 +1,34 @@
 # Apariciones en medios
 
+- **13/10/2026** — Intereconomía · A media sesión · Análisis económico con Luis Garvía: previsiones del FMI, China e Inteligencia Artificial  
+  📌 [Ver intervención](https://www.intereconomia.com/programas/analisis-economico-con-luis-garvia-previsiones-del-fmi-china-e-inteligencia-artificial-20261013-1155/)
+
+- **12/10/2026** — ABC · Adrián Espallargas · El apocalipsis laboral de la inteligencia artificial todavía puede esperar  
+  📌 [Ver intervención](https://www.abc.es/economia/apocalipsis-laboral-inteligencia-artificial-puede-esperar-20261012235010-nt.html?ref=https%3A%2F%2Fwww.abc.es%2Feconomia%2Fapocalipsis-laboral-inteligencia-artificial-puede-esperar-20261012235010-nt.html)
+
+- **12/10/2026** — The Conversation · Elba Astorga · Nobel de Economía 2026: las decisiones individuales que mueven la economía  
+  📌 [Ver intervención](https://theconversation.com/nobel-de-economia-2026-las-decisiones-individuales-que-mueven-la-economia-293133)
+
+- **08/10/2026** — RTVE · Alma Navarro · ¿De dónde sale el dinero para pagar unas elecciones? "El 29N costará casi seis euros por votante"  
+  📌 [Ver intervención](https://amp.rtve.es/noticias/20261008/donde-sale-dinero-pagar-elecciones-costara-seis-euros-votante/17253723.shtml)
+
+- **08/10/2026** — UNAE · Carlos Linares · Federación UNAE sitúa la autonomía económica de las personas mayores en el centro del debate sobre consumo y protección  
+  📌 [Ver intervención](https://federacionunae.com/2026/10/08/federacion-unae-situa-la-autonomia-economica-de-las-personas-mayores-en-el-centro-del-debate-sobre-consumo-y-proteccion/)
+
+- **07/10/2026** — LinkedIn Noticias · Miguel Ángel Moreno Ramos · Francia, el canario en la mina de la deuda pública  
+  📌 [Ver intervención](https://www.linkedin.com/news/story/francia-el-canario-en-la-mina-de-la-deuda-p%C3%BAblica-7659668/)
+
+- **06/10/2026** — Intereconomía · A media sesión · Análisis económico con Luis Garvía: decretos sobre vivienda y convocatoria de huelga general  
+  📌 [Ver intervención](https://intereconomia.com/programas/analisis-economico-con-luis-garvia-decretos-sobre-vivienda-y-convocatoria-de-huelga-general-20261006-1209/)
+
+- **06/10/2026** — El Economista · Marta Yoldi · Las elecciones anticipadas pondrán coto al aumento excesivo del gasto público  
+  📌 [Ver intervención](https://www.eleconomista.es/economia/noticias/14018890/10/26/las-elecciones-anticipadas-pondran-coto-al-aumento-excesivo-del-gasto-publico.html)
+
 - **30/09/2026** — Intereconomía · Pulso Geopolítico · ¿Es Europa el nuevo «enfermo del mundo»? Deuda, guerra comercial con China y la trampa de la IA  
   📌 [Ver intervención](https://www.youtube.com/watch?v=EST8nV0PU28)
+
+- **26/09/2026** — LinkedIn Noticias · Miguel Ángel Moreno Ramos · La deuda pública, en escalada: las claves  
+  📌 [Ver intervención](https://www.linkedin.com/news/story/la-deuda-p%C3%BAblica-en-escalada-las-claves-7609308/)
 
 - **26/09/2026** — Expansión · Susana Pérez · Cómo impacta el nuevo escenario de las divisas en la cartera  
   📌 [Ver intervención](https://www.expansion.com/inversion/2026/09/26/6ab7a259e5fdea3f1a8b4587.html)

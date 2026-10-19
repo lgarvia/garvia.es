@@ -8,7 +8,6 @@ institucion: ICADE
 tipo: sesion
 estado: preparado
 ---
-
 # Financial Markets – Session 8: Interest Rate Sensitivity, Forward Rates & Equity Valuation
 
 ## 1. Session Overview

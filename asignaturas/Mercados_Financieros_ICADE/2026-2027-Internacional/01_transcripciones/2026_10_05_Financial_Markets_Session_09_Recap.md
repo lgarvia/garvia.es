@@ -8,7 +8,6 @@ institucion: ICADE
 tipo: sesion
 estado: preparado
 ---
-
 # Financial Markets – Session 9: Banking Business, Bank Runs & Financial Stability
 
 ## 1. Session Overview

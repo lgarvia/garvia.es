@@ -28,5 +28,7 @@ _Pendiente de enlace_
 - [17/09/2026 - Sesión 03 E2A 2026](./01_transcripciones/2026_09_17_Sesión_03_E2A_2026.md)
 - [24/09/2026 - Sesión 04 E2A 2026](./01_transcripciones/2026_09_24_Sesión_04_E2A_2026.md)
 - [01/10/2026 - Sesión 05 E2A 2026](./01_transcripciones/2026_10_01_Sesión_05_E2A_2026.md)
+- [08/10/2026 - Sesión 06 E2A 2026](./01_transcripciones/2026_10_08_Sesión_06_E2A_2026.md)
+- [15/10/2026 - Sesión 07 E2A 2026](./01_transcripciones/2026_10_15_Sesión_07_E2A_2026.md)
 
 <!-- AUTO-GENERATED: END -->

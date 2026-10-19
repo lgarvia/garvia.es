@@ -1,6 +1,21 @@
 # Publicaciones en LinkedIn
 
 <!-- AUTO-GENERATED: START -->
+- **16/10/2026** — Nobel de Economía – Polarización, Schumpeter y Keynes.  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_nobel-de-econom%C3%ADa-polarizaci%C3%B3n-schumpeter-share-7516140896971669504-K54G/)
+
+- **14/10/2026** — ¿Qué ha sucedido con los fondos europeos?  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_qu%C3%A9-ha-sucedido-con-los-fondos-europeos-share-7515042928629706752-iH2X/)
+
+- **12/10/2026** — Nobel Economía 2026 - De las decisiones individuales a la estabilidad global  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_nobel-econom%C3%ADa-2026-de-las-decisiones-individuales-share-7515357722905788416-RRNS/)
+
+- **07/10/2026** — El Estado del bienestar necesita accionistas, no solo contribuyentes  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_el-estado-del-bienestar-necesita-accionistas-share-7513353018571128832-m-wH/)
+
+- **05/10/2026** — Mapa de la robótica en China.  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_hace-tres-a%C3%B1os-la-mayor-parte-de-los-nombres-share-7512630734231060480-mZYe/)
+
 - **02/10/2026** — La renta fija cada vez está más tensionada  
   📌 [Ver publicación](https://www.linkedin.com/posts/garvia_la-deuda-p%C3%BAblica-en-niveles-de-stress-ugcPost-7511545557979652096-WVoe/)
 

@@ -40,5 +40,6 @@ _Pendiente de enlace_
 - [30/09/2026 - Nyu Foundations Of Finance Session 10 Ficha](./01_transcripciones/2026_09_30_NYU_Foundations_of_Finance_Session_10_Ficha.md)
 - [05/10/2026 - Nyu Foundations Of Finance Session 11 Ficha](./01_transcripciones/2026_10_05_NYU_Foundations_of_Finance_Session_11_Ficha.md)
 - [07/10/2026 - Nyu Foundations Of Finance Session 12 Ficha](./01_transcripciones/2026_10_07_NYU_Foundations_of_Finance_Session_12_Ficha.md)
+- [14/10/2026 - Nyu Foundations Of Finance Session 13 Ficha](./01_transcripciones/2026_10_14_NYU_Foundations_of_Finance_Session_13_Ficha.md)
 
 <!-- AUTO-GENERATED: END -->
