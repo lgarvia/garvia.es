@@ -1,13 +1,21 @@
 # Curso 2026-2027
 
-## 📢 Avisos
-- Inicio de curso
+## 📢 Fechas Clave y Evaluación
+- **Entrega de Trabajo Práctico (Carril Abierto)**: **Jueves, 22 de octubre de 2026**.
+- **Primer Examen Parcial**: **Jueves, 29 de octubre de 2026**.
+- **Estructura de la prueba**: Preguntas cortas sobre conceptos financieros clave y preguntas de desarrollo/análisis práctico sobre banca, riesgos y productos financieros.
 
-## 🧭 Notas del curso
-Material en revisión continua. Algunas transcripciones pueden actualizarse.
+## 🧭 Estructura del Curso
+- **Bloques temáticos principales**:
+  1. *El sistema financiero y la intermediación*
+  2. *Entidades de crédito y modelo de negocio bancario*
+  3. *Análisis de solvencia y supervisión: Metodología CAMEL*
+  4. *Gestión y tipología de riesgos (crédito, mercado y liquidez)*
+  5. *Instrumentos, productos financieros y servicios de inversión*
 
-## 📒 Cuaderno NoteBookLM de la asignatura
-_Pendiente de enlace_
+## 🔗 Enlaces y Recursos
+- 🌐 **Web de la asignatura**: [garvia.es - Análisis de Servicios Financieros](https://garvia.es/asignaturas/An%C3%A1lisis_de_Servicios_Financieros_ICADE/2026-2027/)
+- 📒 **Cuaderno NoteBookLM**: [Acceso al cuaderno NoteBookLM](https://notebook.google.com/notebook/8cac07c2-2200-4cae-84ee-a51217a75d66)
 
 ---
 

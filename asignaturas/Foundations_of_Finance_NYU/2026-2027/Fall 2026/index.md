@@ -1,13 +1,23 @@
-# Curso 2026-2027 - Fall 2026
+# Foundations of Finance — Fall 2026 (NYU Madrid)
 
-## 📢 Avisos
-- Inicio de curso
+## 📢 Key Dates & Midterm Exam
+- **Midterm Exam Preparation**: Review **Sample Midterm 1** and **Sample Midterm 2** and their complete solutions discussed in class.
+- **Exam Format & Rules**:
+  - Numerical valuation problems and conceptual multiple-choice / short questions.
+  - Calculators are permitted.
+  - Emphasizes economic intuition, cash flow connections, and asset pricing fundamentals.
 
-## 🧭 Notas del curso
-Material en revisión continua. Algunas transcripciones pueden actualizarse.
+## 🧭 Course Structure & Core Blocks
+- **Covered Topics**:
+  1. *Financial Assets & Market Mechanics (Equities, Debt, Derivatives, Leverage & Short Sales)*
+  2. *Time Value of Money (PV, FV, Compounding, Annuities & Perpetuities)*
+  3. *Fixed Income Valuation (Bond Pricing, Yields, Holding Period Return, Duration)*
+  4. *Equity Valuation (Dividend Discount Models, Growth Opportunities, Multiples)*
+  5. *Project Valuation & Capital Budgeting (Cash Flows & NPV)*
 
-## 📒 Cuaderno NoteBookLM de la asignatura
-_Pendiente de enlace_
+## 🔗 Links & Resources
+- 🌐 **Course Website**: [garvia.es - Foundations of Finance NYU](https://garvia.es/asignaturas/Foundations_of_Finance_NYU/2026-2027/Fall%202026/)
+- 📒 **Google NotebookLM Board**: [Access the NotebookLM Board](https://notebook.google.com/notebook/d34d437b-7289-4323-b942-b311ab76a3df)
 
 ---
 

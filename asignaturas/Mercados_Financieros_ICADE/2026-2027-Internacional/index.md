@@ -1,13 +1,24 @@
-# Curso 2026-2027
+# Financial Markets (International) — Fall 2026
 
-## 📢 Avisos
-- Inicio de curso
+## 📢 Key Dates & Midterm Exam
+- **Midterm Exam**: **Monday, October 26, 2026** (in class, 80 minutes).
+- **Exam Structure (4 parts)**:
+  1. *Quantitative Problem*: Time Value of Money (TVM) / Fixed Income calculation (based on Problem Sets 1 & 2).
+  2. *Financial Press Article Analysis*: Macroeconomic context, fiscal policy, and monetary policy implications.
+  3. *Short Conceptual Questions*: Core market mechanisms, instruments, and definitions.
+  4. *Analytical Discussion*: Real-world market dynamics and financial intermediation.
 
-## 🧭 Notas del curso
-Material en revisión continua. Algunas transcripciones pueden actualizarse.
+## 🧭 Course Structure & Core Blocks
+- **Main Lessons**:
+  1. *The Financial System, Markets & Intermediation*
+  2. *Time Value of Money (TVM) & Asset Valuation*
+  3. *Monetary Policy & Central Banking*
+  4. *Fixed Income: Pricing, Yields, Duration & Interest Rate Risk*
+  5. *Credit Institutions & Banking Structure*
 
-## 📒 Cuaderno NoteBookLM de la asignatura
-_Pendiente de enlace_
+## 🔗 Links & Resources
+- 🌐 **Course Website**: [garvia.es - Financial Markets ICADE International](https://garvia.es/asignaturas/Mercados_Financieros_ICADE/2026-2027-Internacional/)
+- 📒 **Google NotebookLM Board**: [Access the NotebookLM Board](https://notebook.google.com/notebook/26d57c5b-faee-4992-a33e-e83568ca3d57)
 
 ---
 
