@@ -1,11 +1,8 @@
 # Foundations of Finance — Fall 2026 (NYU Madrid)
 
-## 📢 Key Dates & Midterm Exam
-- **Midterm Exam Preparation**: Review **Sample Midterm 1** and **Sample Midterm 2** and their complete solutions discussed in class.
-- **Exam Format & Rules**:
-  - Numerical valuation problems and conceptual multiple-choice / short questions.
-  - Calculators are permitted.
-  - Emphasizes economic intuition, cash flow connections, and asset pricing fundamentals.
+## 📢 Course Progress & Key Milestones
+- **Midterm Exam**: Completed on October 19, 2026. Review of solutions and exam performance took place in Session 15.
+- **Second Half of the Course**: Shift from valuation with given discount rates to asset pricing and the origin of required returns (Risk, Return, Modern Portfolio Theory, and CAPM).
 
 ## 🧭 Course Structure & Core Blocks
 - **Covered Topics**:
@@ -14,6 +11,8 @@
   3. *Fixed Income Valuation (Bond Pricing, Yields, Holding Period Return, Duration)*
   4. *Equity Valuation (Dividend Discount Models, Growth Opportunities, Multiples)*
   5. *Project Valuation & Capital Budgeting (Cash Flows & NPV)*
+  6. *Risk, Return & Modern Portfolio Theory (Expected Return, Volatility, Covariance, Diversification)*
+  7. *Asset Pricing & Cost of Capital (CAPM, Beta, Systematic vs. Unsystematic Risk)*
 
 ## 🔗 Links & Resources
 - 🌐 **Course Website**: [garvia.es - Foundations of Finance NYU](https://garvia.es/asignaturas/Foundations_of_Finance_NYU/2026-2027/Fall%202026/)
@@ -51,5 +50,6 @@
 - [05/10/2026 - Nyu Foundations Of Finance Session 11 Ficha](./01_transcripciones/2026_10_05_NYU_Foundations_of_Finance_Session_11_Ficha.md)
 - [07/10/2026 - Nyu Foundations Of Finance Session 12 Ficha](./01_transcripciones/2026_10_07_NYU_Foundations_of_Finance_Session_12_Ficha.md)
 - [14/10/2026 - Nyu Foundations Of Finance Session 13 Ficha](./01_transcripciones/2026_10_14_NYU_Foundations_of_Finance_Session_13_Ficha.md)
+- [21/10/2026 - Nyu Foundations Of Finance Session 15 Ficha](./01_transcripciones/2026_10_21_NYU_Foundations_of_Finance_Session_15_Ficha.md)
 
 <!-- AUTO-GENERATED: END -->
