@@ -25,5 +25,6 @@ _No hay presentaciones publicadas._
 
 ## Resúmenes y transcripciones
 - [05/10/2026 - Mugrf Sesión 01 Obsidian Y Antigravity Inicio](./01_transcripciones/2026_10_05_MUGRF_Sesión_01_Obsidian y Antigravity_Inicio.md)
+- [19/10/2026 - Mugrf Sesión 02 Allianz](./01_transcripciones/2026_10_19_MUGRF_Sesión_02_Allianz.md)
 
 <!-- AUTO-GENERATED: END -->

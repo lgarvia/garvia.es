@@ -4,6 +4,9 @@
 - **Entrega de Trabajo Práctico (Carril Abierto)**: **Jueves, 22 de octubre de 2026**.
 - **Primer Examen Parcial**: **Jueves, 29 de octubre de 2026**.
 - **Estructura de la prueba**: Preguntas cortas sobre conceptos financieros clave y preguntas de desarrollo/análisis práctico sobre banca, riesgos y productos financieros.
+- **Material de preparación para el parcial**:
+  - 📄 [Documento de Repaso: Banca para el parcial (Bloque 2)](./02_presentaciones/00%20-%20Repaso%20-%20Bloque%202%20-%20E2BA.md)
+  - 📊 [Presentación: Repaso Bloque 1](./02_presentaciones/00%20-%20Repaso%20-%20Bloque%201%20-%20E2BA.pdf)
 
 ## 🧭 Estructura del Curso
 - **Bloques temáticos principales**:
@@ -22,6 +25,7 @@
 <!-- AUTO-GENERATED: START -->
 
 ## Presentaciones
+- [00   Repaso   Bloque 1   E2Ba](./02_presentaciones/00 - Repaso - Bloque 1 - E2BA.pdf)
 - [01   Icade E2A   Análisis De Servicios Financieros   Sessión 1](./02_presentaciones/01 - ICADE E2A - Análisis de Servicios Financieros - Sessión 1.pdf)
 - [01   Trabajo A Entregar   Carril Abierto](./02_presentaciones/01 - Trabajo a entregar - Carril Abierto.pdf)
 - [02   Icade E2A   Análisis De Servicios Financieros   Sessión 2](./02_presentaciones/02 - ICADE E2A - Análisis de Servicios Financieros - Sessión 2.pdf)
@@ -38,5 +42,6 @@
 - [01/10/2026 - Sesión 05 E2A 2026](./01_transcripciones/2026_10_01_Sesión_05_E2A_2026.md)
 - [08/10/2026 - Sesión 06 E2A 2026](./01_transcripciones/2026_10_08_Sesión_06_E2A_2026.md)
 - [15/10/2026 - Sesión 07 E2A 2026](./01_transcripciones/2026_10_15_Sesión_07_E2A_2026.md)
+- [22/10/2026 - Sesión 08 E2A 2026](./01_transcripciones/2026_10_22_Sesión_08_E2A_2026.md)
 
 <!-- AUTO-GENERATED: END -->
