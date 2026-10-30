@@ -491,7 +491,7 @@ Therefore distant payments contribute progressively less to today's value.
 
 This explains why:
 
-C+C+C+⋯C+C+C+\cdots
+$$C + C + C + \cdots$$
 
 can have a finite present value once discounted.
 

@@ -69,20 +69,15 @@ Know how to compute the fraction of total risk that is systematic.
 
 ### 🔹 B. Correlation Between Stock and Market
 
-- **Given:** ( \sigma_i, \sigma_M, \beta_i )
+- **Given:** $\sigma_i, \sigma_M, \beta_i$
     
 - **Formula:**  
-    [  
-    \beta_i = \frac{\text{Cov}(i,M)}{\sigma_M^2}  
-    \Rightarrow \text{Cov}(i,M) = \beta_i\sigma_M^2  
-    ]  
-    [  
-    \rho_{i,M} = \frac{\text{Cov}(i,M)}{\sigma_i\sigma_M} = \frac{\beta_i\sigma_M}{\sigma_i}  
-    ]
+    $\beta_i = \frac{\text{Cov}(i,M)}{\sigma_M^2} \Rightarrow \text{Cov}(i,M) = \beta_i\sigma_M^2$  
+    $\rho_{i,M} = \frac{\text{Cov}(i,M)}{\sigma_i\sigma_M} = \frac{\beta_i\sigma_M}{\sigma_i}$
     
 - **Example:**  
-    ( \sigma_i = 40%, \beta_i = 1.2, \sigma_M = 20% )  
-    → ( \rho_{i,M} = (1.2×0.20)/0.40 = 0.6 )
+    $\sigma_i = 40\%, \beta_i = 1.2, \sigma_M = 20\%$  
+    $\Rightarrow \rho_{i,M} = (1.2 \times 0.20)/0.40 = 0.6$
     
 
 ---
@@ -122,13 +117,11 @@ $$
 - Includes **price change + dividend/coupon income**.
     
 - If return is for less than a year → annualize:  
-    [  
-    EAR = (1 + HPR)^{\frac{12}{\text{months}}} - 1  
-    ]
+    $EAR = (1 + HPR)^{\frac{12}{\text{months}}} - 1$
     
 - Example:
     
-    - Buy at 60, dividend = 2, sell at 64 → (HPR = (64+2-60)/60 = 10%)
+    - Buy at 60, dividend = 2, sell at 64 → $HPR = (64+2-60)/60 = 10\%$
         
     - In 6 months → annualized ≈ 21%.
         

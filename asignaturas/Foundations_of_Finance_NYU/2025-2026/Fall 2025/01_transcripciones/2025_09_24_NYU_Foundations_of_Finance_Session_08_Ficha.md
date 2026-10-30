@@ -11,93 +11,100 @@
 
 ## 2) Estimating inputs from data (historical)
 
-- **Mean (expected return estimate)** over TT periods:  
-    Rˉ=1T∑t=1TRt\displaystyle \bar R=\frac{1}{T}\sum_{t=1}^T R_t.
+- **Mean (expected return estimate)** over $T$ periods:  
+    $$\bar R = \frac{1}{T}\sum_{t=1}^T R_t$$
     
-- **Variance**: σ2=1T∑t=1T(Rt−Rˉ)2\displaystyle \sigma^2=\frac{1}{T}\sum_{t=1}^T (R_t-\bar R)^2 (class used population form).
+- **Variance**: 
+    $$\sigma^2 = \frac{1}{T}\sum_{t=1}^T (R_t-\bar R)^2$$
+    (class used population form).
     
-- **Covariance (A,B)**: CovAB=1T∑t=1T(RA,t−RˉA)(RB,t−RˉB)\displaystyle \mathrm{Cov}_{AB}=\frac{1}{T}\sum_{t=1}^T (R_{A,t}-\bar R_A)(R_{B,t}-\bar R_B).
+- **Covariance (A,B)**: 
+    $$\mathrm{Cov}_{AB} = \frac{1}{T}\sum_{t=1}^T (R_{A,t}-\bar R_A)(R_{B,t}-\bar R_B)$$
     
-- **Correlation**: ρAB=CovAB/(σAσB)\rho_{AB}=\mathrm{Cov}_{AB}/(\sigma_A\sigma_B).
+- **Correlation**: 
+    $$\rho_{AB} = \frac{\mathrm{Cov}_{AB}}{\sigma_A\sigma_B}$$
     
 
 ## 3) Properties of the risk-free asset
 
-- Return: constant RfR_f (e.g., 3%).
+- Return: constant $R_f$ (e.g., 3%).
     
-- Variance: σf2=0\sigma_f^2=0.
+- Variance: $\sigma_f^2 = 0$.
     
-- Covariance with any risky asset: Cov(f,X)=0\mathrm{Cov}(f, X)=0.
+- Covariance with any risky asset: $\mathrm{Cov}(f, X) = 0$.
     
-- Correlation with any risky asset: 00.
+- Correlation with any risky asset: $0$.
     
 
-## 4) Mixing one risky asset AA with the risk-free asset
+## 4) Mixing one risky asset $A$ with the risk-free asset
 
-- Weights: wAw_A in AA; wf=1−wAw_f=1-w_A in risk-free (allow wA<0w_A<0 → short AA; wA>1w_A>1 → leverage).
+- Weights: $w_A$ in $A$; $w_f = 1 - w_A$ in risk-free (allow $w_A < 0 \rightarrow$ short $A$; $w_A > 1 \rightarrow$ leverage).
     
-- **Expected return**: E[Rp]=Rf+wA (E[RA]−Rf).\displaystyle E[R_p]=R_f + w_A\,(E[R_A]-R_f).
+- **Expected return**: 
+    $$E[R_p] = R_f + w_A\,(E[R_A]-R_f)$$
     
-- **Volatility**: σp=∣wA∣σA\displaystyle \sigma_p=|w_A|\sigma_A (because σf=0\sigma_f=0, Cov=0\mathrm{Cov}=0).
+- **Volatility**: 
+    $$\sigma_p = |w_A|\sigma_A$$
+    (because $\sigma_f = 0$, $\mathrm{Cov}=0$).
     
-- As wAw_A varies, (σp,E[Rp])(\sigma_p,E[R_p]) trace a **straight line** from (0,Rf)(0,R_f) through asset AA. That line is a **CAL**.
+- As $w_A$ varies, $(\sigma_p, E[R_p])$ trace a **straight line** from $(0, R_f)$ through asset $A$. That line is a **CAL**.
     
 
 ## 5) Dominance of the best line (CAL vs CAL)
 
-- For a _given_ risky portfolio PP, CAL slope is its **Sharpe ratio**:  
-    Slope=E[RP]−RfσP=Sharpe(P).\displaystyle \text{Slope}=\frac{E[R_P]-R_f}{\sigma_P}=\text{Sharpe}(P).
+- For a _given_ risky portfolio $P$, CAL slope is its **Sharpe ratio**:  
+    $$\text{Slope} = \frac{E[R_P]-R_f}{\sigma_P} = \text{Sharpe}(P)$$
     
-- Among all possible risky portfolios, the **tangency portfolio TT** maximizes the slope → its CAL **dominates** all others (higher expected return for the same risk, or less risk for same return).
+- Among all possible risky portfolios, the **tangency portfolio $T$** maximizes the slope → its CAL **dominates** all others (higher expected return for the same risk, or less risk for same return).
     
 
 ## 6) Tangency portfolio intuition
 
-- Geometrically: CAL from (0,Rf)(0,R_f) that is **tangent** to the efficient frontier of risky assets.
+- Geometrically: CAL from $(0, R_f)$ that is **tangent** to the efficient frontier of risky assets.
     
 - Economically: the unique risky portfolio with **maximum Sharpe ratio**.
     
-- Investor choice then reduces to **how much** to put in TT vs RfR_f (risk profile), not _which_ risky assets individually.
+- Investor choice then reduces to **how much** to put in $T$ vs $R_f$ (risk profile), not _which_ risky assets individually.
     
 
 ## 7) Leverage & shorting
 
-- wA>1w_A>1: **borrow at RfR_f** (lever up) to hold more of AA/TT. Risk and expected return both scale up along the same CAL.
+- $w_A > 1$: **borrow at $R_f$** (lever up) to hold more of $A$/$T$. Risk and expected return both scale up along the same CAL.
     
-- wA<0w_A<0: short the risky asset and park proceeds at RfR_f; moves along the CAL below/left of RfR_f.
+- $w_A < 0$: short the risky asset and park proceeds at $R_f$; moves along the CAL below/left of $R_f$.
     
-- Practical note: borrowing cost may exceed RfR_f; leverage magnifies losses as well as gains.
+- Practical note: borrowing cost may exceed $R_f$; leverage magnifies losses as well as gains.
     
 
 ## 8) From “two risky assets” to “many risky assets”
 
 - First, build **risky efficient frontier** using means/vols/covariances.
     
-- Then find **tangency TT** (max-Sharpe).
+- Then find **tangency $T$** (max-Sharpe).
     
-- Finally, investor picks a point on the **CAL through TT** based on risk tolerance (utility curves).
+- Finally, investor picks a point on the **CAL through $T$** based on risk tolerance (utility curves).
     
 - Conclusion: in equilibrium, everyone holds some mix of **risk-free** and the **same tangency portfolio** (two-fund separation).
     
 
 ## 9) Excel workflow (as shown in class)
 
-1. Estimate E[R]E[R], σ\sigma, ρ\rho (then Cov=ρσAσB\mathrm{Cov}=\rho\sigma_A\sigma_B).
+1. Estimate $E[R]$, $\sigma$, $\rho$ (then $\mathrm{Cov} = \rho\sigma_A\sigma_B$).
     
-2. Generate weights; compute portfolio E[R]E[R] and σ\sigma to plot the risky frontier.
+2. Generate weights; compute portfolio $E[R]$ and $\sigma$ to plot the risky frontier.
     
 3. Compute Sharpe for candidate risky portfolios; identify the **max**.
     
-4. Draw the CAL from RfR_f through the tangency point; use weights to read off any target return/risk (including leveraged w>1w>1).
+4. Draw the CAL from $R_f$ through the tangency point; use weights to read off any target return/risk (including leveraged $w > 1$).
     
 
 ## 10) Vocabulary check
 
 - **Volatility / standard deviation / “risk”** used interchangeably here.
     
-- **Excess return** = E[R]−RfE[R]-R_f.
+- **Excess return** = $E[R] - R_f$.
     
-- **CAL** = set of combinations of RfR_f and a chosen risky portfolio.
+- **CAL** = set of combinations of $R_f$ and a chosen risky portfolio.
     
 - **Sharpe ratio** = slope of CAL.
     
@@ -106,55 +113,55 @@
 
 # Student Notes (concise)
 
-**Goal:** Add a risk-free asset RfR_f, build the **Capital Allocation Line**, and choose the **tangency (max-Sharpe) portfolio**.
+**Goal:** Add a risk-free asset $R_f$, build the **Capital Allocation Line**, and choose the **tangency (max-Sharpe) portfolio**.
 
 **Key facts**
 
-- RfR_f: σf=0\sigma_f=0, Cov(f, ⋅)=0\mathrm{Cov}(f,\,\cdot)=0.
+- $R_f$: $\sigma_f = 0$, $\mathrm{Cov}(f, \cdot) = 0$.
     
-- With risky AA:
+- With risky $A$:
     
-    - E[Rp]=Rf+wA(E[RA]−Rf)E[R_p]=R_f+w_A(E[R_A]-R_f)
+    - $E[R_p] = R_f + w_A(E[R_A]-R_f)$
         
-    - σp=∣wA∣σA\sigma_p=|w_A|\sigma_A
+    - $\sigma_p = |w_A|\sigma_A$
         
-    - Points lie on a **straight line** from (0,Rf)(0,R_f) through AA (CAL).
+    - Points lie on a **straight line** from $(0, R_f)$ through $A$ (CAL).
         
 
 **Sharpe & Tangency**
 
-- Sharpe(P)=E[RP]−RfσP\text{Sharpe}(P)=\dfrac{E[R_P]-R_f}{\sigma_P} (slope of CAL through PP).
+- $\text{Sharpe}(P) = \dfrac{E[R_P]-R_f}{\sigma_P}$ (slope of CAL through $P$).
     
-- The **best** risky portfolio TT **maximizes Sharpe** and its CAL **dominates** all others.
+- The **best** risky portfolio $T$ **maximizes Sharpe** and its CAL **dominates** all others.
     
-- Investors differ only in wTw_T vs wfw_f: risk-averse → more RfR_f; risk-tolerant → lever up TT.
+- Investors differ only in $w_T$ vs $w_f$: risk-averse → more $R_f$; risk-tolerant → lever up $T$.
     
 
 **Leverage**
 
-- wT>1w_T>1: borrow at/above RfR_f to hold >100% in TT. Moves up along CAL (higher risk & return).
+- $w_T > 1$: borrow at/above $R_f$ to hold >100% in $T$. Moves up along CAL (higher risk & return).
     
-- wT<0w_T<0: short risky; return drops below RfR_f.
+- $w_T < 0$: short risky; return drops below $R_f$.
     
 
 **Data to inputs**
 
-- Rˉ=1T∑Rt\bar R=\frac1T\sum R_t, σ2=1T∑(Rt−Rˉ)2\sigma^2=\frac1T\sum (R_t-\bar R)^2, Cov=1T∑(RA,t−RˉA)(RB,t−RˉB)\mathrm{Cov}=\frac1T\sum (R_{A,t}-\bar R_A)(R_{B,t}-\bar R_B).
+- $\bar R = \frac1T\sum R_t$, $\sigma^2 = \frac1T\sum (R_t-\bar R)^2$, $\mathrm{Cov} = \frac1T\sum (R_{A,t}-\bar R_A)(R_{B,t}-\bar R_B)$.
     
 
 **Procedure (exam/PS ready)**
 
 1. Build risky frontier (means/vols/covariances).
     
-2. Find TT = arg max Sharpe.
+2. Find $T$ = arg max Sharpe.
     
-3. Draw CAL through TT; choose wTw_T from risk preference to hit target E[R]E[R] or σ\sigma.
+3. Draw CAL through $T$; choose $w_T$ from risk preference to hit target $E[R]$ or $\sigma$.
     
-4. If mixing TT & RfR_f:
+4. If mixing $T$ & $R_f$:
     
-    - E[Rp]=Rf+wT(E[RT]−Rf)E[R_p]=R_f+w_T(E[R_T]-R_f)
+    - $E[R_p] = R_f + w_T(E[R_T]-R_f)$
         
-    - σp=∣wT∣σT\sigma_p=|w_T|\sigma_T.
+    - $\sigma_p = |w_T|\sigma_T$.
         
 
 **Bottom line:** Once RfR_f is available, the only risky portfolio that matters is the **tangency portfolio**. Everyone optimally holds a mix of **RfR_f** and **TT** (two-fund separation).

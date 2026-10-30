@@ -130,11 +130,11 @@
 
 - With **2 risky assets** + risk-free asset:
     
-    - Portfolio return: (E[R_p] = w_AE[R_A] + w_BE[R_B]).
+    - Portfolio return: $E[R_p] = w_A E[R_A] + w_B E[R_B]$.
         
-    - Portfolio variance: (w_A^2\sigma_A^2 + w_B^2\sigma_B^2 + 2w_Aw_B\text{Cov}(A,B)).
+    - Portfolio variance: $\sigma_p^2 = w_A^2\sigma_A^2 + w_B^2\sigma_B^2 + 2w_Aw_B\mathrm{Cov}(A,B)$.
         
-- If one asset is risk-free: (\sigma^2=0), covariance=0 → line (CAL) from (R_f) through the risky asset.
+- If one asset is risk-free: $\sigma^2 = 0$, covariance = 0 → line (CAL) from $R_f$ through the risky asset.
     
 - Among risky portfolios, the **tangency portfolio** (max Sharpe) dominates all others.
     
@@ -161,9 +161,9 @@
 
 ## 3) Diversification & Correlation
 
-- If assets are **independent** ((\rho=0)): portfolio variance falls with (1/N).
+- If assets are **independent** ($\rho = 0$): portfolio variance falls with $1/N$.
     
-- As (N \to \infty), **idiosyncratic risk → 0**.
+- As $N \to \infty$, **idiosyncratic risk → 0**.
     
 - If assets are **correlated**: variance never fully disappears.
     
@@ -180,13 +180,15 @@
     
     - Example: one student missing class; others can share notes → risk disappears when you combine.
         
+    - Example: one student missing class; others can share notes → risk disappears when you combine.
+        
 - **Systematic (non-diversifiable) risk**: affects all assets at once (market crashes, policy shocks, global events).
     
     - Cannot be eliminated by diversification.
         
 - Total risk = Systematic risk + Idiosyncratic risk.
     
-- Even with very large (N), systematic risk remains.
+- Even with very large $N$, systematic risk remains.
     
 
 ## 5) Why Indexes Matter

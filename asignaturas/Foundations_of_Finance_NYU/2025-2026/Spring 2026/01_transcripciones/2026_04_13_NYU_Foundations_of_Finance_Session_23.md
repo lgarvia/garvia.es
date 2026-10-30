@@ -65,7 +65,7 @@ And we distinguished between:
 
 For a **call option**:
 
-**$$
+$$
 \text{Call payoff at expiration} = \max(S_T - K, 0)
 $$
 

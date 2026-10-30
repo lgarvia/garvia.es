@@ -5,9 +5,9 @@
 1. **PS2 walkthrough**
     
 
-- Clarified Part A/B: computing σ for specific weights; solving for weights given a target (E[R_P]) or ( \sigma_P).
+- Clarified Part A/B: computing σ for specific weights; solving for weights given a target $E[R_P]$ or $\sigma_P$.
     
-- Deep dive on **correlation between two portfolios** using the double sum ( \sum_i\sum_j a_ib_j,\text{Cov}(R_i,R_j) ).
+- Deep dive on **correlation between two portfolios** using the double sum $\sum_i\sum_j a_i b_j,\mathrm{Cov}(R_i,R_j)$.
     
 - Extension with a **risk-free leg**: demonstrated that 4 of 9 terms in the 3×3 covariance expansion survive; all RF covariances vanish.
     
@@ -23,7 +23,7 @@
 
 - Motivated moving from **σ** to **β** (strip idiosyncratic noise; focus on systematic risk).
     
-- Defined ( \beta ), SML, and showed how expected return is pinned by **market premium** and **β**.
+- Defined $\beta$, SML, and showed how expected return is pinned by **market premium** and **β**.
     
 - Framed CAPM as a **simplifying model** with explicit assumptions; used the “human model” analogy to highlight accuracy vs usability.
     
@@ -57,11 +57,11 @@
 
 ## Recommendations before next class
 
-- Ask them to **re-derive** ( \rho_{P_1,P_2} ) for a different weight pair (e.g., 60/40 vs 30/70) and turn in a one-page working.
+- Ask them to **re-derive** $\rho_{P_1,P_2}$ for a different weight pair (e.g., 60/40 vs 30/70) and turn in a one-page working.
     
-- Quick in-class quiz: identify which terms survive in ( \text{Cov}(P_1,P_2) ) when one leg includes (R_f).
+- Quick in-class quiz: identify which terms survive in $\mathrm{Cov}(P_1,P_2)$ when one leg includes $R_f$.
     
-- Begin next session by mapping **CML vs SML** (two axes, two slopes) with one numeric example (plug (R_f), (E[R_M]), (\sigma_M), and a stock’s ( \beta )).
+- Begin next session by mapping **CML vs SML** (two axes, two slopes) with one numeric example (plug $R_f$, $E[R_M]$, $\sigma_M$, and a stock’s $\beta$).
     
 
 ## Action items (for students)
@@ -83,41 +83,41 @@ If you want, I can bundle these notes into a clean PDF for students and a separa
 ## 1) Quick Recap: Two-Asset Portfolio
 
 - **Expected return:**  
-    ( E[R_P]=w_AE[R_A]+w_BE[R_B] )
+    $E[R_P] = w_A E[R_A] + w_B E[R_B]$
     
 - **Variance / st.dev.:**  
-    ( \sigma_P^2=w_A^2\sigma_A^2+w_B^2\sigma_B^2+2w_Aw_B,\text{Cov}(R_A,R_B) )  
-    (or with correlation ( \rho ): ( \text{Cov}=\rho\sigma_A\sigma_B ))
+    $\sigma_P^2 = w_A^2\sigma_A^2 + w_B^2\sigma_B^2 + 2w_A w_B,\mathrm{Cov}(R_A,R_B)$  
+    (or with correlation $\rho$: $\mathrm{Cov}=\rho\sigma_A\sigma_B$)
     
 
 ## 2) Correlation **between two portfolios**
 
 You can’t “read it off”—compute it from covariances:
 
-- ( \rho_{P_1,P_2}=\dfrac{\text{Cov}(R_{P_1},R_{P_2})}{\sigma_{P_1}\sigma_{P_2}} )
+- $\rho_{P_1,P_2} = \frac{\mathrm{Cov}(R_{P_1},R_{P_2})}{\sigma_{P_1}\sigma_{P_2}}$
     
-- If ( R_{P_1}=\sum_i a_iR_i ) and ( R_{P_2}=\sum_j b_jR_j ), then  
-    ( \text{Cov}(R_{P_1},R_{P_2})=\sum_i\sum_j a_i b_j,\text{Cov}(R_i,R_j) )
+- If $R_{P_1}=\sum_i a_i R_i$ and $R_{P_2}=\sum_j b_j R_j$, then  
+    $\mathrm{Cov}(R_{P_1},R_{P_2})=\sum_i\sum_j a_i b_j,\mathrm{Cov}(R_i,R_j)$
     
 - Special cases used in class:
     
-    - ( \text{Cov}(R_X,R_X)=\sigma_X^2 )
+    - $\mathrm{Cov}(R_X,R_X)=\sigma_X^2$
         
-    - ( \text{Cov}(R_{RF},\cdot)=0 ) and ( \sigma_{RF}=0 )
+    - $\mathrm{Cov}(R_{RF},\cdot)=0$ and $\sigma_{RF}=0$
         
 
 > **Worked template (80/20 vs 20/80 in US/Spain):**  
-> Let (P_1=0.8,US+0.2,ES), (P_2=0.2,US+0.8,ES).  
-> (\text{Cov}(P_1,P_2)=0.8\cdot0.2,\sigma_{US}^2+(0.8\cdot0.8+0.2\cdot0.2)\text{Cov}(US,ES)+0.2\cdot0.2,\sigma_{ES}^2).  
-> Then divide by (\sigma_{P_1}\sigma_{P_2}).
+> Let $P_1=0.8,\text{US}+0.2,\text{ES}$, $P_2=0.2,\text{US}+0.8,\text{ES}$.  
+> $\mathrm{Cov}(P_1,P_2)=0.8\cdot0.2,\sigma_{US}^2+(0.8\cdot0.8+0.2\cdot0.2)\mathrm{Cov}(US,ES)+0.2\cdot0.2,\sigma_{ES}^2$  
+> Then divide by $\sigma_{P_1}\sigma_{P_2}$.
 
 ## 3) Portfolios that include a risk-free asset
 
-- **Return:** (E[R_P]=w,E[R_{Risky}]+(1-w)R_f).
+- **Return:** $E[R_P]=w,E[R_{\text{Risky}}]+(1-w)R_f$.
     
-- **Risk:** ( \sigma_P=|w|,\sigma_{Risky}) (because ( \sigma_{RF}=0) and ( \text{Cov}(RF, \cdot)=0)).
+- **Risk:** $\sigma_P=|w|,\sigma_{\text{Risky}}$ (because $\sigma_{RF}=0$ and $\mathrm{Cov}(RF, \cdot)=0$).
     
-- **Sharpe ratio (slope of CAL):** ( S=\dfrac{E[R_{Risky}]-R_f}{\sigma_{Risky}} ).
+- **Sharpe ratio (slope of CAL):** $S = \frac{E[R_{\text{Risky}}]-R_f}{\sigma_{\text{Risky}}}$
     
 
 ## 4) Diversification & risk types
@@ -131,18 +131,18 @@ You can’t “read it off”—compute it from covariances:
 
 - We keep “more risk → more expected return,” but **measure risk with β** (systematic risk), not σ.
     
-- **Definition:** ( \beta_i=\dfrac{\text{Cov}(R_i,R_M)}{\text{Var}(R_M)} ).
+- **Definition:** $\beta_i = \frac{\mathrm{Cov}(R_i,R_M)}{\mathrm{Var}(R_M)}$
     
-- **Portfolio beta:** ( \beta_P=\sum_i w_i\beta_i ).
+- **Portfolio beta:** $\beta_P = \sum_i w_i\beta_i$.
     
 - **Security Market Line (SML):**  
-    ( \boxed{E[R_i]=R_f+\beta_i\big(E[R_M]-R_f\big)} )
+    $\boxed{E[R_i]=R_f+\beta_i\big(E[R_M]-R_f\big)}$
     
-    - If ( \beta_i=1 \Rightarrow E[R_i]=E[R_M])
+    - If $\beta_i=1 \Rightarrow E[R_i]=E[R_M]$
         
-    - ( \beta_i>1 \Rightarrow ) riskier than market → higher required return.
+    - $\beta_i>1 \Rightarrow$ riskier than market → higher required return.
         
-    - ( \beta_i<1 \Rightarrow ) less risky than market → lower required return.
+    - $\beta_i<1 \Rightarrow$ less risky than market → lower required return.
         
 
 ## 6) Conceptual model & assumptions (why CAPM is “simple but strong”)

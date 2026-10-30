@@ -130,7 +130,7 @@ Sesión: 3
     
 - **Coche que puedes permitirte:** uso de **PV de anualidad** con cuota mensual (C), r mensual y T meses:
     
-    PV=C⋅1−1(1+r)Tr PV = C \cdot \frac{1 - \frac{1}{(1+r)^T}}{r}
+    $$PV = C \cdot \frac{1 - \frac{1}{(1+r)^T}}{r}$$
     
     (Ejemplo numérico: C=632, r=1% mensual, T=48 → ~24.000)
     

@@ -17,11 +17,11 @@ Sesión: 5
 
 - Asset A and B each have:
     
-    - Expected return: E[RA],E[RB]E[R_A], E[R_B]
+    - Expected return: $E[R_A], E[R_B]$
         
-    - Variance / Std. dev.: σA2,σB2\sigma_A^2, \sigma_B^2 and σA,σB\sigma_A, \sigma_B
+    - Variance / Std. dev.: $\sigma_A^2, \sigma_B^2$ and $\sigma_A, \sigma_B$
         
-- Portfolio weights: wAw_A and wB=1−wAw_B=1-w_A.
+- Portfolio weights: $w_A$ and $w_B = 1 - w_A$.
     
     - Positive weight = **long** (buy). Negative weight = **short** (sell borrowed).
         
@@ -30,34 +30,34 @@ Sesión: 5
 
 - **Expected return:**
     
-    E[Rp]=wA E[RA]+wB E[RB]E[R_p] = w_A\,E[R_A] + w_B\,E[R_B]
+    $$E[R_p] = w_A E[R_A] + w_B E[R_B]$$
 - **Variance (risk):**
     
-    σp2=wA2σA2+wB2σB2+2 wAwB Cov(A,B)\sigma_p^2 = w_A^2\sigma_A^2 + w_B^2\sigma_B^2 + 2\,w_A w_B\,\mathrm{Cov}(A,B)
+    $$\sigma_p^2 = w_A^2\sigma_A^2 + w_B^2\sigma_B^2 + 2 w_A w_B \mathrm{Cov}(A,B)$$
 - **Linking covariance & correlation:**
     
-    Cov(A,B)=ρAB σA σB\mathrm{Cov}(A,B)=\rho_{AB}\,\sigma_A\,\sigma_B
+    $$\mathrm{Cov}(A,B) = \rho_{AB}\,\sigma_A\,\sigma_B$$
     
     so
     
-    σp2=wA2σA2+wB2σB2+2 wAwB ρABσAσB\sigma_p^2 = w_A^2\sigma_A^2 + w_B^2\sigma_B^2 + 2\,w_A w_B\,\rho_{AB}\sigma_A\sigma_B
+    $$\sigma_p^2 = w_A^2\sigma_A^2 + w_B^2\sigma_B^2 + 2 w_A w_B \rho_{AB}\sigma_A\sigma_B$$
 
 ## 4) Correlation intuition (why diversification works)
 
-- ρAB=+1\rho_{AB}=+1: no diversification. σp=wAσA+wBσB\sigma_p = w_A\sigma_A + w_B\sigma_B (a straight line).
+- $\rho_{AB} = +1$: no diversification. $\sigma_p = w_A\sigma_A + w_B\sigma_B$ (a straight line).
     
-- ρAB=−1\rho_{AB}=-1: **perfect hedge** possible; can reach **zero risk** for a specific weight mix.
+- $\rho_{AB} = -1$: **perfect hedge** possible; can reach **zero risk** for a specific weight mix.
     
-- −1<ρAB<+1-1<\rho_{AB}<+1: partial diversification; portfolio risk curve is **bowed inward**.
+- $-1 < \rho_{AB} < +1$: partial diversification; portfolio risk curve is **bowed inward**.
     
 
 ## 5) Opportunity set & efficient frontier
 
-- Vary wAw_A from 0→1 to trace all **feasible portfolios** (risk on x-axis, expected return on y-axis).
+- Vary $w_A$ from 0→1 to trace all **feasible portfolios** (risk on x-axis, expected return on y-axis).
     
 - The curve forms the **investment opportunity set**.
     
-- The **Minimum-Variance Portfolio (MVP)** = lowest σp\sigma_p point.
+- The **Minimum-Variance Portfolio (MVP)** = lowest $\sigma_p$ point.
     
 - **Efficient Frontier** = set of portfolios **above** the MVP (highest expected return for each level of risk).
     
@@ -66,17 +66,17 @@ Sesión: 5
 
 ## 6) Practical Excel workflow (class tips)
 
-- Fix cells for parameters (expected returns, std. devs, ρ\rho); compute Cov via ρσAσB\rho\sigma_A\sigma_B.
+- Fix cells for parameters (expected returns, std. devs, $\rho$); compute Cov via $\rho\sigma_A\sigma_B$.
     
-- Generate a column of weights wAw_A (e.g., 0%, 1%, …, 100%), set wB=1−wAw_B=1-w_A.
+- Generate a column of weights $w_A$ (e.g., 0%, 1%, …, 100%), set $w_B = 1 - w_A$.
     
-- Compute E[Rp]E[R_p], σp\sigma_p row-by-row; chart **σp\sigma_p vs E[Rp]E[R_p]** to visualize the curve.
+- Compute $E[R_p]$, $\sigma_p$ row-by-row; chart **$\sigma_p$ vs $E[R_p]$** to visualize the curve.
     
 - Use shortcuts and anchoring ($) to avoid mistakes; sanity-check endpoints:
     
-    - wA=1⇒(σp,  E[Rp])=(σA,  E[RA])w_A=1\Rightarrow (\sigma_p,\;E[R_p])=(\sigma_A,\;E[R_A])
+    - $w_A = 1 \Rightarrow (\sigma_p,\; E[R_p]) = (\sigma_A,\; E[R_A])$
         
-    - wA=0⇒(σp,  E[Rp])=(σB,  E[RB])w_A=0\Rightarrow (\sigma_p,\;E[R_p])=(\sigma_B,\;E[R_B])
+    - $w_A = 0 \Rightarrow (\sigma_p,\; E[R_p]) = (\sigma_B,\; E[R_B])$
         
 
 ## 7) Language reminders

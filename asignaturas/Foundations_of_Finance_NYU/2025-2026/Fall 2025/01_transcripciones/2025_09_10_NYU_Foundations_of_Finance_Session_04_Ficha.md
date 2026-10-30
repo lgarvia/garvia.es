@@ -25,7 +25,7 @@ Sesión: 4
 
 - **Fórmula general del rendimiento:**
     
-    R=(FVPV)1/t−1R = \left(\frac{FV}{PV}\right)^{1/t} - 1
+    $$R = \left(\frac{FV}{PV}\right)^{1/t} - 1$$
 - **Performance:** mide la eficacia de la inversión.
     
 - Problema de **lenguaje**: un mismo término puede significar cosas distintas según el contexto.
@@ -41,7 +41,7 @@ Sesión: 4
     
 - Con capitalización mensual:
     
-    (1+0,01)12−1=12,68%(1+0,01)^{12} - 1 = 12,68\%
+    $$(1+0{,}01)^{12} - 1 = 12{,}68\%$$
 
 ### 2.2. APR vs EAR
 
@@ -51,7 +51,7 @@ Sesión: 4
     
 - Fórmula:
     
-    EAR=(1+APRm)m−1EAR = \left(1 + \frac{APR}{m}\right)^m - 1
+    $$EAR = \left(1 + \frac{APR}{m}\right)^m - 1$$
     
     (m = nº de periodos en un año).
     
@@ -64,7 +64,7 @@ Sesión: 4
     
 - Fórmula:
     
-    FV=PV⋅ertFV = PV \cdot e^{rt}
+    $$FV = PV \cdot e^{rt}$$
 - En práctica financiera se usa poco, pero importante conceptualmente.
     
 
@@ -74,7 +74,7 @@ Sesión: 4
 
 - **Definición:**
     
-    HPR=FVPV−1HPR = \frac{FV}{PV} - 1
+    $$HPR = \frac{FV}{PV} - 1$$
 - Problema: no distingue duración de la inversión.
     
 
@@ -82,7 +82,7 @@ Sesión: 4
 
 - Ajusta por tiempo:
     
-    HPRannual=(FVPV)1/t−1HPR_{annual} = \left(\frac{FV}{PV}\right)^{1/t} - 1
+    $$HPR_{annual} = \left(\frac{FV}{PV}\right)^{1/t} - 1$$
 - Ejemplo Coca-Cola:
     
     - Comprar a 42,39 → vender 6 meses después a 44,30.

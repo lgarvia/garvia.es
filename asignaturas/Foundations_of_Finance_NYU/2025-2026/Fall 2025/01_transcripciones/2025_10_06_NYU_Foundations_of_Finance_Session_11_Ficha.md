@@ -147,10 +147,8 @@ Given:
 
 ### 7️⃣ Integration with Valuation
 
-- Use ( E[R_i] ) from CAPM as the **discount rate** in NPV models:  
-    [  
-    PV = \sum \frac{CF_t}{(1+E[R_i])^t}  
-    ]
+- Use $E[R_i]$ from CAPM as the **discount rate** in NPV models:  
+    $$PV = \sum \frac{CF_t}{(1+E[R_i])^t}$$
     
 - Compare to **IRR** → if IRR > required return → Accept project.
     
