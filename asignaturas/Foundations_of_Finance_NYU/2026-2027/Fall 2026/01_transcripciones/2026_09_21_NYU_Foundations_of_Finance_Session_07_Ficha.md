@@ -93,7 +93,7 @@ The session briefly reviewed bonds paying coupons twice per year.
 
 If a bond has a quoted annual yield of:
 
-$\$6\%$$
+$$\$6\%$$
 
 and coupons are semiannual, the rate per six-month period is:
 
@@ -203,11 +203,11 @@ Suppose:
 
 ### First year
 
-$\$3\%$$
+$$\$3\%$$
 
 ### Second year
 
-$\$5\%$$
+$$\$5\%$$
 
 A simple arithmetic average would be:
 
@@ -295,7 +295,7 @@ The second year must compensate so that the compounded two-year return equals 3%
 
 The implied forward rate is therefore approximately:
 
-$\$4\%$$
+$$\$4\%$$
 
 ---
 
@@ -577,11 +577,11 @@ After one year it must issue new debt.
 
 If the new rate is:
 
-$\$3\%$$
+$$\$3\%$$
 
 the total borrowing cost differs from the case in which the new rate becomes:
 
-$\$7\%$$
+$$\$7\%$$
 
 This uncertainty is:
 

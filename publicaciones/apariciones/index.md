@@ -1,5 +1,44 @@
 # Apariciones en medios
 
+- **29/10/2026** — LinkedIn Noticias · Miguel Ángel Moreno Ramos · Lagarde dejará la presidencia del BCE en febrero: las reacciones  
+  📌 [Ver intervención](https://www.linkedin.com/news/story/lagarde-dejar%C3%A1-la-presidencia-del-bce-en-febrero-las-reacciones-9595202/)
+
+- **28/10/2026** — Intereconomía · Estefanía · Mantenimiento de la infraestructura ferroviaria  
+  📌 [Ver intervención](https://www.intereconomia.com/programas/vision-global-lula-da-silva-protagoniza-una-remontada-historica-en-brasil-que-le-garantiza-su-cuarto-mandato-28-10-2026-20261028-2006/)
+
+- **28/10/2026** — Intereconomía · Estefanía · ESPECIAL FED | "Warsh ladra demasiado y muerde muy poco"  
+  📌 [Ver intervención](https://www.youtube.com/watch?v=aWETZhm2IRA)
+
+- **28/10/2026** — Lecturas · Héctor Farrés · Abogados y economistas coinciden: “50 euros en efectivo valen más que si los tienes en el banco. Los puedes utilizar cuando los necesites. Cuando está en el banco, realmente no es tuyo”  
+  📌 [Ver intervención](https://www.lecturas.com/diario/abogados-y-economistas-coinciden-50-euros-efectivo-valen-mas-que-si-tienes-banco-puedes-utilizar-cuando-necesites-cuando-esta-banco-realmente-no-es-tuyo_200220)
+
+- **27/10/2026** — Intereconomía · A media sesión · Deuda, IA y empleo: ¿estamos retrasando la próxima gran corrección? | Luis Garvía  
+  📌 [Ver intervención](https://www.intereconomia.com/programas/a-media-sesion-mercados-con-manuel-pinto-y-analisis-con-luis-garvia-27-10-2026-20261027-1208/)
+
+- **26/10/2026** — LinkedIn Noticias · Miguel Ángel Moreno Ramos · Lula gana las elecciones en Brasil: los mejores análisis  
+  📌 [Ver intervención](https://www.linkedin.com/news/story/lula-gana-las-elecciones-en-brasil-los-mejores-an%C3%A1lisis-7713516/)
+
+- **26/10/2026** — Artículo14 · Itziar Elizalde · España ya tiene motivos para preocuparse por la crisis de Francia  
+  📌 [Ver intervención](https://www.articulo14.es/economia/espana-ya-tiene-motivos-para-preocuparse-por-la-crisis-de-francia-20261025.html)
+
+- **25/10/2026** — La sexta · Sexta Xplica · Pensiones y Luisete  
+  📌 [Ver intervención](https://www.atresplayer.com/lasexta/programas/lasexta-xplica/2026/24-10-26-carlos-bardem-manifestaciones-y-precampana_6adb16d59b85d800070329f3/)
+
+- **25/10/2026** — Cope · Blas Sánchez · Un economista desgrana las claves de la mejora del rating de Extremadura: "Gasta bien y reduce su deuda"  
+  📌 [Ver intervención](https://www.cope.es/emisoras/extremadura/noticias/economista-desgrana-claves-mejora-rating-extremadura-gasta-reduce-deuda-20261025_3462238.html)
+
+- **24/10/2026** — Líder actual · Patricia Espín · Luis Garvía, economista: “Hace 20 años cotizaban cinco personas por cada jubilado, ahora son solo 2,3. Deberíamos jubilarnos a los 72 años para que salieran las cuentas”  
+  📌 [Ver intervención](https://www.lideractual.es/economia-personal/luis-garvia-economista-hace-20-anos-cotizaban-cinco-personas-jubilado-ahora-solo-23-deberiamos-jubilarnos-72-anos-salieran-las-cuentas_15621)
+
+- **20/10/2026** — Intereconomía · A media sesión · A Media Sesión: noticias, mercados con Manuel Pinto y análisis con Luis Garvía 20/10/2026  
+  📌 [Ver intervención](https://www.intereconomia.com/programas/a-media-sesion-noticias-mercados-con-manuel-pinto-y-analisis-con-luis-garvia-20-10-2026-20261020-1116/)
+
+- **18/10/2026** — El Confidencial · Editorial · Luis Garvía, director en finanzas: "La clase media ya no es ni tener una vivienda, sino tener la entrada e hipotecarte"  
+  📌 [Ver intervención](https://www.elconfidencial.com/vivienda/2026-10-18/luis-garvia-sobre-la-vivienda-e-hipotecas-lasexta-1qrt_4199872/)
+
+- **17/10/2026** — La sexta · Sexta Xplica · Gane quién gane subirán los impuestos  
+  📌 [Ver intervención](https://www.atresplayer.com/lasexta/programas/lasexta-xplica/2026/17-10-26_6ad3e99efa6a0e0007411d03/)
+
 - **13/10/2026** — Intereconomía · A media sesión · Análisis económico con Luis Garvía: previsiones del FMI, China e Inteligencia Artificial  
   📌 [Ver intervención](https://www.intereconomia.com/programas/analisis-economico-con-luis-garvia-previsiones-del-fmi-china-e-inteligencia-artificial-20261013-1155/)
 

@@ -612,7 +612,7 @@ The investor could:
 
 Conceptually:
 
-$\$8\% - 5\% = 3\%$$
+$$\$8\% - 5\% = 3\%$$
 
 If both operations are genuinely equivalent in risk and timing, this would represent an arbitrage opportunity.
 

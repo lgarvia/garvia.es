@@ -46,5 +46,6 @@
 - [30/09/2026 - Financial Markets Session 08 Recap](./01_transcripciones/2026_09_30_Financial_Markets_Session_08_Recap.md)
 - [05/10/2026 - Financial Markets Session 09 Recap](./01_transcripciones/2026_10_05_Financial_Markets_Session_09_Recap.md)
 - [14/10/2026 - Financial Markets Session 10 Recap](./01_transcripciones/2026_10_14_Financial_Markets_Session_10_Recap.md)
+- [28/10/2026 - Financial Markets Session 11 Recap](./01_transcripciones/2026_10_28_Financial_Markets_Session_11_Recap.md)
 
 <!-- AUTO-GENERATED: END -->

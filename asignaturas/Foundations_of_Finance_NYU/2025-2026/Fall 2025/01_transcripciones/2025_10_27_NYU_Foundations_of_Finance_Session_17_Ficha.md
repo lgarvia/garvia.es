@@ -340,15 +340,15 @@ Three zero-coupon bonds (FV = 100):
 
 Create same cash flows with zeros:
 
-[  
+$$
 P = 0.1(98) + 0.1(96) + 1.1(93) = 121.7  
-]
+$$
 
 ### (b) Discounting with spot rates
 
-[  
+$$
 P = \frac{10}{(1+0.0204)} + \frac{10}{(1+0.0206)^2} + \frac{110}{(1+0.024)^3} = 121.7  
-]
+$$
 
 ✅ Same result → **Law of One Price holds.**
 

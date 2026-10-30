@@ -634,7 +634,7 @@ Thirteen.
 13, 13, no?  
 A stock trace.  
 A slow train set for it.  
-You had just paid a dividend of $2.00 per cent.  
+You had just paid a dividend of \$2.00 per cent.  
 And dividends are expect to grow as a free person.  
 Ray Forever.  
 OK, but I Sáez.  

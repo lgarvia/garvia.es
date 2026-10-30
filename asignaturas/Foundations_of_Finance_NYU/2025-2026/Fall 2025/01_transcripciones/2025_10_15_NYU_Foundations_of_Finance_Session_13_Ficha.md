@@ -91,9 +91,9 @@ Know how to compute the fraction of total risk that is systematic.
 
 #### Formula Recap:
 
-[  
+$$
 PV = \frac{C}{(1+r)} + \frac{C}{(1+r)^2} + ... + \frac{C+FV}{(1+r)^n}  
-]
+$$
 
 - **If yield ↑ → price ↓**
     
@@ -115,9 +115,9 @@ PV = \frac{C}{(1+r)} + \frac{C}{(1+r)^2} + ... + \frac{C+FV}{(1+r)^n}
 
 ### 🔹 D. Holding Period Return (HPR)
 
-[  
+$$
 HPR = \frac{P_1 + D_1 - P_0}{P_0}  
-]
+$$
 
 - Includes **price change + dividend/coupon income**.
     
@@ -150,9 +150,9 @@ HPR = \frac{P_1 + D_1 - P_0}{P_0}
 
 ### 🔹 F. Correlation & Diversification
 
-[  
+$$
 \sigma_P^2 = w_A^2\sigma_A^2 + w_B^2\sigma_B^2 + 2w_Aw_B\rho_{AB}\sigma_A\sigma_B  
-]
+$$
 
 - If ( \rho = 1 ): no diversification.
     

@@ -137,9 +137,9 @@ El sistema financiero canaliza el ahorro hacia la inversión a través de **tres
 |**M3**|M2 + activos a largo plazo|Menor|Dinero cuasi-líquido|
 
 **Multiplicador monetario:**  
-[  
+$$
 \text{Multiplicador} = \frac{M2}{M0}  
-]  
+$$  
 Históricamente cercano a 10 : 1 antes de 2008 → hoy ronda **4 : 1**.
 
 > “Cada vez hay más dinero fuera del balance bancario; por eso los bancos tienen menos poder relativo.”

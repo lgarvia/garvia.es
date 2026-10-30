@@ -81,16 +81,16 @@ Aquí tienes la ficha completa en formato profesional, con enfoque tanto docente
 
 #### Step 1: P/E without growth
 
-[  
+$$
 P/E_0 = \frac{1}{k}  
-]  
+$$  
 → Intel ≈ 11.3, Cisco ≈ 10.3
 
 #### Step 2: P/E with growth
 
-[  
+$$
 P/E = \frac{(1-b)(1+g)}{k - g}  
-]
+$$
 
 → Cisco has a **higher P/E** because higher retention and ROE lead to higher expected growth.
 
@@ -118,9 +118,9 @@ P/E = \frac{(1-b)(1+g)}{k - g}
 
 ### 5️⃣ Present Value of Growth Opportunities (PVGO)
 
-[  
+$$
 PVGO = P - \frac{E}{k}  
-]
+$$
 
 - Measures the value created by **future reinvestments**.
     
@@ -154,12 +154,12 @@ Derivative insight:
 - (g = 9%), (k = 10%).
     
 
-[  
+$$
 P_4 = \frac{D_5}{k - g} = \frac{0.50}{0.01} = 50  
-]  
-[  
+$$  
+$$
 P_0 = \frac{P_4}{(1+k)^4} = 34.15  
-]
+$$
 
 👉 First stage = no dividends, Second stage = stable growth.  
 Reinforces that DDM is just a **Time Value of Money exercise**.

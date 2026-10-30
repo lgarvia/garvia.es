@@ -148,9 +148,9 @@ The professor warns not to mix the two.
 
 Key formula (no arbitrage):
 
-[  
+$$
 F_0 = S_0 (1 + r)^T  
-]
+$$
 
 Where:
 
@@ -226,9 +226,9 @@ Prof. warns that “speculator” is often misused as an insult; in reality, the
 
 Different from put–call parity.
 
-[  
+$$
 F_0 = (S_0 - PV(\text{dividends})) (1 + r)^T  
-]
+$$
 
 ---
 
@@ -245,9 +245,9 @@ Example:
 
 Forward rate:
 
-[  
+$$
 F = S_0 \frac{1+r_{US}}{1+r_{AUS}}  
-]
+$$
 
 Carry trade idea:
 

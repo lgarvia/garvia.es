@@ -1138,7 +1138,7 @@ But the underlying logic remains remarkably stable:
 > **Identify the future cash flows, understand their risk and timing, and bring them to the same point in time using the appropriate rate.**
 
 
-# Transcripción
+# Transcription
 30 de septiembre de 2026, 10:33a.m.
 1 h 28 min 21 s
 Anything is recorded.  

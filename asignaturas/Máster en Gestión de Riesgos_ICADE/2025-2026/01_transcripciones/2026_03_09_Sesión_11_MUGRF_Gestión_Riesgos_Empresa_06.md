@@ -65,9 +65,9 @@ Ejemplo simplificado:
 
 Aplicando la fórmula de perpetuidad:
 
-[  
+$$
 Valor = \frac{Renta}{Tipo}  
-]
+$$
 
 [  
 Valor ≈ 30.000 / 0,04 ≈ 750.000 €  
@@ -231,9 +231,9 @@ Se planteó una crítica importante al uso excesivamente académico del CAPM.
 
 En teoría:
 
-[  
+$$
 Coste\ del\ equity = r_f + \beta (r_m - r_f)  
-]
+$$
 
 Pero en la práctica:
 

@@ -58,9 +58,9 @@
 
 #### 🔹 Valuation principle:
 
-[  
+$$
 P_0 = PV(\text{future dividends}) = \frac{D_1}{(1+k)} + \frac{D_2}{(1+k)^2} + ...  
-]
+$$
 
 - If **dividends are constant** → perpetuity:  
     [  

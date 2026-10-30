@@ -470,13 +470,13 @@ $$r = 8\%$$
 
 The relationship is:
 
-$\$4,000,000 = 500,000(1.08)^t$$
+$$\$4,000,000 = 500,000(1.08)^t$$
 
 Therefore:
 
-$\$8 = (1.08)^t$$
+$$\$8 = (1.08)^t$$
 
-To isolate $t\$, logarithms can be used:
+To isolate $t$, logarithms can be used:
 
 $$\boxed{t = \frac{\log(FV/PV)}{\log(1+r)}}$$
 
@@ -1257,7 +1257,7 @@ As soon as you start failing.
 They better, because...  
 Money will work for you. The return will work for you. Make sense? Capital is capitalizing.  
 is something important. In this case, you have this example, and this example tell us that New York,  
-Both been bought by $24 at a 6% rate after 400 years.  
+Both been bought by \$24 at a 6% rate after 400 years.  
 Worth this, and instead of getting the value at the 6% rate, getting the value at that 7% rate.  
 You will see how much 1% change things.  
 Makes sense.  

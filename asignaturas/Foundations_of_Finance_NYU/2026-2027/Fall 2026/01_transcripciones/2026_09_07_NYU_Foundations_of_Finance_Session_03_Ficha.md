@@ -140,7 +140,7 @@ Suppose the \$200 investment grows to \$220.
 
 After repaying the bank:
 
-$\$220 - 105 = 115$$
+$$\$220 - 105 = 115$$
 
 The investor originally contributed only \$100.
 
@@ -248,7 +248,7 @@ Buy it back later at:
 
 Profit:
 
-$\$50 - 25 = 25$$
+$$\$50 - 25 = 25$$
 
 Therefore:
 

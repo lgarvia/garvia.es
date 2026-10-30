@@ -1,6 +1,27 @@
 # Publicaciones en LinkedIn
 
 <!-- AUTO-GENERATED: START -->
+- **29/10/2026** — El BCE mantiene tipos, Lagarde se va y Francia arde  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_el-bce-mantiene-tipos-lagarde-se-va-y-francia-share-7521581490388865025-DVEN/)
+
+- **28/10/2026** — La Fed mantiene los tipos. La caja de Pandora cruje.  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_la-fed-mantiene-los-tipos-la-caja-de-pandora-share-7521283141475549186-USsc/)
+
+- **27/10/2026** — El sintoma francés. Bono a 10 años por encima del 5%  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_el-sintoma-franc%C3%A9s-bono-a-10-a%C3%B1os-por-encima-ugcPost-7520114020662648833-qvgL/)
+
+- **26/10/2026** — Brasil - Lula gana, China compra, EEUU invierte y España se juega 50.000 millones.  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_brasil-lula-gana-china-compra-eeuu-invierte-share-7520397838049181696-VU1L/)
+
+- **25/10/2026** — Las pensiones deben de estar fuera del debate electoral  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_las-pensiones-deben-de-estar-fuera-del-debate-ugcPost-7520109997091917824-6ao1/)
+
+- **21/10/2026** — Gobernar sin Presupuestos y presumir de que la recaudación sube un 8% tiene trampa.  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_gobernar-sin-presupuestos-y-presumir-de-que-ugcPost-7517598092444192768-A-W4/)
+
+- **19/10/2026** — Gane quien gane, subirán los impuestos y habrá recortes  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_gane-quien-gane-subir%C3%A1n-los-impuestos-y-ugcPost-7517596545697886208-6EHU/)
+
 - **16/10/2026** — Nobel de Economía – Polarización, Schumpeter y Keynes.  
   📌 [Ver publicación](https://www.linkedin.com/posts/garvia_nobel-de-econom%C3%ADa-polarizaci%C3%B3n-schumpeter-share-7516140896971669504-K54G/)
 

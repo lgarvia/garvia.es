@@ -150,7 +150,7 @@ If the market price is:
 
 we solve:
 
-$\$900 = \frac{80}{1+r} + \frac{80}{(1+r)^2} + \frac{1080}{(1+r)^3}$$
+$$\$900 = \frac{80}{1+r} + \frac{80}{(1+r)^2} + \frac{1080}{(1+r)^3}$$
 
 The unknown $r$ is the:
 
@@ -398,7 +398,7 @@ If cash flows occur every six months:
 
 For a 3-year bond:
 
-$\$3 \times 2 = 6$$
+$$\$3 \times 2 = 6$$
 
 periods.
 

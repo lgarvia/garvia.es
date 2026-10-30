@@ -562,7 +562,7 @@ Second year.
 Second year.  
 I would have price of the stock would have been seventy-two, yes.  
 And I have a dividend.  
-of three times the number of stocks that I bought. And what I'm going to do with these $3?  
+of three times the number of stocks that I bought. And what I'm going to do with these \$3?  
 I'm gonna one plus, I'm gonna buy new stocks, yes?  
 How much stocks I will buy?  
 Three over seventy-two.  

@@ -622,11 +622,11 @@ Suppose every €80 coupon is reinvested at 8%.
 
 The first coupon can compound for three additional years:
 
-$\$80(1.08)^3$$
+$$\$80(1.08)^3$$
 
 The second coupon compounds for two years:
 
-$\$80(1.08)^2$$
+$$\$80(1.08)^2$$
 
 The third for one year:
 
@@ -1110,7 +1110,7 @@ Whisper Large B3.
 This is free.  
 This model is free.  
 What I'm saying is that what I have here showed you.  
-He's like, whisper flow, ******* whisper flow, you should pay $12.00.  
+He's like, whisper flow, ******* whisper flow, you should pay \$12.00.  
 Here, you can pay anything.  
 Bro, with Q, our servers that are, I don't know where, that has open code models. And in order to make transcripts, you don't need to match automatic process. Yes.  
 Why I have so because this is free, this is so...  

@@ -90,7 +90,7 @@ $$EAR=(1.01)^{12}-1$$
 
 Therefore:
 
-$$\boxed{EAR>APR}$$
+$$\boxed{\text{EAR} \gt \text{APR}}$$
 
 when there is positive compounding within the year.
 
@@ -155,7 +155,7 @@ in ten years.
 
 If the required return is:
 
-$\$5\%$$
+$$\$5\%$$
 
 then:
 
@@ -237,7 +237,7 @@ $$F=\$1,000$$
 
 and a coupon rate of:
 
-$\$6\%$$
+$$\$6\%$$
 
 The annual coupon is:
 
@@ -257,7 +257,7 @@ Therefore the cash flows are:
 
 If the required return is:
 
-$\$5\%$$
+$$\$5\%$$
 
 the price is:
 
@@ -365,7 +365,7 @@ The bond is paying more than the market currently requires.
 
 Therefore investors are willing to pay more than face value:
 
-$$\boxed{P>F}$$
+$$\boxed{P \gt F}$$
 
 This is a:
 
@@ -385,7 +385,7 @@ The bond is paying less than the market requires.
 
 Its price must fall:
 
-$$\boxed{P<F}$$
+$$\boxed{P \lt F}$$
 
 This is a:
 
@@ -576,11 +576,11 @@ $$\boxed{ P=F }$$
 
 ## Coupon Rate > Required Return
 
-$$\boxed{ P>F }$$
+$$\boxed{P \gt F}$$
 
 ## Coupon Rate < Required Return
 
-$$\boxed{ P<F }$$
+$$\boxed{P \lt F}$$
 
 ---
 

@@ -968,7 +968,7 @@ This matters because financial discussions frequently involve extraordinarily la
 
 In English-language finance:
 
-$\$1\text{ million} = 10^6 \qquad 1\text{ billion} = 10^9 \qquad 1\text{ trillion} = 10^{12}$$
+$$\$1\text{ million} = 10^6 \qquad 1\text{ billion} = 10^9 \qquad 1\text{ trillion} = 10^{12}$$
 
 Students should become comfortable moving mentally between these quantities.
 
@@ -1015,7 +1015,7 @@ Examples include comparing:
 
 Financial literacy includes understanding whether a quantity is closer to:
 
-$\$10^6,\quad 10^9,\quad 10^{12}$$
+$$\$10^6,\quad 10^9,\quad 10^{12}$$
 
 rather than treating every large number as simply “very big.”
 
@@ -1232,7 +1232,7 @@ $$c = 8\%$$
 
 ### Maturity
 
-$\$10\text{ years}$$
+$$\$10\text{ years}$$
 
 The face value is the amount the investor receives at maturity.
 
@@ -1473,12 +1473,12 @@ Conceptually, each cash flow follows:
 For example:
 
 ```excel
-=80/(1+$B\$2)^A5
+=80/(1+$B$2)^A5
 ```
 
 where:
 
-- `$B\$2` contains the discount rate;
+- `$B$2` contains the discount rate;
     
 - `A5` contains the timing of the cash flow.
     
@@ -1500,13 +1500,13 @@ When copying the discounting formula across many cash flows, the interest-rate c
 For example:
 
 ```excel
-=$C5/(1+$B\$2)^A5
+=$C5/(1+$B$2)^A5
 ```
 
 The:
 
 ```text
-$B\$2
+$B$2
 ```
 
 reference remains constant while the cash-flow and time cells change.
@@ -1775,7 +1775,7 @@ and the investor's relevant tax rate is:
 
 The after-tax return becomes:
 
-$\$5\%(1 - 0.20)$$
+$$\$5\%(1 - 0.20)$$
 
 Therefore:
 
@@ -1783,11 +1783,11 @@ $$\boxed{4\%}$$
 
 Now the investor compares:
 
-$\$4\%\text{ tax-exempt}$$
+$$\$4\%\text{ tax-exempt}$$
 
 with:
 
-$\$4\%\text{ after tax}$$
+$$\$4\%\text{ after tax}$$
 
 The two investments may become economically equivalent.
 
@@ -2634,7 +2634,7 @@ $$\text{Future} = \text{Risk} + \text{Uncertainty}$$
 
 ## Step 3 — Money has a time value
 
-$$$$FV = PV(1+r)^t$$$$
+$$$\$FV = PV(1+r)^t$$$\$
 
 and:
 
@@ -3252,7 +3252,7 @@ This would be a TV. This would be a TV, yes?
 How will you make money? How will you buy this with this call?  
 You pay 90 in order to get 100.  
 In Spain, oh, this is a bond with coupons.  
-You can see on the right, 1000, $1000, and you have all the coupons before.  
+You can see on the right, 1000, \$1000, and you have all the coupons before.  
 Beats, there were bones.  
 but it has to do with history. And then, what do you have there?  
 Then we turn off a one-year treasury, and then we turn off a ten-year treasury.  

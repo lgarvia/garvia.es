@@ -46,7 +46,7 @@ Several competing demands for capital were discussed.
 
 Governments need enormous amounts of financing when:
 
-$$Public\ Spending > Tax\ Revenue$$
+$$\text{Public Spending} \gt \text{Tax Revenue}$$
 
 The resulting deficit must normally be financed through debt issuance.
 
@@ -1107,7 +1107,7 @@ Anyone else?
 Anyone else? I'm looking for one more.
 I'm looking. I mean, what you say is perfect. Perfect. And I was getting on fire because you were saying beautiful things. And I was looking for the gold standard.
 But, but you are, you are absolutely fine.
-What is the gold standard? A fixed exchange rate between dollar and gold for $35? You can get one ounce of dollar or one ounce.
+What is the gold standard? A fixed exchange rate between dollar and gold for \$35? You can get one ounce of dollar or one ounce.
 Hey, sorry, no, I want to guess it's.
 Thirty-five dollars, one ounce, yes.
 What is the price of dollar now? Of one ounce? Who get it?

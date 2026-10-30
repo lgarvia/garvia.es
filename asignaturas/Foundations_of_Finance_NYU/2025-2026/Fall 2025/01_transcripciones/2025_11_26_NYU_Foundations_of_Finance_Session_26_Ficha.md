@@ -254,9 +254,9 @@ They allow firms to:
 
 ### **8.1. Relationship between spot and forward rates**
 
-[  
+$$
 (1 + i_4)^4 = (1 + i_3)^3 (1 + f_{3,4})  
-]
+$$
 
 Where:
 

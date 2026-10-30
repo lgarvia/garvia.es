@@ -94,7 +94,7 @@ Governments finance themselves primarily through:
 
 If:
 
-$$Government\ Spending > Tax\ Revenue$$
+$$\text{Government Spending} \gt \text{Tax Revenue}$$
 
 the difference must normally be financed by issuing debt.
 
@@ -224,7 +224,7 @@ This makes bond valuation a direct application of the time-value-of-money framew
 
 Suppose a bond promises to pay:
 
-$\$100$$
+$$\$100$$
 
 at maturity.
 
@@ -247,13 +247,13 @@ The class illustrated the primary market through a simple auction.
 
 Suppose the issuer needs financing and promises to pay:
 
-$\$100$$
+$$\$100$$
 
 in two years.
 
 An investor agrees to pay:
 
-$\$91$$
+$$\$91$$
 
 today.
 
@@ -428,7 +428,7 @@ $$r_2=6.38\%$$
 
 the geometric average is:
 
-$\$1+\bar r = \sqrt{(1+r_1)(1+r_2)}$$
+$$\$1+\bar r = \sqrt{(1+r_1)(1+r_2)}$$
 
 Therefore:
 
@@ -457,7 +457,7 @@ $$\boxed{P = \frac{FV}{(1+r)^t}}$$
 
 For example, if a zero-coupon bond pays:
 
-$\$1,000$$
+$$\$1,000$$
 
 in five years and the market rate is 5%:
 
@@ -526,7 +526,7 @@ $$Face\ Value=1,000$$
 
 and an annual coupon rate of:
 
-$\$6\%$$
+$$\$6\%$$
 
 The annual coupon is therefore:
 
@@ -582,7 +582,7 @@ The existing coupon is attractive relative to the market.
 
 Therefore:
 
-$$Price>Face\ Value$$
+$$\text{Price} \gt \text{Face Value}$$
 
 The bond trades at a **premium**.
 
@@ -592,7 +592,7 @@ The coupon is unattractive relative to newly available investments.
 
 Therefore:
 
-$$Price<Face\ Value$$
+$$\text{Price} \lt \text{Face Value}$$
 
 The bond trades at a **discount**.
 
@@ -604,9 +604,9 @@ This gives a fundamental classification:
 
 ### Premium Bond
 
-$$Coupon\ Rate>Market\ Yield$$
+$$\text{Coupon Rate} \gt \text{Market Yield}$$
 
-$$Price>Par$$
+$$\text{Price} \gt \text{Par}$$
 
 ### Par Bond
 
@@ -616,9 +616,9 @@ $$Price=Par$$
 
 ### Discount Bond
 
-$$Coupon\ Rate<Market\ Yield$$
+$$\text{Coupon Rate} \lt \text{Market Yield}$$
 
-$$Price<Par$$
+$$\text{Price} \lt \text{Par}$$
 
 This relationship is essential for understanding fixed-income markets.
 
@@ -712,7 +712,7 @@ Students should be comfortable with:
 
 * formulas;
 * cell references;
-* fixed references using `$`;
+* fixed references using `\$`;
 * the **F4** shortcut;
 * present-value calculations;
 * NPV-type functions.
@@ -830,11 +830,11 @@ This is now mathematically derived from present-value logic.
 
 ### 4. Coupon rate and market yield determine whether a bond trades at premium, par or discount.
 
-$$Coupon>Yield \Rightarrow Premium$$
+$$\text{Coupon} \gt \text{Yield} \implies \text{Premium}$$
 
 $$Coupon=Yield \Rightarrow Par$$
 
-$$Coupon<Yield \Rightarrow Discount$$
+$$\text{Coupon} \lt \text{Yield} \implies \text{Discount}$$
 
 ### 5. The return you actually earn depends on when you sell.
 

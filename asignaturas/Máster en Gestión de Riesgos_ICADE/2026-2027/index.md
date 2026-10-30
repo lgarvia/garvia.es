@@ -21,10 +21,11 @@ Curso 2026-2027 (MUGRF — ICADE)
 <!-- AUTO-GENERATED: START -->
 
 ## Presentaciones
-_No hay presentaciones publicadas._
+- [01   Sesión 1   Introducción](./02_presentaciones/01 - Sesión 1 - Introducción.pdf)
 
 ## Resúmenes y transcripciones
 - [05/10/2026 - Mugrf Sesión 01 Obsidian Y Antigravity Inicio](./01_transcripciones/2026_10_05_MUGRF_Sesión_01_Obsidian y Antigravity_Inicio.md)
 - [19/10/2026 - Mugrf Sesión 02 Allianz](./01_transcripciones/2026_10_19_MUGRF_Sesión_02_Allianz.md)
+- [26/10/2026 - Mugrf Sesión 03 Ética01](./01_transcripciones/2026_10_26_MUGRF_Sesión_03_Ética01.md)
 
 <!-- AUTO-GENERATED: END -->

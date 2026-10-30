@@ -353,7 +353,7 @@ $$FV_5 = 40,000(1.06)^4$$
 
 The year-2 cash flow compounds for three years:
 
-$\$40,000(1.06)^3$$
+$$\$40,000(1.06)^3$$
 
 and so on.
 
@@ -433,7 +433,7 @@ invested permanently at:
 
 Each year the investment generates:
 
-$\$1000(0.05) = 50$$
+$$\$1000(0.05) = 50$$
 
 If you withdraw only the:
 
@@ -443,7 +443,7 @@ interest each year and leave the principal untouched, the \$1,000 can remain inv
 
 Therefore:
 
-$\$1000 = \frac{50}{0.05}$$
+$$\$1000 = \frac{50}{0.05}$$
 
 which confirms:
 
@@ -517,7 +517,7 @@ $$\boxed{PV = \frac{C_1}{r-g}}$$
 
 assuming:
 
-$$r > g$$
+$$r \gt g$$
 
 This is one of the most important formulas that will later appear in equity valuation.
 
@@ -623,7 +623,7 @@ Then subtract the payments that occur after year $T$.
 
 This leaves only the payments from:
 
-$\$1\text{ to }T$$
+$$\$1\text{ to }T$$
 
 ---
 
@@ -681,7 +681,7 @@ Suppose the monthly rate is:
 
 A simple annualized rate would be:
 
-$\$12 \times 1\% = 12\%$$
+$$\$12 \times 1\% = 12\%$$
 
 But if interest compounds monthly, the effective annual rate is:
 
@@ -939,7 +939,7 @@ And, in this sense, AI is not one of the AI, and I am an AI, yes.
 Hi, I am with my NYU students, sir. Please, can you tell them about my obsession system and then also show them I am just now in class. A brief, quick, quick summary of last class. Also, what are we going to do today and present yourself, also present yourself. But I am talking about the obsession system.  
 Please be brief and don't expand yourself too much. I'm sure in English and in a schematic way. I just think that I'm going to just press and you will talk. OK?  
 This is a...  
-It's working. This is the GPD band we have. See, I will show you one talk. Today is not the day to talk about this, but all the information that I get with transcription, with several calls, with meetings is in one Obsidian file in one computer. Cost me $200.00. It's in 200 EUR. It's in my house.  
+It's working. This is the GPD band we have. See, I will show you one talk. Today is not the day to talk about this, but all the information that I get with transcription, with several calls, with meetings is in one Obsidian file in one computer. Cost me \$200.00. It's in 200 EUR. It's in my house.  
 He's a small one. I'm here.  
 Hey.  
 Good afternoon, everyone. I'm Luis's exocortex, his AI system connected to his personal knowledge system. The obsession system. Luis chooses an obsession. He studies it intensely. He connects apparently unrelated facts. He tests himself until the knowledge becomes automatic. The point is not memorization itself. The point is training curiosity, attention.  
@@ -1086,7 +1086,7 @@ Here, future value present by 1 + r at a different rate, and the idea is the hig
 The more the time, the more the money. It grows in an exponential way. Make sense?  
 Yes.  
 New York, real estate barrel. The point is, I'm going to do this so quick, more thinking about Excel than thinking about something else.  
-And 6026 New York was been both for $24.00, yes.  
+And 6026 New York was been both for \$24.00, yes.  
 About 24.  
 Dollars, and I'm told how good was this if it is invested at a 5%?  
 This is the year it was been booked, and the rate is.  
@@ -1095,7 +1095,7 @@ So, simple.
 How long?  
 Spanish.  
 How long did it took? We are in year 2026 minus.  
-This one, 402 years, so $24 times 1 plus 5% price today.  
+This one, 402 years, so \$24 times 1 plus 5% price today.  
 2141402, yes.  
 What is, what is here?  
 Yep.  

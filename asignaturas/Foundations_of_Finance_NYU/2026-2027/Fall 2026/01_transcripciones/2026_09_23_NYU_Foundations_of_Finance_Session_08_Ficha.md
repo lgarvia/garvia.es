@@ -49,7 +49,7 @@ The geometric average is especially important because investment returns compoun
 
 $$\boxed{r_g = \left[\prod_{t=1}^T (1+r_t)\right]^{1/T} - 1}$$
 
-Remember: we compound $(1+r)\$, not the individual returns themselves.
+Remember: we compound $(1+r)$, not the individual returns themselves.
 
 ## 3. Dividend reinvestment
 
@@ -220,7 +220,7 @@ where $D_1$ is next year's dividend, $k$ is the required return and $g$ is the p
 
 For this model to give a finite positive value, the required return must exceed the growth rate:
 
-$$k > g$$
+$$k \gt g$$
 
 Using the closing example's implied next-year dividend of \$2:
 
@@ -590,7 +590,7 @@ But I don't have just one stop.
 I'm going to have 1.04. So this is the money that I will receive in order to buy new stores. Are you following me?  
 3.125 at 4.1% at normal.  
 What am I going to do with this?  
-What I'm going to do with this $3.1? Again, I'm going to buy new stores.  
+What I'm going to do with this \$3.1? Again, I'm going to buy new stores.  
 and the number of stops will go.  
 What I want to do now, I'm going to copy this.  
 Andra.  

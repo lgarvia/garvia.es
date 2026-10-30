@@ -788,7 +788,7 @@ $$
 \boxed{\text{Value} = \text{Present Value of Future Cash Flows}}
 $$
 
-# Transcripción
+# Transcription
 5 de octubre de 2026, 17:13p.m.
 1 h 8 min 58 s
 I can call someone from the web, but here.  
@@ -1071,8 +1071,8 @@ And use in the balancing, it will appear in clients.
 You issue an invoice, and then you will have an ego.  
 I have a client.  
 You owe me, Will.  
-You owe me $100.  
-Is $100 a beer? This is an asset for me.  
+You owe me \$100.  
+Is \$100 a beer? This is an asset for me.  
 It's an asset, and it has been created against a revenue. So, in my profit and losses statement, there is a revenue.  
 But the money has not entered the company yet.  
 I need two.  
@@ -1429,7 +1429,7 @@ You will need money in order to buy the things before someone will buy. Yes? You
 And also, you are finance yourself with your suppliers, because you don't pay your suppliers immediately.  
 But I want you to see the distinguish between.  
 what appears on accountancy and what you will find in the company when investing. Make sense?  
-Here, imagine you run a retail shoe chain. This quarter, you buy 2 million pairs of shoes for $30 each, yes?  
+Here, imagine you run a retail shoe chain. This quarter, you buy 2 million pairs of shoes for \$30 each, yes?  
 This money will go out from your pocket.  
 This money will be a negative cash flow. Make sense?  
 Yep, I'm gonna go quickly.  
