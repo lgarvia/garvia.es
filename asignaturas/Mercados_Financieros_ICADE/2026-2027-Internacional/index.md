@@ -1,12 +1,11 @@
 # Financial Markets (International) — Fall 2026
 
-## 📢 Key Dates & Midterm Exam
-- **Midterm Exam**: **Monday, October 26, 2026** (in class, 80 minutes).
-- **Exam Structure (4 parts)**:
-  1. *Quantitative Problem*: Time Value of Money (TVM) / Fixed Income calculation (based on Problem Sets 1 & 2).
-  2. *Financial Press Article Analysis*: Macroeconomic context, fiscal policy, and monetary policy implications.
-  3. *Short Conceptual Questions*: Core market mechanisms, instruments, and definitions.
-  4. *Analytical Discussion*: Real-world market dynamics and financial intermediation.
+## 📢 Key Dates & Exams
+- **Final Exam**: **Wednesday, December 2, 2026** (in class).
+  - **Weight**: 50% of the overall course grade.
+  - **Format**: Comprehensive assessment covering all topics, written by hand (calculator permitted). Special focus on Fixed Income valuation, interest rate risk, and macroeconomic/monetary policy implications.
+- **Midterm Exam**: Completed on **Monday, October 26, 2026** (review and feedback provided in Session 11).
+- **Post-Midterm Focus**: Lessons 5 & 6 (Other Financial Institutions, AMMs / DeFi, and Fixed Income Markets).
 
 ## 🧭 Course Structure & Core Blocks
 - **Main Lessons**:

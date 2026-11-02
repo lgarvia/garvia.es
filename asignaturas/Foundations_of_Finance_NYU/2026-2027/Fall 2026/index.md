@@ -1,8 +1,16 @@
 # Foundations of Finance — Fall 2026 (NYU Madrid)
 
-## 📢 Course Progress & Key Milestones
-- **Midterm Exam**: Completed on October 19, 2026. Review of solutions and exam performance took place in Session 15.
-- **Second Half of the Course**: Shift from valuation with given discount rates to asset pricing and the origin of required returns (Risk, Return, Modern Portfolio Theory, and CAPM).
+## 📢 Course Progress, Key Dates & Exams
+- **Final Exam Period**: **Wednesday, December 9 – Friday, December 11, 2026**.
+  - **Target Date**: **Wednesday, December 9, 2026** (in class / final period).
+  - **Weight**: 45% of the overall course grade.
+  - **Format**: Comprehensive exam covering Asset Pricing, Multi-Factor Models, Market Efficiency, and Derivative Instruments (Options, Futures & Swaps).
+- **Midterm Exam**: Completed on **October 19, 2026** (solutions reviewed in Session 15).
+- **Current Module — Portfolio Theory & Asset Pricing**:
+  - Modern Portfolio Theory (MPT), Diversification & Risk-Return trade-off.
+  - Efficient Frontier, Optimal Risky Portfolio & Capital Allocation Line (CAL).
+  - Capital Asset Pricing Model (CAPM): Beta vs. Volatility, Security Market Line (SML), and Systematic Risk.
+- **Upcoming Assignments**: Problem Sets 3 & 4.
 
 ## 🧭 Course Structure & Core Blocks
 - **Covered Topics**:

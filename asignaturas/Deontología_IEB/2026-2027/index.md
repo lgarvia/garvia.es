@@ -1,9 +1,17 @@
 # Curso 2026-2027
 
-## 📢 Fechas Clave y Parcial
-- **Primer Examen Parcial**: **Jueves, 29 de octubre de 2026**.
-- **Materia del Parcial**: Bloques 1 al 4 (Ética y moral / Valores, Ética y Ley, La Persona, y Teorías Éticas).
-- **Enfoque de la prueba**: Comprensión conceptual, razonamiento ético y aplicación a dilemas y casos prácticos (no meramente memorístico). Como referencia se dispone del parcial del curso anterior.
+## 📢 Fechas Clave, Parciales y Evaluación
+
+> [!IMPORTANT]
+> **Aviso sobre el Primer Examen Parcial**: 
+> La prueba prevista inicialmente para el 29 de octubre de 2026 fue **aplazada** debido a la huelga e incidencias graves en la red de transportes (Cercanías). La nueva fecha de realización se anunciará en clase y en el tablón oficial.
+
+- **Sistema de Evaluación Liberatoria**:
+  - Evaluación continua articulada en **dos exámenes parciales liberatorios**.
+  - Obteniendo una calificación de aprobado (mínimo 5,0) en ambos parciales, el alumno **libera la asignatura y queda exento de realizar el examen final ordinario**.
+- **Materia del Primer Parcial**: Bloques 1 al 4 (Ética y moral / Valores, Ética y Ley, La Persona, y Teorías Éticas).
+- **Enfoque de la prueba**: Razonamiento conceptual, criterio ético fundado y resolución de dilemas y casos prácticos reales (no memorístico).
+- **Examen Final Ordinario**: Convocatoria fijada por Jefatura de Estudios del IEB para alumnos que no liberen por evaluación continua.
 
 ## 🧭 Estructura del Curso y Evaluación
 - **Bloques temáticos**:
@@ -14,9 +22,6 @@
   5. *El Bien y el Mal*
   6. *La Complejidad y la toma de decisiones*
   7. *La Empresa y la deontología profesional*
-- **Sistema de evaluación**:
-  - Evaluación continua basada en **dos exámenes parciales liberatorios**.
-  - Superando ambos parciales por partes se libera la asignatura sin necesidad de acudir al examen final ordinario.
 
 ## 🔗 Enlaces y Recursos
 - 🌐 **Web de la asignatura**: [garvia.es - Deontología IEB 2026-2027](https://garvia.es/asignaturas/Deontolog%C3%ADa_IEB/2026-2027/)

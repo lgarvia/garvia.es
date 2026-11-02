@@ -1,8 +1,13 @@
 # Gestión de Riesgos en la Empresa
 Curso 2026-2027 (MUGRF — ICADE)
 
-## 📢 Avisos y Metodología
-- **Enfoque práctico**: Integración de análisis financiero, gestión de riesgos macro/empresariales y herramientas de gestión del conocimiento e IA (Obsidian y Antigravity).
+## 📢 Avisos, Metodología y Casos Prácticos
+- **Metodología y Evaluación Continua**:
+  - Evaluación basada en **proyectos aplicados, cuadernos técnicos en Obsidian y resolución de casos de riesgo empresarial e IA**, sin examen final teórico convencional de aula.
+  - La calificación final pondera los entregables de análisis macro, financiero y de gobierno corporativo.
+- **Hitos Recientes y Masterclasses**:
+  - *Sesión 02*: Masterclass Allianz — Gestión de riesgos aseguradores, modelo de balance bajo Solvencia II vs. Basilea y programa de becas profesionales.
+  - *Sesión 03*: Ética y Deontología en la Gestión de Riesgos — Gobernanza corporativa, prevención de fraude, sesgos algorítmicos y toma de decisiones éticas ante la IA.
 
 ## 🧭 Estructura del Curso
 - **Bloques temáticos principales**:

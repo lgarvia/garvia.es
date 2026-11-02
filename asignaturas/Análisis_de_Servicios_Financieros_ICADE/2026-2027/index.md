@@ -1,12 +1,14 @@
 # Curso 2026-2027
 
 ## 📢 Fechas Clave y Evaluación
-- **Entrega de Trabajo Práctico (Carril Abierto)**: **Jueves, 22 de octubre de 2026**.
-- **Primer Examen Parcial**: **Jueves, 29 de octubre de 2026**.
-- **Estructura de la prueba**: Preguntas cortas sobre conceptos financieros clave y preguntas de desarrollo/análisis práctico sobre banca, riesgos y productos financieros.
-- **Material de preparación para el parcial**:
-  - 📄 [Documento de Repaso: Banca para el parcial (Bloque 2)](./02_presentaciones/00%20-%20Repaso%20-%20Bloque%202%20-%20E2BA.md)
-  - 📊 [Presentación: Repaso Bloque 1](./02_presentaciones/00%20-%20Repaso%20-%20Bloque%201%20-%20E2BA.pdf)
+- **Hitos Completados**:
+  - ✅ **Entrega de Trabajo Práctico (Carril Abierto)**: Jueves, 22 de octubre de 2026.
+  - ✅ **Primer Examen Parcial**: Jueves, 29 de octubre de 2026 (Bloques 1 y 2: Sistema Financiero, Banca y Supervisión / Modelo CAMEL).
+- **Fin de Clases Lectivas**: **Jueves, 3 de diciembre de 2026** (Sesión de síntesis y cierre).
+- **Examen Final Oficial (Convocatoria Ordinaria)**:
+  - Celebración dentro del **1.er periodo oficial de evaluación de Comillas ICADE** (enero de 2027), según el calendario académico general fijado por Secretaría General / Jefatura de Estudios.
+  - **Ponderación**: Examen final oficial (50%), exámenes parciales / pruebas intermedias (30%) y casos prácticos / participación continua (20%).
+- **Fase Actual del Curso**: Bloque 3 y siguientes (Mercados de capitales, productos e instrumentos de inversión, servicios de intermediación y MiFID II).
 
 ## 🧭 Estructura del Curso
 - **Bloques temáticos principales**:
