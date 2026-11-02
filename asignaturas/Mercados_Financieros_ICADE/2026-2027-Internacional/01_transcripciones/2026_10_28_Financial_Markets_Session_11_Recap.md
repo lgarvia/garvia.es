@@ -6,10 +6,15 @@ sesion: 11
 asignatura: Mercados Financieros Internacionales
 institucion: ICADE
 tipo: sesion
-estado: preparado
+estado: impartida_documentada
+revision_estado: 2026-11-01
+revision_estado_task: TASK_274
 ---
 
 # Financial Markets – Session 11: Midterm Feedback, Uniswap & Blockchain Infrastructure
+
+> **Actualización 01-nov-2026 · Luis / TASK_274:** estado conciliado con la ficha retrospectiva y su transcripción íntegra; no se modifica contenido docente ni se certifica asistencia, duración completa o aprendizaje.
+
 
 ## 1. Session Overview
 

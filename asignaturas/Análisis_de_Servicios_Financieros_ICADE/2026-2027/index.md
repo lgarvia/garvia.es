@@ -32,6 +32,7 @@
 - [03   Icade E2A   Análisis De Servicios Financieros   Sessión 3](./02_presentaciones/03 - ICADE E2A - Análisis de Servicios Financieros - Sessión 3.pdf)
 - [04   Icade E2A   Análisis De Servicios Financieros   Sessión 4](./02_presentaciones/04 - ICADE E2A - Análisis de Servicios Financieros - Sessión 4.pdf)
 - [05   Icade E2A   Análisis De Servicios Financieros   Sessión 5](./02_presentaciones/05 - ICADE E2A - Análisis de Servicios Financieros - Sessión 5.pdf)
+- [06   E2Ba Cuando Un Banco Cae](./02_presentaciones/06 - E2BA_Cuando_un_banco_cae.pdf)
 - [06   Icade E2A   Análisis De Servicios Financieros   Sessión 6   Entidades De Crédito   Camel](./02_presentaciones/06 - ICADE E2A - Análisis de Servicios Financieros - Sessión 6 - Entidades de crédito - CAMEL.pdf)
 
 ## Resúmenes y transcripciones
