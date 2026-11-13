@@ -1,6 +1,12 @@
 # Publicaciones en LinkedIn
 
 <!-- AUTO-GENERATED: START -->
+- **11/11/2026** — NVIDIA - El escándalo es la punta del Icebergb  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_nvidia-el-esc%C3%A1ndalo-es-la-punta-del-icebergb-share-7526058226396770304-FKIx/)
+
+- **10/11/2026** — La tragedia del salario en España: 30 años de parálisis  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_la-tragedia-del-salario-en-espa%C3%B1a-30-a%C3%B1os-ugcPost-7523032475304902656-B1PB/)
+
 - **04/11/2026** — Elecciones de medio mandato. Primeras impresiones  
   📌 [Ver publicación](https://www.linkedin.com/posts/garvia_elecciones-de-medio-mandato-primeras-impresiones-ugcPost-7523611089641598976-Qc7M/)
 

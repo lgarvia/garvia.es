@@ -1,5 +1,20 @@
 # Apariciones en medios
 
+- **13/11/2026** — Cuatro · Todo es mentira · Resultados huelga y decreto de vivienda  
+  📌 [Ver intervención](https://www.mediasetinfinity.es/programas-tv/todo-es-mentira/2026/episodios/programa-1969-40_020665242/player/)
+
+- **13/11/2026** — Cuatro · Todo es mentira · ¿Fue la huelga un éxito o un fracaso?  
+  📌 [Ver intervención](https://www.mediasetinfinity.es/programas-tv/todo-es-mentira/2026/top-videos/fue-huelga-general-exito-fracaso-choque-opiniones-colaboradores-40_020563976/player/)
+
+- **11/11/2026** — Intereconomía · A media sesión · Análisis económico con Luis Garvía: escándalo en Nvidia y propuestas electorales en España  
+  📌 [Ver intervención](https://intereconomia.com/programas/analisis-economico-con-luis-garvia-escandalo-en-nvidia-y-propuestas-electorales-en-espana-20261111-0722/)
+
+- **09/11/2026** — The Objective · Alberto Muñoz Algobia · Antonio Jiménez, jubilado de 87 años, sobre el futuro de las pensiones: «En teoría, en la Constitución están garantizadas, pero la vivienda también, y de ahí viene el mosqueo»  
+  📌 [Ver intervención](https://theobjective.com/economia/2026-11-09/antonio-jimenez-jubilado-de-87-anos-sobre-el-futuro-de-las-pensiones-en-teoria-en-la-constitucion-estan-garantizadas-pero-la-vivienda-tambien-y-de-ahi-viene-el-mosqueo/)
+
+- **09/11/2026** — ABC · Adrián Espallargas · El difícil encaje de la pieza de la automatización en el engranaje de la administración  
+  📌 [Ver intervención](https://www.abc.es/economia/dificil-encaje-pieza-automatizacion-engranaje-administracion-20261109000300-nt_amp.html)
+
 - **06/11/2026** — LinkedIn Noticias · Miguel Ángel Moreno Ramos · La paradoja del ocio barato y la vida cara  
   📌 [Ver intervención](https://www.linkedin.com/news/story/la-paradoja-del-ocio-barato-y-la-vida-cara-7752068/)
 
