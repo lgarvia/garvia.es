@@ -1,5 +1,23 @@
 # Apariciones en medios
 
+- **06/11/2026** — LinkedIn Noticias · Miguel Ángel Moreno Ramos · La paradoja del ocio barato y la vida cara  
+  📌 [Ver intervención](https://www.linkedin.com/news/story/la-paradoja-del-ocio-barato-y-la-vida-cara-7752068/)
+
+- **05/11/2026** — Economía digital · Editorial · Finanzas para influencers: así puedes gestionar ingresos irregulares  
+  📌 [Ver intervención](https://www.economiadigital.es/empresas/finanzas-influencers-gestionar-ingresos-irregulares.html)
+
+- **04/11/2026** — LinkedIn Noticias · Ainhoa Iriberri · Los demócratas ganaron las 'midterms': análisis y consecuencias  
+  📌 [Ver intervención](https://www.linkedin.com/news/story/los-dem%C3%B3cratas-ganaron-las-midterms-an%C3%A1lisis-y-consecuencias-7752044/)
+
+- **04/11/2026** — Negocios TV · José Vizner · Elecciones Midterm USA  
+  📌 [Ver intervención](https://www.youtube.com/watch?v=rL1TnxhZiWI)
+
+- **03/11/2026** — Intereconomía · A media sesión · Análisis económico con Luis Garvía: elecciones de mitad de mandato en USA y China  
+  📌 [Ver intervención](https://www.intereconomia.com/programas/analisis-economico-con-luis-garvia-elecciones-de-mitad-de-mandato-en-usa-y-china-20261103-1252/)
+
+- **02/11/2026** — Cope · Carlos Moreno - El Pulpo · El fin del efectivo  
+  📌 [Ver intervención](https://www.cope.es/programas/poniendo-las-calles/horas-completas/05-00h-02-nov-2026-poniendo-calles-20261102_3466692.html)
+
 - **29/10/2026** — LinkedIn Noticias · Miguel Ángel Moreno Ramos · Lagarde dejará la presidencia del BCE en febrero: las reacciones  
   📌 [Ver intervención](https://www.linkedin.com/news/story/lagarde-dejar%C3%A1-la-presidencia-del-bce-en-febrero-las-reacciones-9595202/)
 

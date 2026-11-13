@@ -1,6 +1,12 @@
 # Publicaciones en LinkedIn
 
 <!-- AUTO-GENERATED: START -->
+- **04/11/2026** — Elecciones de medio mandato. Primeras impresiones  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_elecciones-de-medio-mandato-primeras-impresiones-ugcPost-7523611089641598976-Qc7M/)
+
+- **03/11/2026** — La paradoja del bajo coste: ocio barato vs. vida cara  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_la-paradoja-del-bajo-coste-ocio-barato-vs-ugcPost-7523011876700557312-X3tq/)
+
 - **29/10/2026** — El BCE mantiene tipos, Lagarde se va y Francia arde  
   📌 [Ver publicación](https://www.linkedin.com/posts/garvia_el-bce-mantiene-tipos-lagarde-se-va-y-francia-share-7521581490388865025-DVEN/)
 

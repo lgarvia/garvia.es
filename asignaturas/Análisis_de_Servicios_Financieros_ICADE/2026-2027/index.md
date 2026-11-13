@@ -36,6 +36,7 @@
 - [05   Icade E2A   Análisis De Servicios Financieros   Sessión 5](./02_presentaciones/05 - ICADE E2A - Análisis de Servicios Financieros - Sessión 5.pdf)
 - [06   E2Ba Cuando Un Banco Cae](./02_presentaciones/06 - E2BA_Cuando_un_banco_cae.pdf)
 - [06   Icade E2A   Análisis De Servicios Financieros   Sessión 6   Entidades De Crédito   Camel](./02_presentaciones/06 - ICADE E2A - Análisis de Servicios Financieros - Sessión 6 - Entidades de crédito - CAMEL.pdf)
+- [07   Icade E2A   Análisis De Servicios Financieros   Sessión 7   Bitcoin](./02_presentaciones/07 - ICADE E2A - Análisis de Servicios Financieros - Sessión 7 - Bitcoin.pdf)
 
 ## Resúmenes y transcripciones
 - [03/09/2026 - Sesión 01 E2A 2026](./01_transcripciones/2026_09_03_Sesión_01_E2A_2026.md)
@@ -46,5 +47,7 @@
 - [08/10/2026 - Sesión 06 E2A 2026](./01_transcripciones/2026_10_08_Sesión_06_E2A_2026.md)
 - [15/10/2026 - Sesión 07 E2A 2026](./01_transcripciones/2026_10_15_Sesión_07_E2A_2026.md)
 - [22/10/2026 - Sesión 08 E2A 2026](./01_transcripciones/2026_10_22_Sesión_08_E2A_2026.md)
+- [05/11/2026 - Sesión 09 E2A 2026](./01_transcripciones/2026_11_05_Sesión_09_E2A_2026.md)
+- [12/11/2026 - Sesión 10 E2A 2026](./01_transcripciones/2026_11_12_Sesión_10_E2A_2026.md)
 
 <!-- AUTO-GENERATED: END -->

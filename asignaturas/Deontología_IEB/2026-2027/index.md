@@ -40,6 +40,7 @@
 - [04   Teorías Éticas    Guía De Estudio](./02_presentaciones/04 - Teorías éticas -  Guía de estudio.pdf)
 - [04   Teorías Éticas   Casos Prácticos](./02_presentaciones/04 - Teorías éticas - Casos prácticos.pdf)
 - [04   Teorías Éticas](./02_presentaciones/04 - Teorías éticas.pdf)
+- [05   Deontología Profesional   El Bien Y El Mal](./02_presentaciones/05 - Deontología profesional - El bien y el mal.pdf)
 
 ## Resúmenes y transcripciones
 - [07/09/2026 - Deontología Session 01](./01_transcripciones/2026_09_07_IEB_Deontología_Session_01.md)
@@ -57,5 +58,6 @@
 - [22/10/2026 - Deontología Session 13](./01_transcripciones/2026_10_22_IEB_Deontología_Session_13.md)
 - [26/10/2026 - Deontología Session 14](./01_transcripciones/2026_10_26_IEB_Deontología_Session_14.md)
 - [29/10/2026 - Deontología Session 15](./01_transcripciones/2026_10_29_IEB_Deontología_Session_15.md)
+- [17/11/2026 - Deontología Session 16](./01_transcripciones/2026_11_17_IEB_Deontología_Session_16.md)
 
 <!-- AUTO-GENERATED: END -->

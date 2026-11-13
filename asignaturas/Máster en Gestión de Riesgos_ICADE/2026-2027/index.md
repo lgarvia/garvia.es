@@ -32,5 +32,6 @@ Curso 2026-2027 (MUGRF — ICADE)
 - [05/10/2026 - Mugrf Sesión 01 Obsidian Y Antigravity Inicio](./01_transcripciones/2026_10_05_MUGRF_Sesión_01_Obsidian y Antigravity_Inicio.md)
 - [19/10/2026 - Mugrf Sesión 02 Allianz](./01_transcripciones/2026_10_19_MUGRF_Sesión_02_Allianz.md)
 - [26/10/2026 - Mugrf Sesión 03 Ética01](./01_transcripciones/2026_10_26_MUGRF_Sesión_03_Ética01.md)
+- [06/11/2026 - Mugrf Sesión 04 Ética02 La Persona](./01_transcripciones/2026_11_06_MUGRF_Sesión_04_Ética02_La_Persona.md)
 
 <!-- AUTO-GENERATED: END -->

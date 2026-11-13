@@ -15,7 +15,6 @@ revision_estado_task: TASK_274
 
 > **Actualización 01-nov-2026 · Luis / TASK_274:** estado conciliado con la ficha retrospectiva y su transcripción íntegra; no se modifica contenido docente ni se certifica asistencia, duración completa o aprendizaje.
 
-
 ## Risk-Free Asset, Capital Allocation Line and Sharpe Ratio
 
 **Date:** October 28, 2026  
