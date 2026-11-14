@@ -41,6 +41,8 @@
 - [04   Teorías Éticas   Casos Prácticos](./02_presentaciones/04 - Teorías éticas - Casos prácticos.pdf)
 - [04   Teorías Éticas](./02_presentaciones/04 - Teorías éticas.pdf)
 - [05   Deontología Profesional   El Bien Y El Mal](./02_presentaciones/05 - Deontología profesional - El bien y el mal.pdf)
+- [06   Deontología Profesional   La Complejidad](./02_presentaciones/06 - Deontología profesional - La complejidad.pdf)
+- [07   Deontología Profesional   La Empresa](./02_presentaciones/07 - Deontología profesional - La empresa.pdf)
 
 ## Resúmenes y transcripciones
 - [07/09/2026 - Deontología Session 01](./01_transcripciones/2026_09_07_IEB_Deontología_Session_01.md)

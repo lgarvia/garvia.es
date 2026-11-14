@@ -3,12 +3,12 @@
 Listado de asignaturas en curso:
 - [Análisis de Servicios Financieros - ICADE](Análisis_de_Servicios_Financieros_ICADE/2026-2027/)
 - [Deontología - IEB](Deontología_IEB/2026-2027/)
+- [Derecho de los Mercados Financieros - IEB](Derecho_Mercados_Financieros_IEB/2026-2027/)
 - [Financial Markets (Internacional) - ICADE](Mercados_Financieros_ICADE/2026-2027-Internacional/)
 - [Foundations of Finance - NYU](Foundations_of_Finance_NYU/2026-2027/Fall%202026/)
 - [Gestión de Riesgos en la Empresa - ICADE](Máster%20en%20Gestión%20de%20Riesgos_ICADE/2026-2027/)
 
 Listado de asignaturas impartidas y archivadas:
-- [Derecho de los Mercados Financieros - IEB](./Derecho_Mercados_Financieros_IEB/)
 - [Entorno Económico - IEB](./Entorno_Económico_IEB/)
 - [Ética - Auditoría - ICADE](./Ética_MUACCS_ICADE/)
 - [Introducción a la Empresa - IEB](./Introducción_a_la_Empresa_IEB/)
