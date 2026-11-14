@@ -2763,7 +2763,7 @@ Or imagine better than that, imagine that instead of being Miguel, it will be wi
 And a happy meal consist of a toy, fries, soda, and the bar, yes.  
 Do you have the numbers?  
 What you can start doing?  
-like $1 or more.  
+like \$1 or more.  
 But you, if you are in this class in finance, you see this, what you will, what can you do in order to make money?  
 Yeah.  
 You take the Happy Meal, you serve each one of the parts, and what you will be doing is call.  
@@ -2863,8 +2863,8 @@ No matter if it rains or if it...
 Design.  
 You should pay back 200. Make sense? And if you sum your total cash flow.  
 You will have.  
-A freelance of $2.  
-Careful because this is not a freelance because you should work, buying, selling, there is a lot of work and probably $2 for all this work will be too much. But what we have done in this example.  
+A freelance of \$2.  
+Careful because this is not a freelance because you should work, buying, selling, there is a lot of work and probably \$2 for all this work will be too much. But what we have done in this example.  
 Not just arbitrage, but also.  
 going to the bank and asking for money in order to bring a business. Let me call this leverage. We will talk a lot about leverage.  
 We will talk about that a lot about debates. We will talk a lot about that. We will buy the whole course talking about finance. This is just a warm-up regarding a warm-up.  
