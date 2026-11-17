@@ -35,11 +35,12 @@
 - [01   Etica Y Moral   Valores](./02_presentaciones/01 - Etica y moral - Valores.pdf)
 - [02   Etica Y Ley](./02_presentaciones/02 - Etica y ley.pdf)
 - [02   Ética Y Ley   Documento De Estudio](./02_presentaciones/02 - Ética y ley - Documento de estudio.pdf)
+- [03   Deontología Profesional   La Persona](./02_presentaciones/03 - Deontología profesional - La persona.pdf)
 - [03   La Persona   Documento De Estudio](./02_presentaciones/03 - La persona - Documento de estudio.pdf)
 - [03   La Persona](./02_presentaciones/03 - La persona.pdf)
+- [04   Deontología Profesional   Teorías Éticas](./02_presentaciones/04 - Deontología profesional - Teorías éticas.pdf)
 - [04   Teorías Éticas    Guía De Estudio](./02_presentaciones/04 - Teorías éticas -  Guía de estudio.pdf)
 - [04   Teorías Éticas   Casos Prácticos](./02_presentaciones/04 - Teorías éticas - Casos prácticos.pdf)
-- [04   Teorías Éticas](./02_presentaciones/04 - Teorías éticas.pdf)
 - [05   Deontología Profesional   El Bien Y El Mal](./02_presentaciones/05 - Deontología profesional - El bien y el mal.pdf)
 - [06   Deontología Profesional   La Complejidad](./02_presentaciones/06 - Deontología profesional - La complejidad.pdf)
 - [07   Deontología Profesional   La Empresa](./02_presentaciones/07 - Deontología profesional - La empresa.pdf)
@@ -60,6 +61,7 @@
 - [22/10/2026 - Deontología Session 13](./01_transcripciones/2026_10_22_IEB_Deontología_Session_13.md)
 - [26/10/2026 - Deontología Session 14](./01_transcripciones/2026_10_26_IEB_Deontología_Session_14.md)
 - [29/10/2026 - Deontología Session 15](./01_transcripciones/2026_10_29_IEB_Deontología_Session_15.md)
+- [16/11/2026 - Deontología Session 17](./01_transcripciones/2026_11_16_IEB_Deontología_Session_17.md)
 - [17/11/2026 - Deontología Session 16](./01_transcripciones/2026_11_17_IEB_Deontología_Session_16.md)
 
 <!-- AUTO-GENERATED: END -->

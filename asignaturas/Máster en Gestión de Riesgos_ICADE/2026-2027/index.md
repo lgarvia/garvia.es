@@ -27,11 +27,20 @@ Curso 2026-2027 (MUGRF — ICADE)
 
 ## Presentaciones
 - [01   Sesión 1   Introducción](./02_presentaciones/01 - Sesión 1 - Introducción.pdf)
+- [02   Sesión 2   La Persona](./02_presentaciones/02 - Sesión 2 - La persona.pdf)
+- [03   La Parábola Del Sadhu](./02_presentaciones/03 - La parábola del Sadhu.pdf)
+- [03   Sesión 3   Teorías Éticas](./02_presentaciones/03 - Sesión 3 - Teorías éticas.pdf)
+- [04   Gowex Gothamcity](./02_presentaciones/04 - Gowex-GothamCity.pdf)
+- [04   Hecho Relevante Gowex](./02_presentaciones/04 - Hecho relevante GOWEX.pdf)
+- [04   Madoff Criminal Complaint](./02_presentaciones/04 - madoff-criminal-complaint.pdf)
+- [04   Madoff Sec Complaint](./02_presentaciones/04 - madoff-sec-complaint.pdf)
+- [04   Sesión 4   El Bien Y El Mal](./02_presentaciones/04 - Sesión 4 - El bien y el mal.pdf)
 
 ## Resúmenes y transcripciones
 - [05/10/2026 - Mugrf Sesión 01 Obsidian Y Antigravity Inicio](./01_transcripciones/2026_10_05_MUGRF_Sesión_01_Obsidian y Antigravity_Inicio.md)
 - [19/10/2026 - Mugrf Sesión 02 Allianz](./01_transcripciones/2026_10_19_MUGRF_Sesión_02_Allianz.md)
 - [26/10/2026 - Mugrf Sesión 03 Ética01](./01_transcripciones/2026_10_26_MUGRF_Sesión_03_Ética01.md)
 - [06/11/2026 - Mugrf Sesión 04 Ética02 La Persona](./01_transcripciones/2026_11_06_MUGRF_Sesión_04_Ética02_La_Persona.md)
+- [16/11/2026 - Mugrf Sesión 05 Valoración Nvidia](./01_transcripciones/2026_11_16_MUGRF_Sesión_05_Valoración_Nvidia.md)
 
 <!-- AUTO-GENERATED: END -->

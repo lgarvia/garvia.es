@@ -31,10 +31,10 @@
 - [03   Icade International   Financial Markets   2026   Lesson 2   Monetary Policy](./02_presentaciones/03 - ICADE International - Financial markets - 2026 - Lesson 2 - Monetary Policy.pdf)
 - [04   Icade International   Financial Markets   2026   Lesson 3   Exercises And Solutions](./02_presentaciones/04 - ICADE International - Financial markets - 2026 - Lesson 3 - Exercises and Solutions.pdf)
 - [04   Icade International   Financial Markets   2026   Lesson 3   Interest Rate Risk](./02_presentaciones/04 - ICADE International - Financial markets - 2026 - Lesson 3 - Interest rate risk.pdf)
-- [05   Icade   Financial Markets   2026   Lesson 4   Credit Institutions](./02_presentaciones/05 - ICADE - Financial markets - 2026 - Lesson 4 - Credit institutions.pdf)
+- [05   Icade International   Financial Markets   2026   Lesson 4   Credit Institutions](./02_presentaciones/05 - ICADE International - Financial markets - 2026 - Lesson 4 - Credit institutions.pdf)
 - [06   Icade International   Financial Markets   2026   Lesson 5   Other Financial Institutions](./02_presentaciones/06 - ICADE International - Financial markets - 2026 - Lesson 5 - Other Financial Institutions.pdf)
-- [06   Midterm Exercise 2026](./02_presentaciones/06 - Midterm Exercise 2026.pdf)
 - [07   Icade International   Financial Markets   2026   Lesson 6   Fixed Income Markets](./02_presentaciones/07 - ICADE International - Financial markets - 2026 - Lesson 6 - Fixed income markets.pdf)
+- [08   Icade International   Financial Markets   2026   Lesson 7   Equity Markets](./02_presentaciones/08 - ICADE International - Financial markets - 2026 - Lesson 7 - Equity markets.pdf)
 
 ## Resúmenes y transcripciones
 - [07/09/2026 - Financial Markets Session 01 Recap](./01_transcripciones/2026_09_07_Financial_Markets_Session_01_Recap.md)
@@ -50,5 +50,6 @@
 - [28/10/2026 - Financial Markets Session 11 Recap](./01_transcripciones/2026_10_28_Financial_Markets_Session_11_Recap.md)
 - [04/11/2026 - Financial Markets Session 12 Recap](./01_transcripciones/2026_11_04_Financial_Markets_Session_12_Recap.md)
 - [11/11/2026 - Financial Markets Session 13 Recap](./01_transcripciones/2026_11_11_Financial_Markets_Session_13_Recap.md)
+- [16/11/2026 - Financial Markets Session 14 Recap](./01_transcripciones/2026_11_16_Financial_Markets_Session_14_Recap.md)
 
 <!-- AUTO-GENERATED: END -->

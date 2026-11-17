@@ -19,5 +19,6 @@ _Pendiente de enlace_
 
 ## Resúmenes y transcripciones
 - [16/11/2026 - Sesión 1 Introducción Al Sistema Financiero 1](./01_transcripciones/2026_11_16_IEB_Sesión_1_Introducción al sistema financiero 1.md)
+- [16/11/2026 - Sesión 1 Introducción Al Sistema Financiero](./01_transcripciones/2026_11_16_IEB_Sesión_1_Introducción al sistema financiero.md)
 
 <!-- AUTO-GENERATED: END -->
