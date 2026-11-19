@@ -1,775 +1,555 @@
 ---
-titulo: "IEB – Deontología Profesional – Sesión 15: Crisis, responsabilidad y pararse a pensar"
-fecha: 2026-10-29
+titulo: "IEB – Deontología Profesional – Sesión 16: Del examen al bien y el mal: autonomía, hábitos y delito"
+fecha: 2026-11-12
 curso: "Deontología Profesional (Fall 2026)"
-sesion: 15
+sesion: 16
 asignatura: Deontología Profesional
 institucion: IEB
 tipo: sesion
 estado: preparado
 ---
-
 # IEB – Deontología Profesional
 
-## Sesión 15 — Crisis, responsabilidad y pararse a pensar
+## Sesión 16 — Del examen al bien y el mal: autonomía, hábitos y delito
 
-## 1. Una sesión excepcional
+## 1. Una sesión de transición
 
-La sesión estaba inicialmente prevista para realizar el **primer examen parcial**.
+La sesión tuvo dos grandes partes.
 
-Sin embargo, los problemas de movilidad derivados de la huelga de Cercanías impedían garantizar que todos los alumnos pudieran llegar en condiciones similares.
+La primera estuvo dedicada a revisar el parcial y utilizarlo como herramienta para recuperar las ideas esenciales del curso.
 
-Por este motivo:
+La segunda abrió un nuevo bloque:
 
-> **el examen fue aplazado.**
+# **el bien y el mal**
 
-La situación permitió dedicar la sesión a dos cuestiones:
+El hilo conductor entre ambas fue la responsabilidad personal.
 
-1. El accidente ferroviario ocurrido el día anterior.
-    
-2. Una reflexión sobre la idea central de toda la asignatura:
-    
-
-# **ética = pararse a pensar**
+> **Hacerse mayor significa ganar autonomía y aprender a responder por las propias decisiones.**
 
 ---
 
-# 2. Un accidente real como problema deontológico
+## 2. Madurez y autonomía
 
-La primera parte de la clase se dedicó a analizar el accidente ferroviario.
+Se partió de una distinción entre:
 
-No con el objetivo de realizar una investigación técnica definitiva —muchos hechos estaban todavía por aclarar— sino para aplicar en tiempo real herramientas utilizadas durante todo el curso.
-
-La primera fue fundamental:
-
-# **hechos ≠ opiniones**
-
-Ante un acontecimiento grave aparecen inmediatamente:
-
-- noticias;
+- mayoría de edad jurídica;
     
-- imágenes;
-    
-- testimonios;
-    
-- filtraciones;
-    
-- explicaciones;
-    
-- opiniones políticas;
-    
-- rumores;
-    
-- emociones.
+- madurez personal.
     
 
-El primer ejercicio consiste en preguntar:
+Cumplir 18 años produce consecuencias jurídicas claras.
 
-> **¿Qué sabemos realmente?**
+Pero la madurez no aparece automáticamente el día del cumpleaños.
 
----
+Madurar implica progresivamente:
 
-# 3. Incertidumbre y ruido
-
-Una crisis produce una enorme demanda de información.
-
-Queremos saber:
-
-- qué ocurrió;
+- resolver problemas propios;
     
-- por qué;
+- anticiparse;
     
-- quién tomó cada decisión;
+- comunicarse;
     
-- quién es responsable.
+- asumir errores;
+    
+- controlar impulsos;
+    
+- aceptar consecuencias.
     
 
-Pero precisamente en las primeras horas es cuando existe:
+La universidad representa también ese tránsito:
 
-> **más incertidumbre y menos información consolidada.**
-
-Esto genera un problema:
-
-**emoción + exceso de información → ruido**
-
-Y el ruido dificulta pensar.
-
-Por eso se insistió en distinguir continuamente entre:
-
-- datos disponibles;
-    
-- interpretaciones;
-    
-- hipótesis;
-    
-- opiniones.
-    
+> **menos tutela y más autonomía.**
 
 ---
 
-# 4. Tres planos diferentes
+## 3. La nota no es el objetivo final
 
-El accidente permitió distinguir tres planos que pueden coexistir:
+El examen importa y la calificación importa.
 
-### Plano ético
+Pero se insistió en que la finalidad de la asignatura va más allá de:
 
-> ¿Qué debemos hacer ahora?
+> **“¿Cuántos puntos he sacado?”**
 
-### Plano legal
-
-> ¿Qué obligaciones existían y quién tenía competencia o responsabilidad jurídica?
-
-### Plano político
-
-> ¿Qué responsabilidades públicas pueden derivarse posteriormente?
-
-Los tres planos pueden estar relacionados.
-
-Pero:
-
-> **no son lo mismo.**
-
-Confundirlos dificulta analizar correctamente el problema.
-
----
-
-# 5. En una emergencia, primero las personas
-
-Desde el punto de vista ético apareció inmediatamente el principio que atraviesa toda la asignatura:
-
-# **cuidado**
-
-En las primeras horas de una emergencia la prioridad debe ser:
-
-1. atender a las víctimas;
-    
-2. rescatar;
-    
-3. asistir a familiares;
-    
-4. coordinar recursos;
-    
-5. proporcionar información fiable.
-    
-
-Solo después adquiere protagonismo otra pregunta:
-
-> **¿qué ocurrió y quién debe responder por ello?**
-
-La búsqueda de responsabilidades es necesaria.
-
-Pero el orden importa.
-
-> **Primero cuidar. Después comprender. Después exigir responsabilidades.**
-
----
-
-# 6. Responsabilidad y gestión de crisis
-
-Una emergencia requiere también:
-
-- coordinación;
-    
-- mando;
-    
-- procedimientos;
-    
-- capacidad de decisión.
-    
-
-En una situación así no basta con que muchas personas quieran ayudar.
-
-Es necesario saber:
-
-- quién coordina;
-    
-- quién decide;
-    
-- qué responsabilidad tiene cada institución;
-    
-- cómo circula la información.
-    
-
-Esto conecta directamente con la deontología profesional:
-
-> **tener una responsabilidad implica estar preparado para ejercerla precisamente cuando la situación se complica.**
-
----
-
-# 7. Tecnología y seguridad
-
-Durante la sesión se comentaron diferentes sistemas ferroviarios y los mecanismos de seguridad que intervienen cuando aparece una incidencia.
-
-La discusión permitió recordar una idea importante:
-
-> que un sistema sea antiguo no demuestra por sí mismo que sea inseguro.
-
-Hay que separar:
-
-- antigüedad;
-    
-- funcionamiento;
-    
-- mantenimiento;
-    
-- capacidad;
-    
-- protocolos;
-    
-- decisiones humanas.
-    
-
-El análisis correcto requiere datos antes de llegar a conclusiones.
-
----
-
-# 8. Velocidad y riesgo
-
-También se utilizó un principio físico sencillo:
-
-[  
-E_k=\frac{1}{2}mv^2  
-]
-
-La energía cinética depende del cuadrado de la velocidad.
-
-Por tanto:
-
-> **aumentar la velocidad aumenta el riesgo de manera no lineal.**
-
-Esto explica por qué los sistemas de alta velocidad requieren:
-
-- mayores distancias de frenado;
-    
-- sistemas automáticos;
-    
-- procedimientos estrictos;
-    
-- coordinación precisa.
-    
-
-Pero la explicación de un accidente concreto exige conocer primero todos los hechos.
-
----
-
-# 9. Sistemas más utilizados, sistemas más exigidos
-
-La clase planteó además una pregunta relevante:
-
-> **¿qué ocurre cuando una infraestructura soporta mucha más utilización que años atrás?**
-
-Mayor utilización puede implicar:
-
-- más tráfico;
-    
-- más frecuencia;
-    
-- menor margen operativo;
-    
-- mayor necesidad de mantenimiento;
-    
-- mayor complejidad.
-    
-
-Pero nuevamente:
-
-> **una hipótesis razonable no equivale todavía a una conclusión.**
-
-Esta distinción es exactamente la misma que utilizamos en ética:
-
-**hecho → interpretación → juicio**
-
----
-
-# 10. Del accidente a la asignatura
-
-Después del descanso, el accidente quedó en segundo plano.
-
-Pero en realidad había servido para introducir perfectamente la segunda parte de la clase.
-
-Porque ante una noticia así aparecen:
-
-- emociones;
-    
-- convicciones;
-    
-- impulsos;
-    
-- información;
-    
-- política;
-    
-- etiquetas.
-    
-
-Y la pregunta fundamental vuelve a ser:
-
-# **¿somos capaces de detenernos antes de reaccionar?**
-
----
-
-# 11. ¿Qué es la ética?
-
-Se volvió a una pregunta aparentemente elemental:
-
-> **¿Qué es la ética?**
-
-Aparecieron definiciones técnicas.
-
-Pero la definición práctica que interesa especialmente en esta asignatura es mucho más sencilla:
-
-# **pararse a pensar**
-
-No significa necesariamente:
-
-> “pensar mucho”.
-
-Ni siquiera garantiza siempre:
-
-> “pensar correctamente”.
-
-El primer paso es simplemente:
-
-> **interrumpir el automático.**
-
----
-
-# 12. Convicción no es ética
-
-Durante la sesión apareció repetidamente la palabra:
-
-> **convicción**
-
-Pero estar convencido de algo no significa que hayamos reflexionado correctamente.
-
-Podemos tener una convicción:
-
-- heredada;
-    
-- impulsiva;
-    
-- ideológica;
-    
-- social;
-    
-- equivocada.
-    
-
-Por eso el proceso importante no es únicamente:
-
-> **tener una convicción**
-
-sino:
-
-> **cómo hemos llegado hasta ella.**
-
-La ética introduce reflexión entre impulso y decisión.
-
----
-
-# 13. Una posible definición
-
-Durante la discusión apareció una formulación especialmente útil:
-
-> **La ética es un proceso de pensamiento individual para discernir sobre el bien.**
-
-Esto incorpora tres elementos:
-
-### Proceso
-
-No es una respuesta automática.
-
-### Individual
-
-La decisión ética pertenece finalmente a la persona.
-
-### Discernimiento
-
-Hay que distinguir, comparar y decidir.
-
----
-
-# 14. Pensar antes de hablar
-
-La propia dinámica del aula permitió observar algo cotidiano.
-
-Muchas veces:
-
-> **hablamos mientras todavía estamos construyendo lo que pensamos.**
-
-Eso no es necesariamente malo.
-
-El lenguaje también permite pensar.
-
-Pero existe una diferencia entre:
-
-- pensar mientras hablamos;
-    
-- reaccionar sin haber pensado.
-    
-
-Por eso una práctica aparentemente sencilla puede resultar muy poderosa:
-
-> **detenerse unos segundos antes de responder.**
-
----
-
-# 15. El lenguaje comparte pensamiento
-
-Se recuperó otra idea trabajada anteriormente:
-
-# **el lenguaje es una forma de compartir pensamiento.**
-
-Cuando alguien piensa en voz alta:
-
-1. formula una idea;
-    
-2. otra persona la escucha;
-    
-3. la interpreta;
-    
-4. responde;
-    
-5. el pensamiento inicial puede cambiar.
-    
-
-Por eso conversar puede ayudarnos a pensar.
-
-Y por eso también importa:
-
-- escuchar;
-    
-- no interrumpir;
-    
-- comprender antes de responder.
-    
-
----
-
-# 16. ¿Qué nos impide pensar?
-
-La siguiente pregunta fue especialmente importante:
-
-> **Si ética es pararse a pensar, ¿qué cosas nos impiden hacerlo?**
-
-Aparecieron varios factores.
-
-### 1. Impulsos
-
-Reaccionamos antes de reflexionar.
-
-### 2. Ley
-
-Podemos sustituir el razonamiento por:
-
-> “Es legal, luego está bien.”
-
-### 3. Hábitos
-
-Repetimos una conducta porque siempre la hemos realizado.
-
-### 4. Tecnología
-
-La atención queda capturada continuamente.
-
-### 5. Grupo social
-
-Actuamos para:
-
-- encajar;
-    
-- recibir aprobación;
-    
-- evitar quedar fuera.
-    
-
-### 6. Ruido
-
-Demasiada información impide distinguir lo relevante.
-
----
-
-# 17. La ley puede convertirse en piloto automático
-
-La ley es necesaria.
-
-Pero puede utilizarse también como una forma de evitar el pensamiento.
-
-Ejemplo:
-
-> **“Es legal, por tanto puedo hacerlo.”**
-
-La asignatura lleva insistiendo desde el comienzo:
-
-# **legal ≠ ético**
-
-Que una conducta:
-
-- esté permitida;
-    
-- no tenga sanción;
-    
-- sea habitual;
-    
-
-no responde todavía a la pregunta:
-
-> **¿está bien?**
-
----
-
-# 18. Educación frente a simple regulación
-
-Esto condujo a una reflexión más amplia.
-
-Una sociedad puede intentar resolver todos sus problemas mediante:
-
-- normas;
-    
-- prohibiciones;
-    
-- sanciones.
-    
-
-Pero existe otra vía:
-
-# **educación**
-
-Educar no consiste únicamente en decir a una persona qué debe pensar.
-
-Consiste también en ayudarla a desarrollar:
+El objetivo es desarrollar:
 
 - criterio;
     
-- autonomía;
+- razonamiento;
     
 - responsabilidad;
     
-- capacidad para controlar impulsos.
+- capacidad de decidir;
+    
+- profesionalidad.
     
 
-El objetivo sería formar adultos capaces de:
+Una preocupación exclusivamente centrada en la nota puede convertirse en una forma muy elemental de utilitarismo:
 
-> **pensar antes de necesitar que alguien les prohíba algo.**
+> **solo importa el resultado.**
 
 ---
 
-# 19. Hábitos
+## 4. Repaso del parcial: precio y valor
 
-Otro elemento que puede alejarnos del pensamiento activo es el hábito.
+Se recuperó una distinción trabajada desde el comienzo:
 
-Un hábito tiene una enorme ventaja:
+# **precio ≠ valor**
 
-> **nos evita tener que decidir constantemente.**
+En el marco utilizado en clase:
 
-Pero precisamente por ello puede convertirse también en un problema.
-
-Una conducta repetida puede acabar ejecutándose:
-
-- sin reflexión;
+- **precio**: referencia objetiva;
     
-- automáticamente;
-    
-- incluso cuando empieza a perjudicarnos.
+- **valor**: apreciación subjetiva.
     
 
-El hábito deja entonces de servirnos.
+Esto lleva a una pregunta más profunda:
 
-Y nosotros empezamos a servir al hábito.
+> **¿Todo tiene precio?**
+
+La respuesta podía ser afirmativa o negativa siempre que estuviera correctamente razonada.
+
+Aquí apareció de nuevo la **dignidad**.
+
+Una formulación trabajada fue:
+
+> **las cosas tienen precio; las personas tienen dignidad.**
+
+Pero incluso esta frase exige pensar y matizar qué significa realmente.
 
 ---
 
-# 20. Tecnología y atención
+## 5. Las teorías éticas
 
-Los móviles y los juegos utilizados durante la propia sesión sirvieron como ejemplo vivo.
+Una de las preguntas centrales del examen pedía reconocer las principales teorías estudiadas.
 
-La cuestión no es:
+### Deber racional — Kant
 
-> **tecnología sí o tecnología no.**
+Se centra fundamentalmente en:
 
-La cuestión es:
+> **la acción**
 
-> **¿soy capaz de decidir cuándo utilizarla y cuándo detenerla?**
+¿Está bien o mal independientemente de las consecuencias?
 
-El problema empieza cuando una conducta interfiere de forma significativa con:
+### Utilitarismo
 
-- estudio;
+Se centra en:
+
+> **las consecuencias**
+
+¿Qué alternativa produce mejores resultados?
+
+### Virtudes y roles sociales
+
+Pregunta:
+
+> **¿qué cualidades exige el papel que desempeño?**
+
+No esperamos exactamente lo mismo de:
+
+- un ciudadano;
     
-- trabajo;
+- un juez;
     
-- relaciones;
+- un médico;
     
-- obligaciones;
-    
-- vida cotidiana.
+- un directivo.
     
 
-Ahí el hábito puede convertirse en dependencia.
+### Ética del diálogo
+
+Pone especial atención en:
+
+> **las personas afectadas por la decisión y su participación.**
+
+Y, como perspectiva transversal durante todo el curso:
+
+### Ética del cuidado
+
+> **poner a la persona en el centro.**
 
 ---
 
-# 21. El componente social
+## 6. Universalidad de los valores
 
-También podemos dejar de pensar porque queremos pertenecer al grupo.
+También se revisó una cuestión importante:
 
-Podemos:
+> **¿son universales los valores?**
 
-- hacer una broma;
-    
-- seguir una moda;
-    
-- asumir una opinión;
-    
-- adoptar una conducta;
-    
+El deber racional tiene una fuerte vocación de universalidad:
 
-simplemente porque:
+> si una acción está mal, debería estar mal con independencia de quién la realice.
 
-> **los demás lo hacen.**
+La ética del diálogo, en cambio, puede producir acuerdos diferentes según:
 
-Las redes sociales amplifican este fenómeno mediante:
-
-- likes;
+- participantes;
     
-- reputación;
+- circunstancias;
     
-- visibilidad;
-    
-- comparación.
+- contexto.
     
 
-La pregunta ética vuelve a ser individual:
-
-> **¿lo hago porque realmente lo considero correcto o porque estoy siguiendo al grupo?**
+Por tanto, una de las claves consiste en no aplicar automáticamente a una teoría características que corresponden a otra.
 
 ---
 
-# 22. Pensamos incluso cuando “no pensamos”
+## 7. Ética y ley
 
-En sentido estricto, nuestro cerebro no deja de procesar información.
+Otra pregunta importante recuperó una de las grandes distinciones del curso:
 
-Pero existe una diferencia entre:
+# **ética ≠ ley**
 
-- reacción;
+### Ética
+
+- individual;
     
-- impulso;
+- reflexiva;
     
-- pensamiento automático;
+- vinculada al criterio personal.
     
 
-y:
+### Ley
 
-# **pensamiento reflexivo**
+- general;
+    
+- institucional;
+    
+- obligatoria;
+    
+- respaldada por mecanismos de coerción.
+    
 
-La ética intenta crear un pequeño espacio entre:
+La diferencia puede resumirse así:
 
-> **estímulo → respuesta**
-
-para convertirlo en:
-
-> **estímulo → reflexión → decisión → responsabilidad**
+> **La ley pregunta qué está jurídicamente permitido u obligado.  
+> La ética pregunta qué debemos hacer.**
 
 ---
 
-# 23. Pararse a pensar… para intentar hacerlo bien
+## 8. Algunos conceptos jurídicos repasados
 
-La sesión terminó añadiendo una precisión importante.
+Se revisaron también dos cuestiones concretas.
 
-No basta con:
+### Reglamento europeo
 
-> **pararse a pensar.**
+Establece obligaciones directamente aplicables.
 
-Podemos pensar mucho y acabar tomando una mala decisión.
+### Directiva europea
 
-La aspiración ética sería:
+Marca un objetivo que los distintos Estados deben alcanzar teniendo en cuenta sus respectivos puntos de partida.
 
-# **pararse a pensar e intentar hacer las cosas bien.**
+También se recordó:
 
-No garantiza acertar.
-
-Pero cambia completamente nuestra relación con la decisión.
-
-Si después nos equivocamos:
-
-- podemos reconocerlo;
-    
-- aprender;
-    
-- corregir.
-    
+> **El desconocimiento de la ley no exime de su cumplimiento.**
 
 ---
 
-# 24. Las cinco ideas fundamentales
+# 9. Nuevo bloque: el bien y el mal
 
-1. **Ante una crisis hay que distinguir hechos, opiniones e hipótesis.**
-    
-2. **La prioridad ética inicial es el cuidado de las personas; la investigación de responsabilidades viene después.**
-    
-3. **Tener una convicción no sustituye el proceso de reflexión que conduce hasta ella.**
-    
-4. **Ley, hábitos, tecnología, impulsos y presión social pueden convertirse en sustitutos del pensamiento.**
-    
-5. **La ética comienza creando un espacio entre el impulso y la acción: pararse a pensar e intentar hacerlo bien.**
-    
+Después del repaso comenzó el nuevo tema.
+
+Una primera conexión fue inmediata con algo ya estudiado:
+
+# **los hábitos**
+
+Los hábitos pueden orientarnos hacia conductas positivas o negativas.
+
+### Hábito positivo
+
+# **Virtud**
+
+### Hábito negativo
+
+# **Vicio**
+
+La cuestión ética deja entonces de ser únicamente:
+
+> “¿Qué hago hoy?”
+
+y pasa también a ser:
+
+> **“¿En qué tipo de persona me estoy convirtiendo con aquello que hago repetidamente?”**
 
 ---
 
-# 25. Esquema de la sesión
+## 10. Del vicio a la dependencia
+
+El curso continuará estudiando cómo algunos hábitos negativos pueden convertirse en conductas problemáticas o adictivas.
+
+Se anticiparon ejemplos relacionados con:
+
+- drogas;
+    
+- juego;
+    
+- tecnología;
+    
+- conductas repetitivas;
+    
+- dificultad para controlar impulsos.
+    
+
+El esquema será:
 
 ```
-ACCIDENTE
-   ↓
-incertidumbre + información + emoción
-   ↓
-HECHOS ≠ OPINIONES
-   ↓
-cuidado → comprensión → responsabilidad
-   ↓
-¿cómo reaccionamos ante la realidad?
-   ↓
-impulso / hábito / ley / tecnología / grupo
-   ↓
-PARARSE
-   ↓
-PENSAR
-   ↓
-DECIDIR
-   ↓
-RESPONDER
+acción
+↓
+repetición
+↓
+hábito
+↓
+virtud / vicio
+↓
+posible pérdida de control
 ```
+
+No todo hábito es una adicción.
+
+La cuestión importante será observar cuándo la conducta empieza a interferir seriamente con la vida de la persona.
 
 ---
 
-## Idea final
+# 11. Del mal ético al delito
 
-Después de varias semanas hablando de:
+Se introdujo después una distinción fundamental.
 
-- valores;
+Hay muchas cosas que pueden estar mal sin constituir un delito.
+
+Por tanto:
+
+# **mal ético ≠ delito**
+
+El delito pertenece al ámbito jurídico.
+
+La definición trabajada en clase fue:
+
+> **Una acción u omisión, dolosa o imprudente, tipificada por la ley.**
+
+Esto introduce tres elementos.
+
+### 1. Acción u omisión
+
+Podemos responder jurídicamente:
+
+- por hacer;
     
-- ley;
-    
-- persona;
-    
-- libertad;
-    
-- responsabilidad;
-    
-- teorías éticas;
-    
-- hábitos;
+- o, en determinados casos, por no hacer.
     
 
-la asignatura puede reducirse provisionalmente a una frase:
+Ejemplo utilizado:
 
-> **Entre lo que ocurre y lo que hacemos debería existir un pequeño espacio para pensar.**
+> **omisión del deber de socorro.**
 
-La ética empieza ahí.
+---
 
-# Transcription
-12 de noviembre de 2026, 10:43a.m.
-1 h 48 min 1 s
-Primera idea, Ignacio.  
+### 2. Dolo o imprudencia
+
+### Dolo
+
+Existe intención.
+
+### Imprudencia
+
+No necesariamente se pretende el resultado, pero la conducta genera responsabilidad por falta de cuidado.
+
+---
+
+### 3. Tipificación
+
+Para que una conducta constituya delito:
+
+> **debe estar prevista como tal por la ley.**
+
+Es una manifestación del principio de legalidad.
+
+---
+
+# 12. El delito como “checklist”
+
+Una idea útil para comprender Derecho Penal fue imaginar cada delito como un:
+
+# **checklist**
+
+No basta con afirmar:
+
+> “Esto parece una estafa.”
+
+Hay que comprobar que concurren los elementos exigidos.
+
+Se utilizó como ejemplo la **estafa**.
+
+Entre los elementos comentados:
+
+- ánimo de lucro;
+    
+- engaño suficiente;
+    
+- error en la víctima;
+    
+- acto de disposición;
+    
+- perjuicio propio o ajeno.
+    
+
+Si faltan elementos relevantes, puede haber otra conducta problemática, pero no necesariamente ese delito concreto.
+
+Esto muestra la diferencia entre:
+
+> **intuición moral y calificación jurídica.**
+
+---
+
+# 13. Delitos especialmente relevantes para la deontología profesional
+
+Se introdujeron varios delitos vinculados con:
+
+- actividad empresarial;
+    
+- administración pública;
+    
+- corrupción.
+    
+
+### Prevaricación
+
+Se presentó como una conducta vinculada a determinadas autoridades o funcionarios que adoptan conscientemente una resolución injusta.
+
+### Cohecho
+
+Relacionada con la corrupción mediante:
+
+- quien ofrece o entrega;
+    
+- quien solicita o recibe.
+    
+
+Una idea importante:
+
+> **la corrupción necesita tanto al corrupto como al corruptor.**
+
+### Alzamiento de bienes
+
+Se explicó como la ocultación o desplazamiento del patrimonio para dificultar que los acreedores puedan cobrar.
+
+---
+
+# 14. Blanqueo de capitales
+
+También se introdujo el blanqueo de capitales como un delito especialmente relevante en un entorno:
+
+- financiero;
+    
+- global;
+    
+- tecnológico.
+    
+
+Se destacó la amplitud de conductas que puede abarcar:
+
+- adquirir;
+    
+- poseer;
+    
+- utilizar;
+    
+- convertir;
+    
+- transmitir;
+    
+- ocultar;
+    
+- encubrir;
+    
+
+bienes vinculados con actividades delictivas.
+
+La idea importante para la asignatura no es memorizar todavía todos sus elementos.
+
+Es comprender que:
+
+> **las formas del delito evolucionan y el Derecho intenta adaptarse a una realidad cada vez más compleja.**
+
+---
+
+# 15. Ética y Derecho vuelven a encontrarse
+
+El nuevo bloque vuelve a conectar con una distinción anterior:
+
+```
+CONDUCTA
+│
+├── puede estar bien
+│
+├── puede estar mal éticamente
+│
+└── puede además constituir delito
+```
+
+No todo lo malo es delito.
+
+Y limitar nuestra conducta exclusivamente a:
+
+> **“¿es ilegal?”**
+
+sería volver a sustituir el pensamiento ético por una norma externa.
+
+---
+
+# 16. Ideas fundamentales
+
+1. **Madurez significa avanzar hacia autonomía y responsabilidad.**
+    
+2. **La nota mide una parte del aprendizaje, no su finalidad.**
+    
+3. **Precio y valor son conceptos diferentes; la dignidad introduce una dimensión especialmente humana.**
+    
+4. **Ética y ley operan en planos distintos.**
+    
+5. **Los hábitos positivos forman virtudes; los negativos pueden convertirse en vicios.**
+    
+6. **No todo comportamiento éticamente incorrecto constituye delito.**
+    
+7. **Un delito exige elementos jurídicos concretos que deben comprobarse.**
+    
+8. **La responsabilidad profesional exige conocer también los límites legales de nuestra conducta.**
+    
+
+---
+
+## Próxima sesión
+
+Se continuará desarrollando:
+
+# **bien y mal**
+
+con especial atención a:
+
+- virtudes;
+    
+- vicios;
+    
+- conductas adictivas;
+    
+- delitos económicos;
+    
+- corrupción;
+    
+- blanqueo de capitales.
+    
+
+El hilo para conservar es:
+
+> **acción → hábito → carácter → responsabilidad**
+
+y, cuando cruzamos determinados límites:
+
+> **ética → ley → delito**
+
+La transición al nuevo bloque aparece explícitamente en la clase: **hábito positivo = virtud; hábito negativo = vicio**, y desde ahí se abre el camino hacia adicciones y delito. Texto pegado(20261116-210332) La definición jurídica trabajada después —acción u omisión, dolo/imprudencia y tipificación— estructura muy bien la segunda mitad. Texto pegado(20261116-210332)
+
+---
+
+# Transcripción
+12 de noviembre de 2026, 10:43a.m. 1 h 48 min 1 s Primera idea, Ignacio.  
 Pelo, Ignacio Vero y tía.  
 Y luego me faltas tú, Ignacio, también, pero te dejo 1 segundo.  
 A veces, o sea, por lo que sea, no habéis podido venir al examen.  
@@ -1054,7 +834,7 @@ Desde un punto de vista legal, es que me da mucha confianza o yo me tomo mucha c
 Tenéis una diapositiva entera y hemos estado 23.  
 ¿Estás hablando de David de Javier?  
 La ley, o sea, los que os lo habéis estudiado, lo sabéis que hay mucha chicha ahí. La sentencia, seguiremos hablando de ello. Ahora, en estos 3 minutos que quedan, esta pregunta entiendo que la entendáis. Diferencia entre reglamento y directiva europea.  
-Que si yo hubiera escrito este examen, si no lo hubiera escrito Claude, esta probablemente no lo hubiera puesto, pero la puso Claude y dije, *****, qué bien está. Me gusta porque es solo una pregunta, lo he explicado claramente en clase y es una pregunta que me permite ver quién ha estudiado a fondo y quién no tanto.  
+Que si yo hubiera escrito este examen, si no lo hubiera escrito Claude, esta probablemente no lo hubiera puesto, pero la puso Claude y dije, ****_, qué bien está. Me gusta porque es solo una pregunta, lo he explicado claramente en clase y es una pregunta que me permite ver quién ha estudiado a fondo y quién no tanto.  
 Reglamento y directiva europea son normas que se dan en Europa.  
 Y en Europa un reglamento es de obligado cumplimiento. Es una ley que tiene que ver.  
 Con los Estados miembros y si hay un camino europeo que a partir de mañana no se puede fumar en ningún establecimiento cerrado, a partir de mañana no se puede fumar en ningún establecimiento cerrado. ¿Me seguís?  
@@ -1385,7 +1165,7 @@ Los cuando hablamos de delitos se explica exactamente en qué consiste el delito
 Salvo en el caso del blanco de capitales.  
 El blanqueo de capitales es un delito que es comodín. ¿Por qué? Porque llega un momento que la tecnología evoluciona a una velocidad que te puedes encontrar narcotraficantes.  
 Que jamás hayan tocado el producto.  
-Me seguís y no tienes capacidad de decir no es que eres un no, *****, yo estoy en mi casa.  
+Me seguís y no tienes capacidad de decir no es que eres un no, **_**, yo estoy en mi casa.  
 Nadie es capaz de vincularme con el delito.  
 Lo que estoy hablando.  
 En un mundo global, el blanqueo de capitales empezó con, *****, si me queda poco tiempo, quedan 4 minutos. El blanqueo de capitales es se dio un paso importante en el Convenio de Palermo. ¿Sabéis dónde se hizo el Convenio de Palermo?  
@@ -1398,18 +1178,18 @@ Por ejemplo, asesinato, el que matar es matar. La acción es solo una. Si tú ve
 No el delito en el artículo 250, o sea, cuál es el te lo busco yo rápido.  
 No.  
 Me quedan 2 minutos, no sé si me dará tiempo a leer el artículo, es broma.  
-Pero no tanto.  
-301.  
-Aquí lo tenéis.  
-What a ****.  
-Contar, contad verbos, contad los verbos que voy a mencionar. Nico, ¿estás atendiendo?  
-Cuenta verbos, el que adquiera, posea, utiliza, utilice, convierta o transmite bienes o transmita bienes, sabiendo que estos tienen su origen en una actividad delictiva cometida por él o por cualquier tercera persona. Sigo con verbos o realice.  
-Cualquier otro acto para ocultar o encubrir su origen ilícito o para ayudar a la persona que haya participado en la infracción o infracciones a eludir las consecuencias.  
-¿Me seguís si tú, por lo que sea, estás cerca?  
-De alguien que a su vez está cerca, de alguien que está cerca del delito, te pueden llevar para adelante por blancos capitales. ¿Esto qué es? Es un delito como digo. Imagínate que tú eres poderoso y eres un delincuente. Yo estoy negociando contigo, tú vas a ir a la cárcel, tú no me vas a decir, pues mato a toda tu familia, yo me te voy a decir.  
-Cuidado porque me llevo a toda tu familia por delante por blancos de capitales y en general, en determinados niveles de la justicia, cuando haces cosas muy gordas, no es un juez el que te metes, sino son varios jueces los que en conjunto me seguís. El delito de blancos de capitales es un delito comodín. El próximo día seguimos hablando de ello.  
-Pero yo creo que esta parte asociada con lo delictivo es bueno. Me quedan 3 clases importantes, 3 clases con temas de las cuales probablemente adelante una sesión, la de la información.  
-El próximo día hablamos del bien y del mal, luego probablemente hablemos de la información y luego hablemos de que la vida es más compleja. ¿Qué quiere decir eso? De complejidad, que no podemos simplificarlo. No es todo bien o mal. Esa complejidad hace que nos tengamos que parar la fecha de acuerdo, pues ya está.  
-Hola.  
-Five.  
-Bueno.
+Pero no tanto.
+
+1. Aquí lo tenéis.  
+    What a _**_.  
+    Contar, contad verbos, contad los verbos que voy a mencionar. Nico, ¿estás atendiendo?  
+    Cuenta verbos, el que adquiera, posea, utiliza, utilice, convierta o transmite bienes o transmita bienes, sabiendo que estos tienen su origen en una actividad delictiva cometida por él o por cualquier tercera persona. Sigo con verbos o realice.  
+    Cualquier otro acto para ocultar o encubrir su origen ilícito o para ayudar a la persona que haya participado en la infracción o infracciones a eludir las consecuencias.  
+    ¿Me seguís si tú, por lo que sea, estás cerca?  
+    De alguien que a su vez está cerca, de alguien que está cerca del delito, te pueden llevar para adelante por blancos capitales. ¿Esto qué es? Es un delito como digo. Imagínate que tú eres poderoso y eres un delincuente. Yo estoy negociando contigo, tú vas a ir a la cárcel, tú no me vas a decir, pues mato a toda tu familia, yo me te voy a decir.  
+    Cuidado porque me llevo a toda tu familia por delante por blancos de capitales y en general, en determinados niveles de la justicia, cuando haces cosas muy gordas, no es un juez el que te metes, sino son varios jueces los que en conjunto me seguís. El delito de blancos de capitales es un delito comodín. El próximo día seguimos hablando de ello.  
+    Pero yo creo que esta parte asociada con lo delictivo es bueno. Me quedan 3 clases importantes, 3 clases con temas de las cuales probablemente adelante una sesión, la de la información.  
+    El próximo día hablamos del bien y del mal, luego probablemente hablemos de la información y luego hablemos de que la vida es más compleja. ¿Qué quiere decir eso? De complejidad, que no podemos simplificarlo. No es todo bien o mal. Esa complejidad hace que nos tengamos que parar la fecha de acuerdo, pues ya está.  
+    Hola.  
+    Five.  
+    Bueno.

@@ -6,7 +6,10 @@ sesion: 5
 asignatura: Deontología Profesional
 institucion: IEB
 tipo: sesion
-estado: preparado
+estado: impartida
+revision_estado: 2026-11-15
+fuente_estado: transcripcion_fechada_incluida
+task_estado: TASK_351
 ---
 # IEB – Deontología Profesional
 
@@ -638,7 +641,7 @@ y profundizará previsiblemente en:
 * relación entre ética, moral y derecho.
 
 
-# transcripción
+# Transcripción
 21 de septiembre de 2026, 10:37a.m.
 1 h 53 min 10 s
 Vale, resumen.

@@ -61,7 +61,8 @@
 - [22/10/2026 - Deontología Session 13](./01_transcripciones/2026_10_22_IEB_Deontología_Session_13.md)
 - [26/10/2026 - Deontología Session 14](./01_transcripciones/2026_10_26_IEB_Deontología_Session_14.md)
 - [29/10/2026 - Deontología Session 15](./01_transcripciones/2026_10_29_IEB_Deontología_Session_15.md)
+- [12/11/2026 - Deontología Session 16](./01_transcripciones/2026_11_12_IEB_Deontología_Session_16.md)
 - [16/11/2026 - Deontología Session 17](./01_transcripciones/2026_11_16_IEB_Deontología_Session_17.md)
-- [17/11/2026 - Deontología Session 16](./01_transcripciones/2026_11_17_IEB_Deontología_Session_16.md)
+- [19/11/2026 - Deontología Session 19](./01_transcripciones/2026_11_19_IEB_Deontología_Session_19.md)
 
 <!-- AUTO-GENERATED: END -->

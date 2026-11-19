@@ -15,7 +15,6 @@ revision_estado_task: TASK_274
 
 > **Actualización 01-nov-2026 · Luis / TASK_274:** estado conciliado con la ficha retrospectiva y su transcripción íntegra; no se modifica contenido docente ni se certifica asistencia, duración completa o aprendizaje.
 
-
 ## Sesión 15 — Crisis, responsabilidad y pararse a pensar
 
 ## 1. Una sesión excepcional
@@ -232,9 +231,9 @@ El análisis correcto requiere datos antes de llegar a conclusiones.
 
 También se utilizó un principio físico sencillo:
 
-$$
-E_k=\frac{1}{2}mv^2  
-$$
+
+E_k = \frac{1}{2} m v^2
+
 
 La energía cinética depende del cuadrado de la velocidad.
 

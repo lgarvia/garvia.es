@@ -8,6 +8,7 @@ institucion: IEB
 tipo: sesion
 estado: preparado
 ---
+
 # IEB – Deontología Profesional
 
 ## Sesión 17 — Bien y mal, mentira, adicción y responsabilidad

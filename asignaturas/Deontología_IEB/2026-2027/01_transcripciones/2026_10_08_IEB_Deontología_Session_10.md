@@ -6,7 +6,10 @@ sesion: 10
 asignatura: Deontología Profesional
 institucion: IEB
 tipo: sesion
-estado: preparado
+estado: impartida
+revision_estado: 2026-11-15
+fuente_estado: transcripcion_fechada_incluida
+task_estado: TASK_351
 ---
 
 > **Rectificación 09-oct-2026 · TASK_199.** Nota para reutilización docente: el mapa automático/consciente es una simplificación funcional. No convertirlo en diagnóstico anatómico ni regla universal de personalidad por hemisferios; tampoco inferir que las personas con síndrome de Down funcionan en lo límbico y sufren al activar lo frontal. Esa generalización aparece en el diario del 8-oct, no queda científicamente acreditada y no se incorpora como enseñanza validada. La transcripción histórica permanece íntegra. [NICHD](https://www.nichd.nih.gov/health/topics/factsheets/downsyndrome). Registro: [[2026_10_09_Auditoria_360_Trabajo_26sep_09oct_e_Inboxes#12. Correcciones ejecutadas — TASK_199]].

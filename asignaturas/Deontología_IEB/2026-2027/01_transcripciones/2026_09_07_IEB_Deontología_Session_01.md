@@ -6,7 +6,10 @@ sesion: 1
 asignatura: Deontología Profesional
 institucion: IEB
 tipo: sesion
-estado: preparado
+estado: impartida
+revision_estado: 2026-11-15
+fuente_estado: transcripcion_fechada_incluida
+task_estado: TASK_351
 ---
 # IEB – Deontología Profesional
 
@@ -1430,7 +1433,7 @@ Esta primera clase deja, por tanto, una idea fundamental:
 
 > **Deontología Profesional no va únicamente de aprender qué está bien y qué está mal. Va de aprender a detenerse, preguntar, pensar y decidir responsablemente en un mundo en el que cada vez podemos hacer más cosas.**
 
-#  Transcripción
+# Transcripción
 7 de septiembre de 2026, 10:36a.m.
 1 h 55 min 22 s
  Hoy es el primer día que os estoy dando clase. ¿Alguien sabe? Ya estoy, o sea, me grabo solo a mí mismo.  

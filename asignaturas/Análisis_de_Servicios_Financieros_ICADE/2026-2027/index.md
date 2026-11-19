@@ -50,5 +50,6 @@
 - [22/10/2026 - Sesión 08 E2A 2026](./01_transcripciones/2026_10_22_Sesión_08_E2A_2026.md)
 - [05/11/2026 - Sesión 09 E2A 2026](./01_transcripciones/2026_11_05_Sesión_09_E2A_2026.md)
 - [12/11/2026 - Sesión 10 E2A 2026](./01_transcripciones/2026_11_12_Sesión_10_E2A_2026.md)
+- [19/11/2026 - Sesión 11 E2A 2026](./01_transcripciones/2026_11_19_Sesión_11_E2A_2026.md)
 
 <!-- AUTO-GENERATED: END -->
