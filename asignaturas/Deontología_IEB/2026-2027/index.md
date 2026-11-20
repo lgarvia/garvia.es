@@ -42,8 +42,11 @@
 - [04   Teorías Éticas    Guía De Estudio](./02_presentaciones/04 - Teorías éticas -  Guía de estudio.pdf)
 - [04   Teorías Éticas   Casos Prácticos](./02_presentaciones/04 - Teorías éticas - Casos prácticos.pdf)
 - [05   Deontología Profesional   El Bien Y El Mal](./02_presentaciones/05 - Deontología profesional - El bien y el mal.pdf)
+- [05   Tema 5   El Bien Y El Mal   Notas De Estudio](./02_presentaciones/05 - Tema 5 - El bien y el mal - Notas de estudio.pdf)
 - [06   Deontología Profesional   La Complejidad](./02_presentaciones/06 - Deontología profesional - La complejidad.pdf)
 - [07   Deontología Profesional   La Empresa](./02_presentaciones/07 - Deontología profesional - La empresa.pdf)
+- [07   Tema 7   Ética E Información   Notas De Estudio](./02_presentaciones/07 - Tema 7 - Ética e información - Notas de estudio.pdf)
+- [07   Tema 7   Ética Y Empresa   Notas De Estudio](./02_presentaciones/07 - Tema 7 - Ética y empresa - Notas de estudio.pdf)
 
 ## Resúmenes y transcripciones
 - [07/09/2026 - Deontología Session 01](./01_transcripciones/2026_09_07_IEB_Deontología_Session_01.md)

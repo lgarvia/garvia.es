@@ -20,7 +20,10 @@ temas:
   - transicion_becario_a_direccion
   - impacto_ia_y_soft_skills
   - cultura_equipo_riesgos_vs_banca
-estado: preparado
+estado: impartida
+revision_estado: 2026-11-15
+fuente_estado: transcripcion_fechada_incluida
+task_estado: TASK_351
 ---
 
 # MUGRF – Sesión 2: Presentación de Allianz, Gestión de Activos y Riesgos Aseguradores, Programa de Becas y el Impacto de la IA

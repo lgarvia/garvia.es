@@ -1,5 +1,17 @@
 # Apariciones en medios
 
+- **19/11/2026** — Capital Radio · Rocio Arviza · Luis Garvía sobre la salida a bolsa de Anthropic "Lo controlan todo"  
+  📌 [Ver intervención](https://youtu.be/U17oqcudLwQ?si=CDVF_-5RL5FXsfrC)
+
+- **18/11/2026** — LinkedIn Noticias · Miguel Ángel Moreno Ramos · Xi, Trump, Putin y el nuevo equilibrio nuclear  
+  📌 [Ver intervención](https://www.linkedin.com/news/story/xi-trump-putin-y-el-nuevo-equilibrio-nuclear-7795740/)
+
+- **17/11/2026** — Intereconomía · A media sesión · Análisis económico con Luis Garvía: inteligencia artificial, Nvidia y China  
+  📌 [Ver intervención](https://www.intereconomia.com/programas/analisis-economico-con-luis-garvia-inteligencia-artificial-nvidia-y-china-20261117-1245/)
+
+- **17/11/2026** — LinkedIn Noticias · Miguel Ángel Moreno Ramos · El candidato español al BCE suena fuerte: así se ve a De Cos  
+  📌 [Ver intervención](https://www.linkedin.com/news/story/el-candidato-espa%C3%B1ol-al-bce-suena-fuerte-as%C3%AD-se-ve-a-de-cos-7793612/)
+
 - **13/11/2026** — Cuatro · Todo es mentira · Resultados huelga y decreto de vivienda  
   📌 [Ver intervención](https://www.mediasetinfinity.es/programas-tv/todo-es-mentira/2026/episodios/programa-1969-40_020665242/player/)
 

@@ -1,7 +1,19 @@
 # Publicaciones en LinkedIn
 
 <!-- AUTO-GENERATED: START -->
-- **11/11/2026** — NVIDIA - El escándalo es la punta del Icebergb  
+- **19/11/2026** — ¿Estamos locos? El teatro de la salida a bolsa de Anthropic  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_estamos-locos-el-teatro-de-la-salida-a-share-7528948005048209408-OUxz/)
+
+- **18/11/2026** — Yalta 2.0 - APEC - El tablero global se negocia en el Pacífico  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_yalta-20-apec-el-tablero-global-se-negocia-share-7527789045784010752-g8kq/)
+
+- **17/11/2026** — BCE. Hernández de Cos vs. Klass Knot  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_bce-hern%C3%A1ndez-de-cos-vs-klass-knot-espa%C3%B1a-share-7528194897623805953-vJvM/)
+
+- **16/11/2026** — La trampa de la vivienda: años de salario íntegro para comprar un piso  
+  📌 [Ver publicación](https://www.linkedin.com/posts/garvia_la-trampa-de-la-vivienda-a%C3%B1os-de-salario-ugcPost-7523046708050591744-25PG/)
+
+- **11/11/2026** — NVIDIA - El escándalo es la punta del Iceberg  
   📌 [Ver publicación](https://www.linkedin.com/posts/garvia_nvidia-el-esc%C3%A1ndalo-es-la-punta-del-icebergb-share-7526058226396770304-FKIx/)
 
 - **10/11/2026** — La tragedia del salario en España: 30 años de parálisis  

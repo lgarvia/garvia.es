@@ -1,4 +1,6 @@
 ---
+titulo: "MUGRF – Sesión 3: Ética 01 - Introducción, Sócrates y discernimiento moral"
+curso: "Máster Universitario en Gestión de Riesgos Financieros (2026-2027)"
 tipo: clase_academica
 subtipo: sesion_docente
 entidad: ICADE Business School

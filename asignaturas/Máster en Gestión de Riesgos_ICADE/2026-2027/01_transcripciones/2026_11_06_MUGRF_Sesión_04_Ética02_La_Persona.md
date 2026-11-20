@@ -9,7 +9,6 @@ tipo: sesion
 estado: impartida
 rectificado: 2026-11-09
 ---
-
 ---
 
 # MUGRF – Sesión 4
