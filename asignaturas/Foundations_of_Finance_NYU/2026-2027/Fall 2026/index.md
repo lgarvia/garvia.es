@@ -74,5 +74,6 @@
 - [13/11/2026 - Nyu Foundations Of Finance Session 21 Ficha](./01_transcripciones/2026_11_13_NYU_Foundations_of_Finance_Session_21_Ficha.md)
 - [16/11/2026 - Nyu Foundations Of Finance Session 22 Ficha](./01_transcripciones/2026_11_16_NYU_Foundations_of_Finance_Session_22_Ficha.md)
 - [18/11/2026 - Nyu Foundations Of Finance Session 23 Ficha](./01_transcripciones/2026_11_18_NYU_Foundations_of_Finance_Session_23_Ficha.md)
+- [23/11/2026 - Nyu Foundations Of Finance Session 24 Ficha](./01_transcripciones/2026_11_23_NYU_Foundations_of_Finance_Session_24_Ficha.md)
 
 <!-- AUTO-GENERATED: END -->

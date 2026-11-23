@@ -6,7 +6,10 @@ sesion: 11
 asignatura: Foundations of Finance  
 institucion: NYU Madrid  
 tipo: sesion  
-estado: preparado
+estado: impartida
+revision_estado: 2026-11-15
+fuente_estado: transcripcion_fechada_incluida
+task_estado: TASK_351
 ---
 # Foundations of Finance – Session 11
 

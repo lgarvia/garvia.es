@@ -44,5 +44,6 @@ Curso 2026-2027 (MUGRF — ICADE)
 - [06/11/2026 - Mugrf Sesión 04 Ética02 La Persona](./01_transcripciones/2026_11_06_MUGRF_Sesión_04_Ética02_La_Persona.md)
 - [16/11/2026 - Mugrf Sesión 05 Valoración Nvidia](./01_transcripciones/2026_11_16_MUGRF_Sesión_05_Valoración_Nvidia.md)
 - [20/11/2026 - Mugrf Sesión 06 Ética03 Teorías Éticas](./01_transcripciones/2026_11_20_MUGRF_Sesión_06_Ética03_Teorías_Éticas.md)
+- [23/11/2026 - Mugrf Sesión 07 El Bien Y El Mal](./01_transcripciones/2026_11_23_MUGRF_Sesión_07_El bien y el mal.md)
 
 <!-- AUTO-GENERATED: END -->

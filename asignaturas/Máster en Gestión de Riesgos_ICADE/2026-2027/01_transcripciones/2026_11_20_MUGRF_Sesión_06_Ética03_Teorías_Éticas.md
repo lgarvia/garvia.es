@@ -6,7 +6,10 @@ sesion: 6
 asignatura: Ética
 institucion: ICADE
 tipo: sesion
-estado: preparado
+estado: impartida
+revision_estado: 2026-11-22
+fuente_estado: transcripcion_fechada_incluida
+task_estado: TASK_392
 ---
 
 # MUGRF – Sesión 6: Inteligencia artificial, segundo cerebro y responsabilidad colectiva
@@ -1695,3 +1698,40 @@ Y nos sale mal, nos jode. Imaginaos que luego llega otro que lo hace mal y le sa
 Pero el próximo día más y mejor ya está. Qué maravilla, tío, te acompaño. Bueno, se ha ido la tele 1 segundo, no te vayas, que me te acompaño, me voy contigo para allá. ¿Te parece? Porque o sea, tú hasta las 9:00 no tienes. Es que ahora estoy con Carlos.  
 Está Carlos, pues voy a ir y se la chupo a ya no estoy grabando.  
 Espera, *****, es que se hace una cosa aquí que tengo, ya está, no está la bueno.
+
+---
+
+## 🗄️ Data Lake 100% - Transcripciones Complementarias e Incidencias Técnicas de la Sesión
+
+### Anexo 1 — Incidencia Técnica Inicial con Pantalla (STIC Padre Arrupe · 15:42 h)
+
+# Transcripción
+
+**Fecha y hora:** 20/11/2026 15:42:48
+**Archivo original:** `20261120_154137.165+0100_out_Javi Tirado STIC PADRE ARRUPE.m4a`
+
+Venga, gracias. SILENCIO Gracias.
+
+
+---
+
+### Anexo 2 — Demostración Agéntica en Vivo, Pase de Lista a Alumnos y Prompt de Rap (16:33 h)
+
+# Transcripción
+
+**Fecha y hora:** 20/11/2026 16:33:55
+**Archivo original:** `20-11-2026 16.31.m4a`
+
+Estoy grabando y enseñándoles un, dos, tres. Esto yo creo que ya os lo enseñé el otro día, ¿no? Pero os lo quiero enseñar ya dentro de la parte de todo lo que es captura. Estoy en clase y aprovechando que estoy en clase voy a pasar lista. Está Pablo, está José, está Jorge, Miguel... ¿de qué pueblo eras? ¿De Cádiz? No. ¿Miguel gaditano? No. ¿Jerezano? No. Bueno, Miguel de algún lado, Alejandro, Miguel era de Granada, Alejandro, Álvaro, Álvaro, super Álvaro, que se hace el muerto alguna vez, Érico, Lourdes, Jaime, Carlos, Carlos Mexicano, viva México, Güey, David, Diego, Diego, Diego, por supuesto, no he dicho David. Diego, Mario, Enrique Flequillo Cunef, que ha venido ya a clase, hay que celebrarlo, asociado con esto pon algo bonito. ¿Una qué? Sí Con Celia Le tienes que decir a Celia Tú suavizante del pelo Rodrigo y Miguel Rodrigo y Miguel Pues con todo esto además Y lo que te he dicho Bueno, ahí está Estoy haciendo una grabación Pero lo que quiero que vean mis alumnos Es como dentro de la grabación Si te doy alguna orden Podemos usar esta orden como si fuera un prompt y me gustaría tener una poesía bonita de la grabación. Sí, una poesía tipo rap y es del máster de riesgos. Vamos a ver qué podemos hacer.
+
+
+---
+
+### Anexo 3 — Incidencia de Pantalla en Directo y Asistencia de Javi Tirado (18:32 h)
+
+# Transcripción
+
+**Fecha y hora:** 20/11/2026 18:32:00
+**Archivo original:** `20261120_183042.613+0100_out_Javi Tirado STIC PADRE ARRUPE.m4a`
+
+¿Cómo lo llevas, bro? Bien, ¿tú? A ver, mucho curro. Bueno, un poco. ¿Estás con el DBA? Estás con el DBA, pero es que se me ha caído la pantalla y no veo la tele, todo, tío. A oscuras estamos prácticamente. Que tocándonos unos a otros. ¿En serio? A ver, en serio, en serio, a ver, tocándonos, todavía no hemos llegado a ese punto. Pues se ha caído, se me ha caído un tema tecnológico. Vale, ahora me paso. Pásate, por favor. Y los del DBA, les dice Luis García, a Carlos el Alto dile que es que estamos aquí haciendo unas proyecciones de modelos de no sé qué y que es que sin tele no funcionamos vale y si se ponen muy tontos le dices que me coma los huevos vale un abrazo chao chao

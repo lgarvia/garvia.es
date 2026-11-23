@@ -6,7 +6,8 @@ sesion: 21
 asignatura: Foundations of Finance
 institucion: NYU Madrid
 tipo: sesion
-estado: preparado
+estado: impartida
+rectificado: 2026-11-15
 ---
 ---
 
@@ -56,13 +57,13 @@ The main conceptual sequence was:
 $$
 \boxed{
 \text{Risk  
- rightarrow  
+ \rightarrow  
 Beta  
- rightarrow  
+ \rightarrow  
 Required  Return  
- rightarrow  
+ \rightarrow  
 Debt  and  Equity  
- rightarrow  
+ \rightarrow  
 Capital  Structure}
 }
 $$
@@ -94,11 +95,11 @@ Free Cash Flow remains important, particularly as a bridge toward Corporate Fina
 $$
 \boxed{
 \text{Future  Cash  Flows  
- rightarrow  
+ \rightarrow  
 Risk  
- rightarrow  
+ \rightarrow  
 Discount  Rate  
- rightarrow  
+ \rightarrow  
 Present  Value}
 }
 $$
@@ -151,14 +152,14 @@ Risk is often described through:
 
 $$
 \boxed{
-\text{text{Volatility}}
+\text{Volatility}
 }
 $$
 or:
 
 $$
 \boxed{
-\text{text{Variance / Standard Deviation}}
+\text{Variance / Standard Deviation}
 }
 $$
 The investor may gain a lot or lose a lot.
@@ -185,7 +186,7 @@ The common element is:
 
 $$
 \boxed{
-\text{text{Uncertainty}}
+\text{Uncertainty}
 }
 $$
 ---
@@ -276,14 +277,14 @@ Diversification can reduce:
 
 $$
 \boxed{
-\text{text{Idiosyncratic Risk}}
+\text{Idiosyncratic Risk}
 }
 $$
 but not:
 
 $$
 \boxed{
-\text{text{Systematic Risk}}
+\text{Systematic Risk}
 }
 $$
 CAPM therefore focuses on systematic risk.
@@ -350,9 +351,9 @@ This was used to reinforce the idea that:
 $$
 \boxed{
 \text{Information  
- rightarrow  
+ \rightarrow  
 Trading  
- rightarrow  
+ \rightarrow  
 Prices}
 }
 $$
@@ -459,7 +460,7 @@ Large technology and infrastructure projects often require:
 
 $$
 \boxed{
-\text{text{Large Initial Investment}}
+\text{Large Initial Investment}
 }
 $$
 followed by future revenues and cash flows.
@@ -468,9 +469,9 @@ This resembles the capital-budgeting framework studied earlier:
 
 $$
 \text{Initial  CAPEX  
- rightarrow  
+ \rightarrow  
 Future  Revenues  
- rightarrow  
+ \rightarrow  
 Future  Cash  Flows}
 $$
 The economic question remains:
@@ -488,7 +489,7 @@ The second major block of the session introduced:
 
 $$
 \boxed{
-\text{text{Capital Structure}}
+\text{Capital Structure}
 }
 $$
 A company's assets must be financed.
@@ -746,7 +747,7 @@ Thus:
 $$
 \boxed{
 \text{Debt  
- rightarrow  
+ \rightarrow  
 Cheaper  Financing  
 +  
 Greater  Equity  Risk}
@@ -786,7 +787,7 @@ Session 21 showed how apparently different topics fit into one structure.
 
 $$
 \boxed{
-\text{text{Manage an uncertain future}}
+\text{Manage an uncertain future}
 }
 $$
 ### Step 2 — Risk
@@ -822,11 +823,11 @@ Thus:
 $$
 \boxed{
 \text{Risk  
- rightarrow  
+ \rightarrow  
 Required  Return  
- rightarrow  
+ \rightarrow  
 Discount  Rate  
- rightarrow  
+ \rightarrow  
 Present  Value}
 }
 $$
@@ -885,17 +886,17 @@ The key conceptual chain is:
 $$
 \boxed{
 \text{Uncertainty  
- rightarrow  
+ \rightarrow  
 Risk  
- rightarrow  
+ \rightarrow  
 Beta  
- rightarrow  
+ \rightarrow  
 Required  Return  
- rightarrow  
+ \rightarrow  
 Capital  Structure  
- rightarrow  
+ \rightarrow  
 WACC  
- rightarrow  
+ \rightarrow  
 Valuation}
 }
 $$

@@ -6,7 +6,8 @@ sesion: 20
 asignatura: Foundations of Finance
 institucion: NYU Madrid
 tipo: sesion
-estado: preparado
+estado: impartida
+rectificado: 2026-11-15
 ---
 
 ---
@@ -27,7 +28,7 @@ Session 20 introduced the **Efficient Market Hypothesis (EMH)** and connected it
 
 $$
 \boxed{
-\text{text{No Arbitrage}}
+\text{No Arbitrage}
 }
 $$
 The session developed two closely related questions:
@@ -96,7 +97,7 @@ But mistakes generate:
 
 $$
 \boxed{
-\text{text{Learning}}
+\text{Learning}
 }
 $$
 and learning can improve future decisions.
@@ -115,7 +116,7 @@ The answer is:
 
 $$
 \boxed{
-\text{text{Arbitrage}}
+\text{Arbitrage}
 }
 $$
 Market participants identify inconsistencies, trade against them and, through their actions, push prices toward greater efficiency.
@@ -185,7 +186,7 @@ The natural counterpart is:
 
 $$
 \boxed{
-\text{text{Technical Analysis}}
+\text{Technical Analysis}
 }
 $$
 Technical analysis attempts to predict future prices from patterns contained in historical market data.
@@ -247,7 +248,7 @@ Prices would reflect not only historical prices but also:
 
 $$
 \boxed{
-\text{text{All Public Information}}
+\text{All Public Information}
 }
 $$
 Examples include:
@@ -271,7 +272,7 @@ The relevant investment activity here is:
 
 $$
 \boxed{
-\text{text{Fundamental Analysis}}
+\text{Fundamental Analysis}
 }
 $$
 ---
@@ -341,7 +342,7 @@ This is why financial markets regulate:
 
 $$
 \boxed{
-\text{text{Insider Trading}}
+\text{Insider Trading}
 }
 $$
 Trading on material non-public information can be illegal.
@@ -427,7 +428,7 @@ Another possibility is:
 
 $$
 \boxed{
-\text{text{The model is incomplete}}
+\text{The model is incomplete}
 }
 $$
 CAPM is a powerful framework, but it is still a model.
@@ -487,7 +488,7 @@ The first principle introduced was the:
 
 $$
 \boxed{
-\text{text{Law of One Price}}
+\text{Law of One Price}
 }
 $$
 If two securities produce exactly the same future payoffs under the same conditions, they should have the same price today.
@@ -656,7 +657,7 @@ The final exercise introduced an even more powerful no-arbitrage technique:
 
 $$
 \boxed{
-\text{text{Replication}}
+\text{Replication}
 }
 $$
 If a portfolio of existing securities reproduces exactly the future cash flows of another security, both must have the same value today.
@@ -817,7 +818,7 @@ Because both methods are based on exactly the same principle:
 
 $$
 \boxed{
-\text{text{No Arbitrage}}
+\text{No Arbitrage}
 }
 $$
 The coupon bond and the replicating portfolio produce identical future cash flows.
