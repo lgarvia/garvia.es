@@ -67,5 +67,6 @@
 - [12/11/2026 - Deontología Session 16](./01_transcripciones/2026_11_12_IEB_Deontología_Session_16.md)
 - [16/11/2026 - Deontología Session 17](./01_transcripciones/2026_11_16_IEB_Deontología_Session_17.md)
 - [19/11/2026 - Deontología Session 19](./01_transcripciones/2026_11_19_IEB_Deontología_Session_19.md)
+- [23/11/2026 - Deontología Session 20](./01_transcripciones/2026_11_23_IEB_Deontología_Session_20.md)
 
 <!-- AUTO-GENERATED: END -->

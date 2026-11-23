@@ -6,7 +6,10 @@ sesion: 3
 asignatura: Mercados Financieros Internacionales
 institucion: ICADE
 tipo: sesion
-estado: preparado
+estado: impartida
+revision_estado: 2026-11-15
+fuente_estado: transcripcion_fechada_incluida
+task_estado: TASK_351
 ---
 
 # Financial Markets – Session 3: Fixed Income, Bond Pricing & Market Liquidity

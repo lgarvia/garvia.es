@@ -7,7 +7,10 @@ bloque: "Bloque 1 - Sistema Financiero"
 asignatura: Sistema Financiero y Derecho Concursal
 institucion: IEB
 tipo: sesion
-estado: preparado
+estado: impartida
+revision_estado: 2026-11-22
+fuente_estado: transcripcion_fechada_incluida
+task_estado: TASK_392
 ---
 
 # Sesión 2. Supervisión financiera, mercados y herramientas de inteligencia artificial

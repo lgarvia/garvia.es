@@ -6,7 +6,8 @@ sesion: 13
 asignatura: Mercados Financieros Internacionales
 institucion: ICADE
 tipo: sesion
-estado: preparado
+estado: impartida
+rectificado: 2026-11-15
 ---
 ---
 
@@ -344,7 +345,7 @@ If a bank lends money:
 
 $$
 \text{Loan  
- rightarrow  
+ \rightarrow  
 Expected  Repayment}
 $$
 but the borrower fails:
@@ -711,17 +712,17 @@ The simplified loop was:
 
 $$
 \text{AI  Companies  
- rightarrow  
+ \rightarrow  
 Large  CapEx}
 $$
 $$
 \text{CapEx  
- rightarrow  
+ \rightarrow  
 Purchases  of  Chips  and  Infrastructure}
 $$
 $$
 \text{Purchases  
- rightarrow  
+ \rightarrow  
 Supplier  Revenue}
 $$
 The important question is whether the ecosystem ultimately generates enough cash to justify the investment.
@@ -824,14 +825,14 @@ Instead:
 
 $$
 \text{CapEx  
- rightarrow  
+ \rightarrow  
 Asset}
 $$
 and later:
 
 $$
 \text{Asset  
- rightarrow  
+ \rightarrow  
 Depreciation/Amortization}
 $$
 over its useful life.
@@ -934,9 +935,9 @@ This illustrates one of the most useful roles of AI:
 
 $$
 \text{Large  Amount  of  Information  
- rightarrow  
+ \rightarrow  
 AI  Analysis  
- rightarrow  
+ \rightarrow  
 Human  Judgment}
 $$
 But this process creates a new problem.
@@ -985,20 +986,20 @@ A good workflow is:
 
 $$
 \text{Question  
- rightarrow  
+ \rightarrow  
 Initial  Human  Hypothesis  
- rightarrow  
+ \rightarrow  
 AI  Analysis  
- rightarrow  
+ \rightarrow  
 Challenge  
- rightarrow  
+ \rightarrow  
 Revision}
 $$
 rather than:
 
 $$
 \text{Ask  AI  
- rightarrow  
+ \rightarrow  
 Accept  Answer}
 $$
 ---

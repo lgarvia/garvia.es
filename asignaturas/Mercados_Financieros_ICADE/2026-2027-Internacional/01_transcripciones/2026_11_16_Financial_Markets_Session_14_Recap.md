@@ -7,7 +7,10 @@ sesion: 14
 asignatura: Mercados Financieros Internacionales  
 institucion: ICADE  
 tipo: sesion  
-estado: preparado
+estado: impartida
+revision_estado: 2026-11-22
+fuente_estado: transcripcion_fechada_incluida
+task_estado: TASK_392
 
 ---
 

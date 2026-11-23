@@ -1,3 +1,0 @@
-
-
-# Transcripción

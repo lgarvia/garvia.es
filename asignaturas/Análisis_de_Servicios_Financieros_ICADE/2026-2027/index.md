@@ -38,6 +38,7 @@
 - [06   Icade E2A   Análisis De Servicios Financieros   Sessión 6   Entidades De Crédito   Camel](./02_presentaciones/06 - ICADE E2A - Análisis de Servicios Financieros - Sessión 6 - Entidades de crédito - CAMEL.pdf)
 - [07   Icade E2A   Análisis De Servicios Financieros   Sessión 7   Bitcoin](./02_presentaciones/07 - ICADE E2A - Análisis de Servicios Financieros - Sessión 7 - Bitcoin.pdf)
 - [08   Icade E2A   Análisis De Servicios Financieros   Sessión 8   Ethereum](./02_presentaciones/08 - ICADE E2A - Análisis de Servicios Financieros - Sessión 8 - Ethereum.pdf)
+- [09   Icade E2A   Análisis De Servicios Financieros   Sessión 9   Defi](./02_presentaciones/09 - ICADE E2A - Análisis de Servicios Financieros - Sessión 9 - DeFi.pdf)
 
 ## Resúmenes y transcripciones
 - [03/09/2026 - Sesión 01 E2A 2026](./01_transcripciones/2026_09_03_Sesión_01_E2A_2026.md)

@@ -35,6 +35,7 @@
 - [06   Icade International   Financial Markets   2026   Lesson 5   Other Financial Institutions](./02_presentaciones/06 - ICADE International - Financial markets - 2026 - Lesson 5 - Other Financial Institutions.pdf)
 - [07   Icade International   Financial Markets   2026   Lesson 6   Fixed Income Markets](./02_presentaciones/07 - ICADE International - Financial markets - 2026 - Lesson 6 - Fixed income markets.pdf)
 - [08   Icade International   Financial Markets   2026   Lesson 7   Equity Markets](./02_presentaciones/08 - ICADE International - Financial markets - 2026 - Lesson 7 - Equity markets.pdf)
+- [09   Icade International   Financial Markets   2026   Lesson 8   Derivatives](./02_presentaciones/09 - ICADE International - Financial markets - 2026 - Lesson 8 - Derivatives.pdf)
 
 ## Resúmenes y transcripciones
 - [07/09/2026 - Financial Markets Session 01 Recap](./01_transcripciones/2026_09_07_Financial_Markets_Session_01_Recap.md)
@@ -52,5 +53,6 @@
 - [11/11/2026 - Financial Markets Session 13 Recap](./01_transcripciones/2026_11_11_Financial_Markets_Session_13_Recap.md)
 - [16/11/2026 - Financial Markets Session 14 Recap](./01_transcripciones/2026_11_16_Financial_Markets_Session_14_Recap.md)
 - [18/11/2026 - Financial Markets Session 15 Recap](./01_transcripciones/2026_11_18_Financial_Markets_Session_15_Recap.md)
+- [23/11/2026 - Financial Markets Session 16 Recap](./01_transcripciones/2026_11_23_Financial_Markets_Session_16_Recap.md)
 
 <!-- AUTO-GENERATED: END -->

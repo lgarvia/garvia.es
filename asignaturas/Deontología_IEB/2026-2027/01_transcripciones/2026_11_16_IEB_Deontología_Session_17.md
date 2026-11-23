@@ -6,7 +6,10 @@ sesion: 17
 asignatura: Deontología Profesional
 institucion: IEB
 tipo: sesion
-estado: preparado
+estado: impartida
+revision_estado: 2026-11-22
+fuente_estado: transcripcion_fechada_incluida
+task_estado: TASK_392
 ---
 
 # IEB – Deontología Profesional
