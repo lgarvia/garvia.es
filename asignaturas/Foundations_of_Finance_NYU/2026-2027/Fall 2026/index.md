@@ -1,16 +1,21 @@
 # Foundations of Finance — Fall 2026 (NYU Madrid)
 
 ## 📢 Course Progress, Key Dates & Exams
-- **Final Exam Period**: **Wednesday, December 9 – Friday, December 11, 2026**.
-  - **Target Date**: **Wednesday, December 9, 2026** (in class / final period).
+- **Final Exam Sittings**:
+  - 🗓️ **Early Sitting (Convocatoria Adelantada)**: **Friday, December 4, 2026 at 16:00 h (4:00 PM)**.
+    - Specifically scheduled for students with authorized travel / schedule conflicts who requested taking the exam early.
+    - Location: NYU Madrid (Calle del Barquillo, 13).
+  - 🗓️ **Regular Sitting (Convocatoria Ordinaria)**: **Wednesday, December 9, 2026 at 17:00 h (5:00 PM)**.
+    - Regular class slot for all other students.
+    - Location: NYU Madrid (Calle del Barquillo, 13).
   - **Weight**: 45% of the overall course grade.
-  - **Format**: Comprehensive exam covering Asset Pricing, Multi-Factor Models, Market Efficiency, and Derivative Instruments (Options, Futures & Swaps).
+  - **Format**: Comprehensive written exam covering the entire course syllabus: Time Value of Money, Fixed Income Valuation & Duration, Equity Valuation (DDM), Project Valuation (NPV), Portfolio Theory & CAPM, Options (Payoffs, Put-Call Parity, Binomial Option Pricing) and M&A. Formula sheet provided; financial/scientific calculator permitted.
 - **Midterm Exam**: Completed on **October 19, 2026** (solutions reviewed in Session 15).
-- **Current Module — Portfolio Theory & Asset Pricing**:
-  - Modern Portfolio Theory (MPT), Diversification & Risk-Return trade-off.
-  - Efficient Frontier, Optimal Risky Portfolio & Capital Allocation Line (CAL).
-  - Capital Asset Pricing Model (CAPM): Beta vs. Volatility, Security Market Line (SML), and Systematic Risk.
-- **Upcoming Assignments**: Problem Sets 3 & 4.
+- **Recent Sessions & Final Course Roadmap**:
+  - Session 24 (Nov 23): Put-Call Parity, Intrinsic Value & Binomial Option Pricing.
+  - Session 25 (Nov 25): Multi-period Option Pricing & Black-Scholes introduction.
+  - Session 26 (Nov 30): Mergers, Acquisitions & Restructuring (Problem Set 4 due).
+  - Session 27 (Dec 02): Final Review & Practice Exam questions (*Sample Final 1 & 2*).
 
 ## 🧭 Course Structure & Core Blocks
 - **Covered Topics**:

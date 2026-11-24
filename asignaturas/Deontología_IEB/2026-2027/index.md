@@ -2,15 +2,15 @@
 
 ## 📢 Fechas Clave, Parciales y Evaluación
 
-> [!IMPORTANT]
-> **Aviso sobre el Primer Examen Parcial**: 
-> La prueba prevista inicialmente para el 29 de octubre de 2026 fue **aplazada** debido a la huelga e incidencias graves en la red de transportes (Cercanías). La nueva fecha de realización se anunciará en clase y en el tablón oficial.
+- **Segundo Examen Parcial Liberatorio**:
+  - **Fecha**: **Jueves, 26 de noviembre de 2026** (en horario habitual de clase: 10:30 – 12:40 h).
+  - **Materia**: Evaluación global del curso, con **especial peso en los Bloques 5 al 7** impartidos desde el primer parcial (El Bien y el Mal, Complejidad y toma de decisiones, La Empresa y la deontología profesional; casos Gowex y Madoff, impacto de la IA y autonomía moral).
+  - **Enfoque de la prueba**: Razonamiento conceptual, juicio moral fundado y resolución de dilemas éticos reales («el criterio no se delega»).
 
 - **Sistema de Evaluación Liberatoria**:
   - Evaluación continua articulada en **dos exámenes parciales liberatorios**.
-  - Obteniendo una calificación de aprobado (mínimo 5,0) en ambos parciales, el alumno **libera la asignatura y queda exento de realizar el examen final ordinario**.
-- **Materia del Primer Parcial**: Bloques 1 al 4 (Ética y moral / Valores, Ética y Ley, La Persona, y Teorías Éticas).
-- **Enfoque de la prueba**: Razonamiento conceptual, criterio ético fundado y resolución de dilemas y casos prácticos reales (no memorístico).
+  - Obteniendo una calificación media de aprobado (mínimo 5,0) entre ambos parciales, el alumno **libera la asignatura y queda exento de realizar el examen final ordinario**.
+  - *Primer Parcial Liberatorio*: Celebrado el 5 de noviembre de 2026 (Bloques 1 al 4).
 - **Examen Final Ordinario**: Convocatoria fijada por Jefatura de Estudios del IEB para alumnos que no liberen por evaluación continua.
 
 ## 🧭 Estructura del Curso y Evaluación

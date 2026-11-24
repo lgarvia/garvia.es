@@ -1,13 +1,28 @@
-# Curso 2026-2027
+# Sistema Financiero y Derecho Concursal — Curso 2026-2027 (IEB)
 
-## 📢 Avisos
-- Inicio de curso
+## 📢 Fechas Clave, Parciales y Evaluación
 
-## 🧭 Notas del curso
-Material en revisión continua. Algunas transcripciones pueden actualizarse.
+- **Primer Examen Parcial Liberatorio (Bloque 1: Sistema Financiero)**:
+  - **Fecha**: **Miércoles, 2 de diciembre de 2026** (11:40 – 14:30 h, en clase).
+  - **Materia examinable (Bloque 1)**:
+    1. *Supervisión y arquitectura institucional*: Banco de España, BCE, CNMV, DGSFP; objetivos legales de la CNMV según la Ley de los Mercados de Valores.
+    2. *Mercados organizados (BME) vs. mercados no organizados (OTC)*.
+    3. *Empresas de Servicios de Inversión (ESIs)* e *Instituciones de Inversión Colectiva (IICs, SICAVs, fondos)*.
+    4. *Instrumentos financieros*: Renta fija, renta variable y derivados (futuros y opciones).
+    5. *Entidades de crédito*: Negocio bancario, solvencia y ratios prudenciales.
+  - **Sistema liberatorio**: Quienes obtengan calificación igual o superior a 5,0 liberan la materia del Bloque 1.
 
-## 📒 Cuaderno NoteBookLM de la asignatura
-[Enlace al cuaderno NoteBookLM](https://notebook.google.com/notebook/9f0e07f4-c84c-4e40-bed0-225864244ca2)
+- **Bloque 2: Derecho Concursal**:
+  - Comienzo de las sesiones de Concursal inmediatamente tras el primer parcial.
+  - *Segundo Parcial Liberatorio*: Concursal, calificación y resolución (fijado en el calendario de fin de curso / enero 2027).
+
+## 🧭 Enfoque de la Asignatura
+- **Bloque 1: Sistema Financiero**: Cuando el sistema funciona (Mercados, Banca y Seguros).
+- **Bloque 2: Derecho Concursal**: Cuando el sistema falla (Insolvencia actual vs. inminente, preconcurso, órganos del concurso, masa activa/pasiva y calificación).
+
+## 🔗 Enlaces y Recursos
+- 🌐 **Web de la asignatura**: [garvia.es - Concursal y Mercados IEB](https://garvia.es/asignaturas/Derecho_Mercados_Financieros_IEB/2026-2027/)
+- 📒 **Cuaderno NoteBookLM**: [Acceso al cuaderno NoteBookLM](https://notebook.google.com/notebook/9f0e07f4-c84c-4e40-bed0-225864244ca2)
 
 ---
 
