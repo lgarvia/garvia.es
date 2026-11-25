@@ -9,6 +9,7 @@ tipo: sesion
 estado: impartida
 task_estado: TASK_394
 ---
+
 ---
 # Foundations of Finance – Session 24
 

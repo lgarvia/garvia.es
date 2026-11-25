@@ -38,5 +38,6 @@
 - [16/11/2026 - Sesión 1 Introducción Al Sistema Financiero](./01_transcripciones/2026_11_16_IEB_Sesión_1_Introducción al sistema financiero.md)
 - [18/11/2026 - Sesión 2 Bme, Mercados Organizados, Otc Y Supervisores](./01_transcripciones/2026_11_18_IEB_Sesión_2_BME, mercados organizados, OTC y supervisores.md)
 - [23/11/2026 - Sesión 3 Mercados Financieros, Renta Fija, Renta Variable Y Derivados](./01_transcripciones/2026_11_23_IEB_Sesión_3_Mercados financieros, renta fija, renta variable y derivados.md)
+- [25/11/2026 - Sesión 4 Entidades De Crédito](./01_transcripciones/2026_11_25_IEB_Sesión_4_Entidades de crédito.md)
 
 <!-- AUTO-GENERATED: END -->
